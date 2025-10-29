@@ -1,0 +1,1334 @@
+,slug_country,tournament,id,slug_torn
+0,mexico,"Liga MX, Apertura",11621,liga-mx-apertura
+1,mexico,"Liga MX, Clausura",11620,liga-mx-clausura
+2,mexico,"Liga de Expansión MX, Apertura",11611,liga-de-expansion-mx-apertura
+3,mexico,"Liga de Expansión MX, Clausura",11612,liga-de-expansion-mx-clausura
+4,mexico,Copa MX,1598,copa-mx
+5,mexico,Trofeo de Campeon de Campeones,2103,trofeo-de-campeon-de-campeones
+6,mexico,U20 Liga MX,10417,u20-liga-mx
+7,mexico,"Liga MX, Women, Apertura",13593,liga-mx-women-apertura
+8,mexico,"Liga MX, Women, Clausura",13592,liga-mx-women-clausura
+9,mexico,"U23 Liga MX, Apertura",20710,u23-liga-mx-apertura
+10,mexico,Liga Premier Serie A,20870,liga-premier-serie-a
+11,mexico,Liga Premier Serie B,20871,liga-premier-serie-b
+12,mexico,Campeon de Campeones Liga Expansion MX,26927,campeon-de-campeones-liga-expansion-mx
+13,mexico,"Mexico U19 League, Apertura",27969,mexico-u19-league-apertura
+14,mexico,"Mexico U19 League, Clausura",24257,liga-mx-u19
+15,mexico,U21 Liga MX,28306,u21-liga-mx
+16,england,Premier League,17,premier-league
+17,england,Championship,18,championship
+18,england,League One,24,league-one
+19,england,League Two,25,league-two
+20,england,National League,173,national-league
+21,england,FA Cup,19,fa-cup
+22,england,"FA Cup, Qualification",1696,fa-cup-qualification
+23,england,EFL Cup,21,efl-cup
+24,england,Football League Trophy,334,football-league-trophy
+25,england,FA Women's Championship,10553,fa-womens-championship
+26,england,Community Shield,346,community-shield
+27,england,Women's Super League,1044,the-fa-womens-super-league
+28,england,Women's FA Cup,11666,fa-cup-women
+29,england,FA Women's League Cup,11667,fa-womens-league-cup
+30,england,England National League Cup,24029,england-national-league-cup
+31,england,Baller League UK,25492,baller-league-uk
+32,england,FA Youth Cup,24640,fa-youth-cup
+33,spain,LaLiga,8,laliga
+34,spain,LaLiga 2,54,laliga-2
+35,spain,Primera Federación,17073,primera-federacion
+36,spain,Segunda Federación,544,segunda-federacion
+37,spain,Copa del Rey,329,copa-del-rey
+38,spain,Supercopa de España,213,supercopa-de-espana
+39,spain,Liga F Moeve,1127,liga-f
+40,spain,Copa Federación,11618,copa-federacion
+41,spain,Supercopa Femenina,14687,supercopa-femenina
+42,spain,Copa de SM La Reina,11126,copa-de-sm-la-reina
+43,spain,División de Honor Juvenil,23232,division-de-honor-juvenil
+44,spain,Primera Federacion Women,27917,primera-federacion-women
+45,spain,Segunda Federación Femenina,23600,segunda-federacion-femenina
+46,spain,Spain U19 Cup,24619,spain-u19-cup
+47,germany,Bundesliga,35,bundesliga
+48,germany,2. Bundesliga,44,2-bundesliga
+49,germany,3. Liga,491,3-liga
+50,germany,DFB Pokal,217,dfb-pokal
+51,germany,DFL Supercup,799,super-cup
+52,germany,Frauen-Bundesliga,232,frauen-bundesliga
+53,germany,2. Frauen-Bundesliga,2288,2-frauen-bundesliga
+54,germany,"DFB Pokal, Women",686,dfb-pokal-women
+55,germany,Kings League Germany,25874,kings-league-germany
+56,italy,Serie A,23,serie-a
+57,italy,Serie B,53,serie-b
+58,italy,Coppa Italia,328,coppa-italia
+59,italy,Supercoppa Italiana,341,supercoppa-italiana
+60,italy,"Serie C, Girone A",11445,serie-c-girone-a
+61,italy,"Serie C, Girone B",11447,serie-c-girone-b
+62,italy,"Serie C, Girone C",11446,serie-c-girone-c
+63,italy,"Serie C, Playoffs",11452,serie-c-playoffs
+64,italy,"Serie C, Play-out",13579,serie-c-play-out
+65,italy,Coppa Italia Serie C,824,coppa-italia-serie-c
+66,italy,Supercoppa Serie C,884,supercoppa-serie-c
+67,italy,"Serie D, Girone A",1374,serie-d-girone-a
+68,italy,"Serie D, Girone B",1376,serie-d-girone-b
+69,italy,"Serie D, Girone C",1378,serie-d-girone-c
+70,italy,"Serie D, Girone D",1380,serie-d-girone-d
+71,italy,"Serie D, Girone E",1382,serie-d-girone-e
+72,italy,"Serie D, Girone F",1384,serie-d-girone-f
+73,italy,"Serie D, Girone G",1386,serie-d-girone-g
+74,italy,"Serie D, Girone H",1388,serie-d-girone-h
+75,italy,"Serie D, Girone I",1390,serie-d-girone-i
+76,italy,"Serie D, Poule Scudetto",1710,serie-d-poule-scudetto
+77,italy,Serie A Women,10640,serie-a-femminile
+78,italy,Serie B Femminile,23608,serie-b-femminile
+79,italy,Coppa Italia Femminile,13354,coppa-italia-femminile
+80,italy,Supercoppa Femminile,21837,supercoppa-femminile
+81,italy,Campionato Primavera 1,2292,campionato-primavera-1
+82,italy,Campionato Primavera 2,10534,campionato-primavera-2
+83,italy,Primavera Cup,1554,primavera-cup
+84,italy,Supercoppa Primavera,1910,supercoppa-primavera
+85,italy,Coppa Italia Serie D,20001,coppa-italia-serie-d
+86,italy,Trofeo Dossena,26975,trofeo-dossena
+87,italy,Serie A Women's Cup,27945,serie-a-cup-women
+88,france,Ligue 1,34,ligue-1
+89,france,Ligue 2,182,ligue-2
+90,france,National 1,183,national-1
+91,france,National 2,23058,national-2
+92,france,Coupe de France,335,coupe-de-france
+93,france,Trophée des Champions,339,trophee-des-champions
+94,france,"Première Ligue, Féminine",1139,division-1-feminines
+95,france,"Seconde Ligue, Féminine",23136,division-2-feminine
+96,france,"Coupe de France, Women",13330,coupe-de-france-women
+97,france,Championnat National U19,11401,championnat-national-u19
+98,france,National 2,28153,national-2
+99,france,"Seconde Ligue, Women",28158,seconde-ligue-women
+100,afghanistan,Afghanistan Champions League,24194,afghanistan-champions-league
+101,afghanistan,Afghanistan Premier League,24243,afghanistan-premier-league
+102,albania,Abissnet Superiore,720,abissnet-superiore
+103,albania,Kategoria e Pare,722,kategoria-e-pare
+104,albania,Kategoria e Dytë,16672,kategoria-e-dyte
+105,albania,Kategoria e Tretë,16794,kategoria-e-trete
+106,albania,Kupa e Shqiperise,756,kupa-e-shqiperise
+107,albania,Albanian Supercup,1107,supercup
+108,algeria,Algerian Ligue 1,841,ligue-1
+109,algeria,Algerian Ligue 2,9459,ligue-2
+110,algeria,Algerian Cup,1588,algerian-cup
+111,algeria,Coupe de la Ligue,16895,coupe-de-la-ligue
+112,algeria,U21 Algerian Ligue 1,21106,ligue-1-reserves
+113,american-samoa,FFAS Senior League,21134,ffas-senior-league
+114,andorra,Primera Divisió,742,primera-divisio
+115,andorra,Segona Divisió,743,segona-divisio
+116,andorra,Copa Constitució,881,copa-constitucio
+117,andorra,Andorran Supercup,16589,super-cup
+118,angola,Girabola,2308,girabola
+119,anguilla,AFA Senior Male League,16721,afa-senior-male-league
+120,anguilla,President's Cup,21918,presidents-cup
+121,anguilla,"President's Cup, Women",25181,presidents-cup-women
+122,argentina,Liga Profesional de Fútbol,155,liga-profesional-de-futbol
+123,argentina,Copa de la Liga Profesional,13475,copa-de-la-liga-profesional
+124,argentina,Copa Argentina,1024,copa-argentina
+125,argentina,Primera Nacional,703,primera-nacional
+126,argentina,Primera B Metropolitana,1347,primera-b
+127,argentina,Primera C Metropolitana,11386,primera-c-metropolitana
+128,argentina,Primera D Metropolitana,14101,primera-d-metropolitana
+129,argentina,Torneo Federal A,14090,torneo-federal-a
+130,argentina,Supercopa Argentina,1618,supercopa-argentina
+131,argentina,Campeonato de Fútbol Femenino,10495,primera-division-women
+132,argentina,Trofeo de Campeones de la Liga Profesional,18436,trofeo-de-campeones-de-la-liga-profesional
+133,argentina,Campeonato de Reserva de Primera División,18817,campeonato-de-reserva-de-primera-division
+134,argentina,Supercopa Internacional,19841,supercopa-internacional
+135,argentina,Copa de la Liga Reserves,20877,copa-de-la-liga-reserves
+136,armenia,Armenian Premier League,671,idbank-premier-league
+137,armenia,Armenian 1st League,672,first-league
+138,armenia,Armenian Cup,778,armenian-cup
+139,armenia,Armenian Supercup,1924,super-cup
+140,armenia,Women’s Highest League,24055,women-s-highest-league
+141,aruba,Division di Honor,19345,division-di-honor
+142,aruba,Copa Betico Croes,21854,copa-betico-croes
+143,aruba,Division 1,21436,division-1
+144,australia,A-League Men,136,a-league-men
+145,australia,A-League Women,1894,a-league-women
+146,australia,Australia Cup,1786,australia-cup
+147,australia,NPL Capital Football,1260,npl-capital-football
+148,australia,NPL New South Wales,1274,npl-new-south-wales
+149,australia,NPL Northern New South Wales,1638,npl-northern-new-south-wales
+150,australia,NPL Queensland,1268,npl-queensland
+151,australia,NPL Queensland Women,10476,npl-queensland-women
+152,australia,NPL South Australia,1258,npl-south-australia
+153,australia,NPL South Australia Women,14723,npl-south-australia-women
+154,australia,NPL Tasmania,1626,npl-tasmania
+155,australia,NPL Victoria Men,1275,npl-victoria
+156,australia,NPL Western Australia,1270,npl-western-australia
+157,australia,NPL Victoria Women,10443,victoria-premier-league-women
+158,australia,Capital Premier League,26017,capital-premier-league
+159,australia,Football West State League 1,25989,football-west-state-league-1
+160,australia,Northern NSW League One,26014,northern-nsw-league-one
+161,australia,NPL Northern Territory,25509,npl-northern-territory
+162,australia,NPL Victoria U23,24907,npl-victoria-u23
+163,australia,NSW League One,26015,nsw-league-one
+164,australia,NSW League Two,24641,nsw-league-two
+165,australia,"NSW NPL, Women",26388,nsw-npl-women
+166,australia,NSW NPL Women's,25411,nsw-npl-womens
+167,australia,NSW U20 Premier League,24649,nsw-u20-premier-league
+168,australia,Queensland Kappa Pro Series,24883,queensland-kappa-pro-series
+169,australia,Queensland Premier League 2,25243,queensland-premier-league-2
+170,australia,Queensland Premier League 2,26382,queensland-premier-league-2
+171,australia,South Australia State League 1,26016,south-australia-state-league-1
+172,australia,Tasmania Northern Championship,26018,tasmania-northern-championship
+173,australia,Tasmania Southern Championship,26019,tasmania-southern-championship
+174,australia,U23 Western Australian Premier League,27075,u23-western-australian-premier-league
+175,australia,"Victoria Cup, Women",27515,victoria-cup-women
+176,australia,West Australia - State League Div 1 Reserves,27237,west-australia-state-league-div-1-reserves
+177,australia,"Western Australia NPL, Women",26387,western-australia-npl-women
+178,australia,Western Australia State League 1,26020,western-australia-state-league-1
+179,austria,"OFB Cup, Women",26795,ofb-cup-women
+180,austria,Austrian Bundesliga,45,bundesliga
+181,austria,ÖFB Cup,445,ofb-cup
+182,austria,2. Liga,135,2-liga
+183,austria,Frauen Bundesliga,9415,frauen-bundesliga
+184,azerbaijan,Misli Premier League,709,misli-premier-league
+185,azerbaijan,Birinci Liqa,736,birinci-liqa
+186,azerbaijan,İkinci Liqa,21050,ikinci-liqa
+187,azerbaijan,Regional League,20077,regional-league
+188,azerbaijan,Azerbaijan Cup,740,azerbaijan-cup
+189,azerbaijan,AFFA Gənclər Liqası,25382,affa-gencler-liqasi
+190,azerbaijan,Tələbə Liqası,25528,telebe-liqasi
+191,bahamas,BFA Senior League,19511,bfa-senior-league
+192,bahrain,Bahraini Premier League,846,premier-league
+193,bahrain,Bahraini 2nd Division,10619,2nd-division
+194,bahrain,King's Cup,2736,kings-cup
+195,bahrain,Federation Cup,14126,federation-cup
+196,bahrain,Bahraini Super Cup,18940,super-cup
+197,bahrain,Bahrain U21 League,25122,bahrain-u21-league
+198,bangladesh,Bangladesh Football Premier League,13331,premier-league
+199,bangladesh,Championship League,16640,championship-league
+200,bangladesh,Bangladesh Challenge Cup,24278,bangladesh-challenge-cup
+201,bangladesh,Bangladesh Federation Cup,24351,bangladesh-federation-cup
+202,barbados,BFA Premier League,20208,bfa-premier-league
+203,belarus,Vysshaya Liga,169,vysshaya-liga
+204,belarus,Pershaya Liga,776,pershaya-liga
+205,belarus,Vtoraya Liga,22139,vtoraya-liga
+206,belarus,Belarus Cup,578,belarus-cup
+207,belarus,Belarusian Super Cup,775,belarusian-super-cup
+208,belarus,Vysshaya Liga Women,15016,vysshaya-liga-women
+209,belgium,Pro League,38,pro-league
+210,belgium,Challenger Pro League,9,challenger-pro-league
+211,belgium,Belgian Cup,326,belgian-cup
+212,belgium,Belgian Super Cup,338,belgian-super-cup
+213,belgium,Belgian Women's Super League,2127,belgian-womens-super-league
+214,belgium,Reserve League 1A,1117,reserve-league-1a
+215,belgium,Coupe U21 Pro League,14450,coupe-u21-pro-league
+216,belize,Premier League of Belize,21115,premier-league-of-belize
+217,benin,Celtiis Ligue Pro,22542,ligue-pro-benin
+218,benin,Tournoi des Centres de Formation  Féminin,23458,tournoi-des-centres-de-formation
+219,benin,Tournoi des Centres de Formation,23459,tournoi-des-centres-de-formation
+220,benin,Tournoi Inter-Communes (Masculin),23826,tournoi-inter-communes
+221,benin,Tournoi Inter-Communes (Féminin),23827,tournoi-inter-communes-feminin
+222,benin,Tournoi Football Talents Plus U15,24281,tournoi-football-talents-plus-u15
+223,benin,Championnat Scolaire,26375,championnat-scolaire
+224,benin,Championnat Scolaire Féminin,26376,championnat-scolaire-feminin
+225,bermuda,Premier Division,23807,bermuda-premier-division
+226,bhutan,Bhutan Premier League,22397,bhutan-premier-league
+227,bolivia,Torneo Amistoso De Verano,18593,playoff-promocao-da-i-divisao-distrital-af-leiria
+228,bolivia,División Profesional,16736,division-profesional
+229,bolivia,Copa Simón Bolívar,19011,copa-simon-bolivar
+230,bolivia,Copa Division Profesional,19891,copa-division-profesional
+231,bolivia,Liga Nacional Sub-19,22711,liga-nacional-sub-19
+232,bolivia,Liga Femenina,22751,liga-femenina-de-futbol-boliviano
+233,bolivia,Primera A Tarija,26176,primera-a-tarija
+234,bolivia,Primera A Beni,26242,primera-a-beni
+235,bolivia,Bolivia Friendly Games,27190,bolivia-friendly-games
+236,bolivia,Interprovinciales Pre Copa Simón Bolívar,27354,torneo-interprovincial-cochabamba
+237,bolivia,Primera A Chuquisaca,27114,chuquisaca-first-a
+238,bolivia,Primera A Cochabamba,26682,primera-a-cochabamba
+239,bolivia,Primera A La Paz,26954,primera-a-la-paz
+240,bolivia,Primera A Oruro,27207,primera-a-oruoro
+241,bolivia,Primera A Pando,27214,primera-a-pando
+242,bolivia,Primera A Potosí,27197,primera-a-potosi
+243,bolivia,Primera A Santa Cruz,26929,primera-a-santa-cruz
+244,bolivia,Primera B Beni,27398,primera-b-beni
+245,bolivia,Primera B Chuquisaca,27216,primera-b-chuquisaca
+246,bolivia,Primera B Cochabamba,27384,primera-b-cochabamba
+247,bolivia,Primera B La Paz,27493,primera-b-la-paz
+248,bolivia,Primera B Oruro,27406,primera-b-oruro
+249,bolivia,Primera B Potosí,27487,primera-b-potosi
+250,bolivia,Primera B Santa Cruz,27334,primera-b-santa-cruz
+251,bolivia,Primera B Tarija,27318,primera-b-tarija
+252,bolivia,Primera de Ascenso Chuquisaca,28362,primera-de-ascenso-chuquisaca
+253,bolivia,Primera de Ascenso Cochabamba,27549,primera-de-ascenso-cochabamba
+254,bolivia,Primera de Ascenso La Paz,28164,primera-de-ascenso-la-paz
+255,bolivia,Primera de Ascenso Santa Cruz,27692,primera-de-ascenso-santa-cruz
+256,bolivia,Primera de Ascenso Tarija,27802,primera-de-ascenso-tarija
+257,bolivia,Segunda de Ascenso Beni,27792,segunda-ascenso-beni
+258,bolivia,Segunda de Ascenso Cochabamba,27653,segunda-de-ascenso-cochabamba
+259,bolivia,Segunda de Ascenso La Paz,28350,segunda-de-ascenso-la-paz
+260,bolivia,Segunda de Ascenso Santa Cruz,27800,segunda-de-ascenso-santa-cruz
+261,bolivia,Segunda de Ascenso Tarija,27805,segunda-de-ascenso-tarija
+262,bolivia,Tercera de Ascenso Cochabamba,27691,tercera-de-ascenso-cochabamba
+263,bolivia,Tercera de Ascenso La Paz,28380,tercera-de-ascenso-la-paz
+264,bolivia,Tercera de Ascenso Santa Cruz,27836,tercera-de-ascenso-santa-cruz
+265,bolivia,Tercera de Ascenso Tarija,27819,tercera-de-ascenso-tarija
+266,bosnia-herzegovina,WWIN Liga BiH,222,wwin-premijer-liga
+267,bosnia-herzegovina,Bosnia & Herzegovina Cup,583,bosnia-and-herzegovina-cup
+268,bosnia-herzegovina,Super Kup,26693,super-kup
+269,bosnia-herzegovina,"Prva Liga, Federacije BiH",716,prva-liga-federacije-bih
+270,bosnia-herzegovina,"Prva Liga, Republike Srpske",715,prva-liga-republike-srpske
+271,bosnia-herzegovina,Premijer Liga BiH Juniori,22934,premijer-liga-bih-juniori
+272,bosnia-herzegovina,Premijer Ženska Liga,26498,premijer-zenska-liga
+273,bosnia-herzegovina,Kup BiH Juniori,25373,kup-bih-juniori
+274,bosnia-herzegovina,Kup BiH Žene,26521,kup-bih-zene
+275,botswana,Botswana Premier League,11420,premier-league
+276,brazil,Brasileirão Betano,325,brasileirao-serie-a
+277,brazil,Brasileirão Série B,390,brasileirao-serie-b
+278,brazil,Brasileirão Série C,1281,brasileirao-serie-c
+279,brazil,Brasileirão Série D,10326,brasileirao-serie-d
+280,brazil,Copa Betano do Brasil,373,copa-do-brasil
+281,brazil,Supercopa do Brasil,14602,supercopa-do-brasil
+282,brazil,"Brasileirão Série A1, Feminino",10257,brasileirao-serie-a1-feminino
+283,brazil,"Brasileirão Série A2, Feminino",14732,brasileirao-serie-a2-feminino
+284,brazil,"Brasileirão Série A3, Feminino",22272,brasileirao-serie-a3-feminino
+285,brazil,"Copa do Brasil, Feminino",26768,copa-do-brasil-women
+286,brazil,Supercopa Feminina do Brasil,19917,supercopa-feminina-betano-do-brasil
+287,brazil,Acreano,14659,acreano
+288,brazil,"Acreano, Série B",28208,acreano-serie-b
+289,brazil,Alagoano,10294,alagoano
+290,brazil,"Alagoano, Série B",20472,alagoano-serie-b
+291,brazil,Copa Alagoas,19813,copa-alagoas
+292,brazil,Amapazão,13668,amapaense
+293,brazil,"Amapazão, Série B",22816,amapaense-serie-b
+294,brazil,"Amapazão, Feminino",22426,amapaense-feminino
+295,brazil,Amazonense,11702,amazonense
+296,brazil,"Amazonense, Série B",26797,amazonense-serie-b
+297,brazil,"Amazonense, Feminino",20911,amazonense-feminino
+298,brazil,Baiano,374,baiano
+299,brazil,"Baiano, Série B",20352,baiano-serie-b
+300,brazil,"Baiano, Feminino",21534,baiano-feminino
+301,brazil,Brasiliense,11682,brasiliense
+302,brazil,"Candango, Serie B",28367,candango-serie-b
+303,brazil,"Brasiliense, Feminino",21066,brasiliense-feminino
+304,brazil,Capixaba,14650,capixaba
+305,brazil,"Capixaba, Série B",20806,capixaba-serie-b
+306,brazil,Copa Espírito Santo,26249,copa-espirito-santo
+307,brazil,"Capixaba, Feminino",22956,capixaba-feminino
+308,brazil,Carioca,92,carioca
+309,brazil,"Carioca, Série A2",18644,carioca-serie-a2
+310,brazil,"Carioca,  Série B1",20902,carioca-serie-b1
+311,brazil,"Carioca, Série B2",20903,carioca-serie-b2
+312,brazil,"Carioca, Série C",20239,carioca-serie-c
+313,brazil,Copa Rio,20547,copa-rio
+314,brazil,"Carioca, Feminino",18897,carioca-feminino
+315,brazil,"Copa Rio, Feminino",21950,copa-rio-feminino
+316,brazil,Catarinense,376,catarinense
+317,brazil,"Catarinense, Série B",20070,catarinense-serie-b
+318,brazil,"Catarinense, Série C",21065,catarinense-serie-c
+319,brazil,Copa Santa Catarina,20898,copa-santa-catarina
+320,brazil,Recopa Catarinense,19812,recopa-catarinense
+321,brazil,"Catarinense, Feminino",27666,catarinense-women
+322,brazil,Cearense,378,cearense
+323,brazil,"Cearense, Série B",19855,cearense-serie-b
+324,brazil,"Cearense, Série C",20513,cearense-serie-c
+325,brazil,Taça Fares Lopes,20546,taca-fares-lopes
+326,brazil,"Cearense, Feminino",21306,cearense-feminino
+327,brazil,Gaúcho,377,gaucho
+328,brazil,"Gaúcho, Série A2",18643,gaucho-serie-a2
+329,brazil,"Gaúcho, Série B",21133,gaucho-serie-b
+330,brazil,Recopa Gaúcha,19814,recopa-gaucha
+331,brazil,"Gaúcho, Feminino",20707,gaucho-feminino
+332,brazil,Goiano,381,goiano
+333,brazil,"Goiano, Divisão de Acesso",19220,goiano-divisao-de-acesso
+334,brazil,"Goiano, Terceira Divisão",21011,goiano-terceira-divisao
+335,brazil,"Goiano, Feminino",20895,goiano-feminino
+336,brazil,Maranhense,11664,maranhense
+337,brazil,"Maranhense, Série B",20891,maranhense-serie-b
+338,brazil,Mato-Grossense,11670,mato-grossense
+339,brazil,"Mato-Grossense, 2ª Divisão",27742,mato-grossense-2-divisao
+340,brazil,Copa FMF,21028,copa-fmf
+341,brazil,"Mato-Grossense, Feminino",20839,mato-grossense-feminino
+342,brazil,"Mineiro, Módulo I",379,mineiro-modulo-i
+343,brazil,"Mineiro, Módulo II",20069,mineiro-modulo-ii
+344,brazil,"Mineiro, Segunda Divisão",20750,mineiro-segunda-divisao
+345,brazil,Recopa Mineira,19850,recopa-mineira
+346,brazil,"Mineiro, Feminino",20976,mineiro-feminino
+347,brazil,Paraense,11669,paraense
+348,brazil,"Paraense, Série A2",20584,paraense-serie-b1
+349,brazil,"Paraense, Série B2",20348,paraense-serie-b2
+350,brazil,Copa Grão Pará,22198,copa-grao-para
+351,brazil,Supercopa Grão-Pará,21686,supercopa-grao-para
+352,brazil,"Paraense, Feminino",24173,paraense-feminino
+353,brazil,"Copa Pará, Feminino",22790,copa-para-feminino
+354,brazil,Paraibano,10295,paraibano
+355,brazil,"Paraibano, 2ª Divisão",20893,paraibano-2a-divisao
+356,brazil,"Paraibano, 3ª Divisão",21155,paraibano-3a-divisao
+357,brazil,"Paraibano, Feminino",24164,paraibano-feminino
+358,brazil,Paranaense,382,paranaense
+359,brazil,"Paranaense, 2ª Divisão",20096,paranaense-2a-divisao
+360,brazil,"Paranaense, 3ª Divisão",21143,paranaense-3a-divisao
+361,brazil,"Paranaense, Feminino",21413,paranaense-feminino
+362,brazil,Paulista Série A1,372,paulista-serie-a1
+363,brazil,"Paulista, Série A2",1234,paulista-serie-a2
+364,brazil,"Paulista, Série A3",1614,paulista-serie-a3
+365,brazil,"Paulista, Série A4",20058,paulista-serie-a4
+366,brazil,"Paulista, Segunda Divisão",22327,paulista-segunda-divisao
+367,brazil,Copa Paulista,10383,copa-paulista
+368,brazil,"Paulista, Feminino",14448,paulista-feminino
+369,brazil,"Taça Paulistana, Feminino",24180,taca-paulistana-feminina
+370,brazil,Pernambucano,380,pernambucano
+371,brazil,"Pernambucano, Série A2",21161,pernambucano-serie-a2
+372,brazil,"Pernambucano, Série A3",21251,pernambucano-serie-a3
+373,brazil,"Pernambucano, Feminino",24265,pernambucano-feminino
+374,brazil,Piauiense,13353,piauiense
+375,brazil,"Piauiense, Série B",21151,piauiense-serie-b
+376,brazil,"Piauiense, Feminino",21573,piauiense-feminino
+377,brazil,"Potiguar, 1ª Divisão",11663,potiguar-1a-divisao
+378,brazil,"Potiguar, 2ª Divisão",21150,potiguar-2a-divisao
+379,brazil,"Potiguar, Feminino",24235,campeonato-potiguar-feminino
+380,brazil,Rondoniense,14658,rondoniense
+381,brazil,"Rondoniense, Série B",21156,rondoniense-serie-b
+382,brazil,Roraimense,14733,roraimense
+383,brazil,"Roraimense, Feminino",24258,roraimense-feminino
+384,brazil,Sergipano,11665,sergipano
+385,brazil,"Sergipano, Série A2",20825,sergipano-serie-a2
+386,brazil,Copa Governo do Estado de Sergipe,27958,copa-governo-do-estado-de-sergipe
+387,brazil,Sul-Mato-Grossense,11679,sul-mato-grossense
+388,brazil,"Sul-Mato-Grossense, Série B",21158,sul-mato-grossense-serie-b
+389,brazil,"Sul-Mato-Grossense, Feminino",28397,sul-mato-grossense-feminino
+390,brazil,Tocantinense,14686,tocantinense
+391,brazil,"Tocantinense, 2ª Divisão",19633,tocantinense-2a-divisao
+392,brazil,Copa do Nordeste,1596,copa-do-nordeste
+393,brazil,U20 Copa do Nordeste,24849,u20-copa-do-nordeste
+394,brazil,Copa Verde,10158,copa-verde
+395,brazil,U17 Campeonato Brasileiro,22794,u17-campeonato-brasileiro
+396,brazil,U17 Copa do Brasil,20622,u17-copa-do-brasil
+397,brazil,U17 Supercopa do Brasil,24949,u17-supercopa-do-brasil
+398,brazil,"U17 Brasileiro, Feminino",22960,u17-brasileiro-feminino
+399,brazil,U20 Campeonato Brasileiro,9233,u20-campeonato-brasileiro
+400,brazil,"U20 Campeonato Brasileiro, Série B",25276,u20-campeonato-brasileiro-serie-b
+401,brazil,U20 Copa do Brasil,9491,u20-copa-do-brasil
+402,brazil,U20 Supercopa do Brasil,24938,u20-supercopa-do-brasil
+403,brazil,"U20 Brasileiro, Feminino",22004,u20-brasileiro-feminino
+404,brazil,Copinha,10772,copinha
+405,brazil,Copinha Feminina,21696,copinha-feminina
+406,brazil,U20 Acreano,22535,u20-acreano
+407,brazil,"U20 Alagoano, Série A1",26801,u20-alagoano-serie-a1
+408,brazil,"U20 Alagoano, Série A2",26920,u20-alagoano-serie-a2
+409,brazil,U20 Copa Alagoas,23691,u20-copa-alagoas
+410,brazil,U20 Amapaense,24846,campeonato-amapaense-sub-20
+411,brazil,U20 Copa Amazonas,22845,u20-copa-amazonas
+412,brazil,"U20 Amazonense, Feminino",27545,u20-amazonense-feminino
+413,brazil,U20 Baiano,22035,u20-baiano
+414,brazil,U20 Brasiliense,25640,u20-brasiliense
+415,brazil,U20 Copa Brasília,24267,u20-copa-brasilia
+416,brazil,U20 Capixaba,22029,u20-capixaba
+417,brazil,"U20 Carioca, Série A",20102,u20-carioca-serie-a
+418,brazil,"U20 Carioca, Série A2",23502,u20-carioca-serie-a2
+419,brazil,"U20 Carioca, Série B1",22213,u20-carioca-serie-b1
+420,brazil,"U20 Carioca, Série B2",22214,u20-carioca-serie-b2
+421,brazil,U20 Copa Rio,22039,u20-copa-rio
+422,brazil,U20 Torneio Otávio Pinto Guimarães,23063,u20-torneio-otavio-pinto-guimaraes
+423,brazil,"U20 Carioca, Feminino",27370,u20-carioca-feminino
+424,brazil,"U20 Copa Rio, Feminino",26777,u20-copa-rio-feminino
+425,brazil,U20 Catarinense,22220,u20-catarinense
+426,brazil,"U20 Copa Santa Catarina, Feminino",23083,u20-copa-santa-catarina-feminino
+427,brazil,U20 Cearense,20351,u20-cearense
+428,brazil,Taça FPF,24285,u23-taca-fpf
+429,brazil,"U20 Gaúcho, Série A1",20317,u20-gaucho-serie-a1
+430,brazil,U20 Goiano,22009,u20-goiano
+431,brazil,"U20 Goiano, 2ª Divisão",25188,u20-goiano-2a-divisao
+432,brazil,U20 Copa Goiás,23048,u20-copa-goias
+433,brazil,"U20 Copa Goiás, 2ª Divisão",23221,u20-copa-goias-2a-divisao
+434,brazil,"U20 Goiano, Feminino",25150,u20-goiano-feminino
+435,brazil,U20 Maranhense,26519,u20-maranhense
+436,brazil,U20 Mineiro,22434,u20-mineiro
+437,brazil,"U20 Mineiro, 2ª Divisão",22815,u20-mineiro-2a-divisao
+438,brazil,U20 Paraense,21164,u20-paraense
+439,brazil,U20 Paraibano,22979,u20-paraibano
+440,brazil,U20 Paranaense,21998,u20-paranaense
+441,brazil,"U20 Paranaense, 2ª divisão",26383,u20-paranaense-2a-divisao
+442,brazil,U20 Copa Paraná,24434,u20-copa-parana
+443,brazil,U20 Paulista,10308,u20-paulista
+444,brazil,"U20 Paulista, Série B",26518,u20-paulista-serie-b
+445,brazil,"U20 Paulista, Feminino",22988,u20-paulista-feminino
+446,brazil,U20 Pernambucano,22248,u20-pernambucano
+447,brazil,U20 Copa Pernambuco,24851,u20-copa-pernambuco
+448,brazil,U20 Piauiense,26948,u20-piauiense
+449,brazil,U20 Potiguar,20800,u20-potiguar
+450,brazil,U20 Rondoniense,25650,u20-rondoniense
+451,brazil,U20 Sergipano,22505,u20-sergipano
+452,brazil,"U20 Sergipano, Série A2",22808,u20-sergipano-serie-a2
+453,brazil,U20 Sul-Mato-Grossense,26298,u20-sul-mato-grossense
+454,brazil,U20 Tocantinense,22497,u20-tocantinense
+455,brazil,U21 Catarinense,22071,u21-catarinense-b
+456,brazil,Brasil Ladies Cup,21698,brasil-ladies-cup
+457,brazil,Torneio Paraná de Verão,21851,torneio-parana-de-verao
+458,brazil,Copa FGF,20620,copa-fgf
+459,brazil,U20 Copa do Nordeste,28145,u20-copa-do-nordeste
+460,british-virgin-islands,BVIFA National League,19950,bvifa-national-league
+461,brunei,Super League,17017,super-league
+462,bulgaria,Parva Liga,247,parva-liga
+463,bulgaria,Vtora Liga,1135,vtora-liga
+464,bulgaria,Bulgarian Cup,365,bulgarian-cup
+465,bulgaria,Bulgarian Supercup,510,super-cup
+466,bulgaria,Women's Super League,24121,womens-super-league
+467,bulgaria,Treta Liga,28023,treta-liga
+468,burundi,Primus League,16663,primus-league
+469,burundi,Ligue B Nationale,19377,ligue-b-nationale
+470,cambodia,Cambodian Premier League,10741,cambodian-premier-league
+471,cambodia,Hun Sen Cup,18539,hun-sen-cup
+472,cameroon,Elite One,1006,elite-one
+473,canada,Canadian Premier League,13470,canadian-premier-league
+474,canada,Canadian Soccer League,482,canadian-soccer-league
+475,canada,Canadian Championship,9230,canadian-championship
+476,canada,League1 Alberta,22002,league1-alberta
+477,canada,League1 BC,20311,league1-bc
+478,canada,Ligue1 Québec,20342,ligue1-quebec
+479,canada,League1 Ontario Premier,20370,league1-ontario-premier
+480,canada,League1 Ontario Championship,22001,league1-ontario-championship
+481,canada,League1 Ontario Cup,22249,league1-ontario-cup
+482,canada,"Ligue1 Québec, Women",27052,ligue1-quebec-women
+483,canada,Ligue2 Québec,25635,ligue2-quebec
+484,canada,Ligue3 Québec,25736,ligue3-quebec
+485,canada,Northern Super League,26135,northern-super-league
+486,canada,Pacific Coast Soccer League,26764,pacific-coast-soccer-league
+487,cape-verde,Campeonato Nacional,18728,campeonato-nacional
+488,cayman-islands,CIFA Premier League,21826,cifa-premier-league
+489,chad,Première Division de N’Djaména,22106,premiere-division-de-n-djamena
+490,chad,Deuxième Division de N’Djaména,22107,deuxieme-division-de-n-djamena
+491,chad,Championnat d’Honneur U17,26159,championnat-d-honneur-u17
+492,chile,Segunda División,18834,segunda-division
+493,chile,Liga de Primera,11653,primera-division
+494,chile,Liga de Ascenso,1240,primera-b
+495,chile,Copa Chile,1221,copa-chile
+496,chile,Supercopa de Chile,1309,supercopa-de-chile
+497,chile,Campeonato Nacional Formativo - Proyección,22430,campeonato-nacional-formativo-proyeccion
+498,chile,Campeonato Nacional Formativo - Sub 18,22431,campeonato-nacional-formativo-sub-18
+499,chile,Chile Primera Division Women,22003,primera-division-women
+500,chile,Copa Futuro Sub-20,26509,copa-futuro-sub-20
+501,china,Chinese Super League,649,cfa-super-league
+502,china,Chinese League 1,782,cfa-china-league
+503,china,Chinese League 2,10381,cfa-division-two-league
+504,china,CFA Cup,882,cfa-cup
+505,china,CFA Super Cup,3079,cfa-super-cup
+506,china,CFA Women's Super League,10580,cfa-womens-super-league
+507,china,National Games of China U20,27074,national-games-of-china-u20
+508,chinese-taipei,Mulan Football League,22252,mulan-football-league
+509,chinese-taipei,Taiwan Football Premier League,22256,taiwan-football-premier-league
+510,chinese-taipei,President Cup,26918,president-cup
+511,chinese-taipei,Taiwan Cup Women,27329,taiwan-cup-women
+512,colombia,"Primera A, Apertura",11539,primera-a-apertura
+513,colombia,"Primera A, Finalización",11536,primera-a-clausura
+514,colombia,Categoría Primera B,1238,primera-b
+515,colombia,Copa Colombia,1335,copa-colombia
+516,colombia,Superliga de Colombia,10756,superliga-de-colombia
+517,colombia,Colombian Women's Football League,18555,liga-femenina
+518,colombia,Torneo Dimenor U20,25286,torneo-dimenor-u20
+519,colombia,Liga LFA Gane Betplay,25478,liga-lfa-gane-betplay
+520,colombia,Ascenso LFA Gane Betplay,25479,ascenso-lfa-gane-betplay
+521,colombia,Promoción LFA Gane Betplay,25480,promocion-lfa-gane-betplay
+522,colombia,Liga Master LFA PRO,25481,liga-master-lfa-pro
+523,colombia,Primera C,26947,primera-c
+524,comoros,Comoros Premier League,21979,comoros-premier-league
+525,congo-republic,Congo Ligue 1,10784,premier-league
+526,cook-islands,Round Cup,21537,round-cup
+527,costa-rica,"Primera División, Apertura",11535,primera-division-apertura
+528,costa-rica,"Primera División, Clausura",11542,primera-division-clausura
+529,costa-rica,"Liga de Ascenso, Apertura",11671,liga-de-ascenso-apertura
+530,costa-rica,"Liga de Ascenso, Clausura",11672,liga-de-ascenso-clausura
+531,costa-rica,Copa Costa Rica,21305,copa-costa-rica
+532,costa-rica,Costa Rican Supercup,22975,costa-rican-supercup
+533,costa-rica,"Primera División, Women",22135,primera-division-women
+534,costa-rica,Recopa,28021,recopa
+535,croatia,HNL,170,hnl
+536,croatia,Hrvatski nogometni kup,307,croatian-cup
+537,croatia,1. NL,724,1-nl
+538,croatia,2. NL,19122,2-nl
+539,croatia,3. NL - Centar,19132,3-nl-centar
+540,croatia,3. NL - Istok,19114,3-nl-istok
+541,croatia,3. NL - Jug,19124,3-nl-jug
+542,croatia,3. NL - Sjever,19051,3-nl-sjever
+543,croatia,3. NL - Zapad,19115,3-nl-zapad
+544,croatia,Croatian Super Cup,800,croatian-super-cup
+545,croatia,1. HNLŽ,17212,1-hnlz
+546,croatia,Prva NL Juniori,19318,prva-nl-juniori
+547,croatia,Croatian Women's Football Cup,21662,croatian-womens-football-cup
+548,croatia,Croatia U19 Cup,25487,croatia-u19-cup
+549,croatia,U19 Prva NL Juniori,28307,u19-prva-nl-juniori
+550,curacao,Promé Divishon,16704,prome-divishon
+551,cyprus,Cyprus League by Stoiximan,171,1-division
+552,cyprus,Cypriot 2nd Division,692,2-division
+553,cyprus,Cypriot Third Division,1460,3-division
+554,cyprus,Cyprus Cup,315,cyprus-cup
+555,cyprus,Cypriot Super Cup,550,cypriot-super-cup
+556,cyprus,4. Division,22372,4-division
+557,cyprus,Cypriot Women's First Division,23491,cypriot-womens-first-division
+558,cyprus,Cyprus Cup 3rd & 4th Division,22508,cyprus-cup-3rd-and-4th-division
+559,cyprus,Protathlima Entaxis STOK,22650,protathlima-entaxis-stok
+560,denmark,Danish Superliga,39,superliga
+561,denmark,Betinia Liga,47,1st-division
+562,denmark,CampoBet 2 Division,65,2nd-division
+563,denmark,CampoBet 3 Division,17072,3rd-division
+564,denmark,Oddset Pokalen,76,oddset-pokalen
+565,denmark,Gjensidige Kvindeliga,9412,gjensidige-kvindeliga
+566,denmark,Denmark U19 League,23040,u19-drenge-ligaen
+567,denmark,Danish Women's 1st Division,28169,b-liga-women
+568,dominica,DFA Premier League,25788,dfa-premier-league
+569,dominican-republic,Liga Dominicana de Fútbol,20209,liga-dominicana-de-futbol
+570,dominican-republic,Copa de la LDF,24499,copa-de-la-ldf
+571,dominican-republic,LDF 2da División Expansión,22161,ldf-2da-division-expansion
+572,dr-congo,Illicocash Ligue 1,16911,linafoot-ligue-1
+573,dr-congo,Coupe du Congo,26796,coupe-du-congo
+574,ecuador,LigaPro Serie A,240,ligapro-serie-a
+575,ecuador,LigaPro Serie B,10240,ligapro-serie-b
+576,ecuador,Copa Ecuador,13684,copa-ecuador
+577,ecuador,Supercopa Ecuador,14660,super-copa
+578,ecuador,Ecuador Superliga Femenina,26132,superliga-women
+579,egypt,Egyptian Premier League,808,premier-league
+580,egypt,Egypt Cup,2305,egypt-cup
+581,egypt,Egyptian Supercup,14688,super-cup
+582,egypt,Egyptian Second Division A,10536,egyptian-second-division-a
+583,egypt,Egyptian League Cup,18491,egyptian-league-cup
+584,egypt,"Premier League, Women",24365,premier-league-women
+585,el-salvador,"Primera División, Apertura",11537,primera-division-apertura
+586,el-salvador,"Primera División, Clausura",11532,primera-division-clausura
+587,el-salvador,"Primera División, Reserves, Apertura",18919,primera-division-reserves-apertura
+588,el-salvador,"Primera División, Reserves, Clausura",18523,primera-division-reserves-clausura
+589,el-salvador,Segunda División,19969,segunda-division
+590,estonia,Premium Liiga,178,premium-liiga
+591,estonia,Esiliiga,678,esiliiga
+592,estonia,Esiliiga B,19886,esiliiga-b
+593,estonia,Eesti Superkarikas,356,eesti-superkarikas
+594,estonia,Eesti Karikas,731,eesti-karikas
+595,estonia,Meistriliiga Women,10510,meistriliiga-women
+596,estonia,II Liiga,20426,ii-liiga
+597,estonia,III Liiga,21261,iii-liiga
+598,estonia,IV Liiga,21532,iv-liiga
+599,estonia,Väikesed karikavõistlused,22195,vaikesed-karikavoistlused
+600,estonia,U19 Eliitliiga Meistriliiga,24718,u19-eliitliiga-meistriliiga
+601,estonia,U19 Eliitliiga Esiliiga,26906,u19-eliitliiga-esiliiga
+602,ethiopia,Ethiopian Premier League,16601,premier-league
+603,ethiopia,Ethiopian Higher League,22244,ethiopian-higher-league
+604,ethiopia,Ethiopian U20 Premier League,27071,ethiopian-u20-premier-league
+605,ethiopia,Ethiopian Women’s Premier League,22580,ethiopian-women-s-premier-league
+606,faroe-islands,Faroe Islands Premier League,673,premier-league
+607,faroe-islands,Faroe Islands 1. Deild,674,1-deild
+608,faroe-islands,Faroe Islands 2. Deild,24914,2-deild
+609,faroe-islands,Faroe Islands Cup,779,faroe-islands-cup
+610,faroe-islands,Faroe Islands Premier League Women,25281,faroe-islands-premier-league-women
+611,faroe-islands,Faroe Islands Super Cup,25302,faroe-islands-super-cup
+612,fiji,Digicel Premier League,16437,digicel-premier-league
+613,fiji,Champion vs Champion,21929,champion-vs-champion
+614,finland,Veikkausliiga,41,veikkausliiga
+615,finland,Ykkösliiga,55,ykkosliiga
+616,finland,Ykkönen,22020,ykkonen
+617,finland,"Kakkonen, Group A",179,kakkonen-group-a
+618,finland,"Kakkonen, Group B",180,kakkonen-group-b
+619,finland,"Kakkonen, Group C",181,kakkonen-group-c
+620,finland,Suomen Cup,220,suomen-cup
+621,finland,Liigacup,83,liigacup
+622,finland,Kansallinen Liiga,1662,kansallinen-liiga
+623,finland,Ykkösliigacup,21927,ykkosliigacup
+624,finland,Kolmonen,25914,kolmonen
+625,finland,Kansallinen Ykkönen,25991,kansallinen-ykkonen
+626,finland,"Suomen Cup, Women",27939,suomen-cup-women
+627,finland,U20 SM,27944,u20-sm
+628,french-guiana,Regional 1,16733,honor-division
+629,french-guiana,Regional 2,25247,regional-2-francuska
+630,french-guiana,Regional 3,25248,regional-3-francuska
+631,gabon,National Foot 1,18878,national-foot-1
+632,gambia,GFF First Division,16610,gff-first-division
+633,gambia,GFF Second Division,16638,gff-second-division
+634,georgia,Erovnuli Liga,704,erovnuli-liga
+635,georgia,Erovnuli Liga 2,726,erovnuli-liga-2
+636,georgia,Liga 3,16789,liga-3
+637,georgia,Liga 4,17027,liga-4
+638,georgia,Georgian Cup,729,georgian-cup
+639,georgia,Georgian Super Cup,766,georgian-super-cup
+640,georgia,Georgia Regional League,22586,georgia-regional-league
+641,ghana,Ghana Premier League,1191,ghana-premier-league
+642,ghana,Access Bank Division One,19752,access-bank-division-one
+643,ghana,Ghana FA Cup,2303,fa-cup
+644,ghana,BARFA Division Two,22167,barfa-division-two
+645,ghana,BARFA Division 2 Middle League,22512,barfa-division-2-middle-league
+646,ghana,CRFA Division Two,21782,crfa-division-two
+647,ghana,ERFA Division Two,21798,erfa-division-two
+648,ghana,GARFA Division Two,22197,garfa-division-two
+649,ghana,GAED Division 3,22077,gaed-division-3
+650,ghana,GEDFA Division 3,21852,gedfa-division-3
+651,ghana,Mfantseman Division 3,21887,mfantseman-division-3
+652,ghana,ML Foundation Division 3,22364,ml-foundation-division-3
+653,ghana,BARFA Women's Division 1,22361,barfa-womens-division-1
+654,ghana,BARFA Cup,22368,barfa-cup
+655,ghana,ASHDFA Division 3,24045,ashdfa-division-3
+656,ghana,CCMFA Third Division League,24374,ccmfa-third-division-league
+657,ghana,Tano Annual Tournament,24377,tano-annual-tournament
+658,ghana,Ga North Division 3,24380,ga-north-division-3
+659,ghana,AEED Division 3,25390,crfa-division-three
+660,ghana,ERFA Women's Division One League,24632,erfa-womens-division-one-league
+661,ghana,ARFA Division Two,25846,arfa-division-two
+662,ghana,Afriskaut BARFA U19 Regional Cup,26274,barfa-u19-regional-cup
+663,ghana,ERFA Division Three,27508,erfa-division-three
+664,ghana,President's Cup,27799,presidents-cup
+665,gibraltar,Gibraltar Football League,1542,football-league
+666,gibraltar,Pepe Reyes Cup,28472,pepe-reyes-cup
+667,gibraltar,Rock Cup,19931,rock-cup
+668,greece,Stoiximan Super League,185,stoiximan-super-league
+669,greece,Super League 2,186,super-league-2
+670,greece,Gamma Ethniki,20862,gamma-ethniki
+671,greece,Greek Football Cup,375,greek-cup-betsson
+672,greece,Greece Women's Football League,10609,super-league-women
+673,greece,Greece Women's Football Second Division,24160,greece-womens-football-second-division
+674,greece,U19 Super League,11414,u19-super-league
+675,greece,U19 Super League 2,24195,u19-super-league-2
+676,greece,Greece U19 Cup,25529,greece-u19-cup
+677,greece,Super League 2 Super Cup,26482,super-league-2-super-cup
+678,greenland,GrønlandsBANKEN GM,22632,gronlandsbanken-gm
+679,grenada,Premier League,16948,premier-league
+680,guadeloupe,Régionale 1,19945,regionale-1
+681,guadeloupe,Régionale 2,21490,regionale-2
+682,guadeloupe,Régionale 3,21804,regionale-3
+683,guadeloupe,Coupe de France - Guadeloupe Zone,21491,coupe-de-france-guadeloupe-zone
+684,guadeloupe,Coupe de Guadeloupe,21840,coupe-de-guadeloupe
+685,guam,Budweiser G-League,20210,budweiser-g-league
+686,guatemala,"Liga Guate Banrural, Apertura",11619,liga-guate-banrural-apertura
+687,guatemala,"Liga Guate Banrural, Clausura",11615,liga-guate-banrural-clausura
+688,guatemala,Primera División,19949,primera-division
+689,guatemala,Segunda División,20009,segunda-division
+690,guatemala,Primera Division,28165,primera-division
+691,guinea,Ligue 1,18477,ligue-1
+692,honduras,"Liga Hondubet de Honduras, Apertura",11613,liga-betcris-de-honduras-apertura
+693,honduras,"Liga Betcris de Honduras, Clausura",11614,liga-betcris-de-honduras-clausura
+694,honduras,Liga de Ascenso,23153,liga-de-ascenso
+695,honduras,Liga de Ascenso,24794,liga-de-ascenso
+696,honduras,Honduras Reserve League,25621,honduras-reserve-league
+697,hong-kong,Hong Kong Premier League,947,premier-league
+698,hong-kong,Hong Kong 1st Division,10526,division-1
+699,hong-kong,Hong Kong FA Cup,10291,fa-cup
+700,hong-kong,Hong Kong 2nd Division,24249,hong-kong-2nd-division
+701,hong-kong,Hong Kong Premier League U22,24114,hkpl-u22
+702,hong-kong,Hong Kong Sapling Cup,24399,hong-kong-sapling-cup
+703,hong-kong,Hong Kong U22 Cup,26496,hong-kong-u22-cup
+704,hungary,Fizz Liga,187,nb-i
+705,hungary,NB II,1339,nb-ii
+706,hungary,NB III Kelet,16676,nb-iii-kelet
+707,hungary,NB III Közép,16679,nb-iii-kozep
+708,hungary,NB III Nyugat,16682,nb-iii-nyugat
+709,hungary,Magyar Kupa,305,magyar-kupa
+710,hungary,NB I Women,10518,nb-i-women
+711,hungary,Hungary U19 1st Division,23275,hungary-u19-1st-division
+712,hungary,MLSZ Országos U17 Kiemelt,26504,mlsz-orszagos-u17-kiemelt
+713,hungary,MLSZ Országos U19 Alap,26538,mlsz-orszagos-u19-alap
+714,hungary,NB III,28095,nb-iii
+715,iceland,Besta deild karla,188,besta-deild-karla
+716,iceland,1. deild,675,1-deild
+717,iceland,2. deild,10309,2-deild
+718,iceland,3. deild,13578,3-deild
+719,iceland,Icelandic Super Cup,786,icelandic-super-cup
+720,iceland,Icelandic Men's Football Cup,504,icelandic-mens-football-cup
+721,iceland,Icelandic Men's Football League Cup A,2056,league-cup-a
+722,iceland,Icelandic Men's Football League Cup B,25033,icelandic-mens-football-league-cup-b
+723,iceland,Icelandic Men's Football League Cup C,25125,icelandic-mens-football-league-cup-c
+724,iceland,"Urvalsdeild, Women",10307,urvalsdeild-women
+725,iceland,1. deild Women,10496,1-deild-women
+726,iceland,2. Deild Women,23033,2-deild-women
+727,iceland,Icelandic Women's Football Super Cup,13497,icelandic-womens-football-super-cup
+728,iceland,Icelandic Women's Football Cup,11211,icelandic-womens-football-cup
+729,iceland,Icelandic Women's Football League Cup A,13332,league-cup-a-women
+730,iceland,Reykjavík Cup,21889,reykjavik-cup
+731,iceland,4. deild,26124,4-deild
+732,iceland,Fotbolti.net Cup,27528,fotboltinet-cup
+733,iceland,Iceland U19 League A,25159,iceland-u19-league-a
+734,india,Indian Super League,1900,indian-super-league
+735,india,I-League,848,i-league
+736,india,I-League 2,21882,i-league-2
+737,india,I-League 3,23521,i-league-3
+738,india,Super Cup India,11058,super-cup-india
+739,india,Durand Cup,20809,durand-cup
+740,india,Calcutta Premier Division,2289,calcutta-premier-division
+741,india,Santosh Trophy,24192,santosh-trophy
+742,india,Nagaland Super League,24754,nagaland-super-league
+743,india,Indian Women's League,21726,indian-womens-league
+744,india,Indian Women's League 2,25760,indian-womens-league-2
+745,india,Kerala Women League,25008,kerala-women-league
+746,indonesia,Indonesia Super League,1015,liga-1
+747,indonesia,Indonesia Liga 2,23229,indonesia-liga-2
+748,indonesia,Indonesia Liga 3,24432,indonesia-liga-3
+749,indonesia,Indonesia President's Cup,23013,indonesia-presidents-cup
+750,indonesia,Indonesia Liga 4,24672,indonesia-liga-4
+751,indonesia,Liga Topskor U17,24801,liga-topskor
+752,indonesia,Liga Topskor U13,24823,liga-topskor-u13
+753,indonesia,Liga Topskor U14,24832,liga-topskor-u14
+754,indonesia,Liga Topskor U15,24833,liga-topskor-u15
+755,indonesia,Liga Topskor U16,24834,liga-topskor-u16
+756,iran,Persian Gulf Pro League,915,persian-gulf-pro-league
+757,iran,Azadegan League,11338,azadegan-league
+758,iran,Hazfi Cup,11497,hazfi-cup
+759,iran,Iranian Super Cup,18526,iranian-super-cup
+760,iraq,Iraq Stars League,22478,iraq-stars-league
+761,iraq,Iraqi FA Cup,25377,iraqi-fa-cup
+762,iraq,Iraq Premier Division,25360,iraq-premier-division
+763,iraq,Kurdistan First Division,27033,kurdistan-first-division
+764,iraq,Kurdistan Premier League,26248,kurdistan-premier-league
+765,iraq,Stars League,24040,stars-league
+766,ireland,Premier Division,192,premier-division
+767,ireland,Ireland 1st Division,193,first-division
+768,ireland,FAI Cup,195,fai-cup
+769,ireland,FAI Presidents Cup,1632,fai-presidents-cup
+770,ireland,Ireland Women's Premier Division,20065,premier-division-women
+771,ireland,FAI Women's Cup,22727,fai-cup-women
+772,ireland,Beamish Stout Munster Senior Premier Division,22758,beamish-stout-munster-senior-premier-division
+773,ireland,Munster Senior Cup,24544,munster-senior-cup
+774,ireland,Leinster Senior Cup,24715,leinster-senior-cup
+775,ireland,"FAI Cup, Women",28167,fai-cup-women
+776,israel,Israeli Premier League,266,israeli-premier-league
+777,israel,Israel National League,727,national-league
+778,israel,Israel Super Cup,2104,israel-super-cup
+779,israel,State Cup,370,state-cup
+780,israel,Toto Cup Al,9355,league-cup-premier
+781,israel,Toto Cup Leumit,9356,league-cup-national
+782,israel,Israel U19 Premier Division,16811,israel-u19-premier-division
+783,israel,Israeli Women's Football League,14586,ligat-al-women
+784,israel,Liga Alef North,23265,liga-alef-north
+785,israel,Liga Alef South,23266,liga-alef-south
+786,ivory-coast,Ivory Coast Ligue 1,1211,ligue-1
+787,ivory-coast,Ivory Coast Ligue 2,25625,ivory-coast-ligue-2
+788,jamaica,Jamaica Premier League,1892,premier-league
+789,japan,J1 League,196,j1-league
+790,japan,J2 League,402,j2-league
+791,japan,J3 League,2293,j3-league
+792,japan,J. League Cup,101,j-league-cup
+793,japan,Emperor Cup,323,emperor-cup
+794,japan,Japanese Super Cup,393,japanese-super-cup
+795,japan,WE-League,18653,we-league
+796,japan,Japan Women's Football League,3085,nadeshiko-league-div-1-women
+797,japan,Japan Football League,2294,japan-football-league
+798,japan,WE League Cup,23701,we-league-cup
+799,japan,Japan University Women's Football Championship,24486,japan-university-womens-football-championship
+800,japan,Japan Regional League,27189,japan-regional-league
+801,japan,Nadeshiko League 2,25502,nadeshiko-league-2
+802,jordan,Jordan Pro League,929,jordan-league
+803,jordan,Jordan 1st Division,13361,jordan-1st-division
+804,jordan,Jordan Cup,1822,jordan-cup
+805,jordan,Jordan Super Cup,18668,super-cup
+806,kazakhstan,Kazakhstan Premier League,682,premier-league
+807,kazakhstan,Kazakhstan 1st League,785,first-division
+808,kazakhstan,Kazakhstan Cup,749,kazakhstan-cup
+809,kazakhstan,Kazakhstan Super Cup,773,kazakhstan-super-cup
+810,kazakhstan,Kazakhstan League Cup,22551,kazakhstan-league-cup
+811,kazakhstan,Kazakhstan Super League Women,25971,kazakhstan-super-league-women
+812,kazakhstan,QFL League Women,25969,qfl-league-women
+813,kazakhstan,QFL League Women,25970,qfl-league-women
+814,kenya,Kenyan Premier League,1644,premier-league
+815,kenya,National Super League,16540,national-super-league
+816,kenya,Division One League - Zone A,16778,division-one-league-zone-a
+817,kenya,Division One League - Zone B,16808,division-one-league-zone-b
+818,kenya,Division Two League,20220,division-two-league
+819,kenya,Mozzart Bet Cup,20047,mozzart-bet-cup
+820,kenya,Manuar Cup U11,21587,manuar-cup-u11
+821,kenya,Manuar Cup U13,21588,manuar-cup-u13
+822,kenya,Kellan Montessori Cup U11,23823,kellan-montessori-cup-u11
+823,kenya,Manuar Cup U16,21586,manuar-cup
+824,kenya,Football Without Borders U15,23928,football-without-borders-u15
+825,kenya,82 Sports Ultimate Cup,24143,82-sports-ultimate-cup
+826,kenya,Sagana Sports Association,24346,sagana-sports
+827,kenya,NaiCup Legacy Cup U13,25148,naicup-legacy-cup-u13
+828,kenya,Pasaka Challenge Cup,25856,pasaka-challenge-cup
+829,kenya,Rausha Kipaji Cup,24112,rausha-kipaji-cup
+830,kenya,Talanta Classic Cup,24443,talanta-classic-cup
+831,kenya,Wazee Premier League,26264,wazee-premier-league
+832,kosovo,AlbiMall Superliga,9413,albimall-superliga
+833,kosovo,First League,9426,viva-fresh-liga-e-pare
+834,kosovo,Liga e Dytë,16702,liga-e-dyte
+835,kosovo,Kupa e Kosovës,10069,kupa-e-kosoves
+836,kosovo,Kosovo U21 League,23926,kosovo-u21-league
+837,kuwait,Zain Premier League,1002,zain-premier-league
+838,kuwait,Zain First Division,20044,division-1
+839,kuwait,Crown Prince Cup,939,crown-prince-cup
+840,kuwait,Federation Cup,953,federation-cup
+841,kuwait,Kuwait Super Cup,14564,kuwait-super-cup
+842,kuwait,Emir Cup,14710,emir-cup
+843,kuwait,Kuwait Blue League,25018,u23-kuwait-blue-league
+844,laos,Lao League,16813,lao-league
+845,laos,The Lao Prime Minister Cup,25485,the-lao-prime-minister-cup
+846,latvia,Virsliga,197,virsliga
+847,latvia,1.Liga,677,1liga
+848,latvia,Latvijas Kauss,761,latvijas-kauss
+849,latvia,Latvian Women's League,23108,sieviesu-futbola-liga
+850,latvia,Altero.lv LIIGA,25633,alterolv-liiga
+851,latvia,Dali Dali 3. līga,26023,dali-dali-3-liga
+852,lebanon,Lebanese Premier League,2295,lebanese-premier-league
+853,lebanon,Lebanon Cup,2307,lebanon-cup
+854,lebanon,Lebanese Super Cup,2159,super-cup
+855,lebanon,Federation Cup,20748,federation-cup
+856,lesotho,Vodacom Premier League,26697,vodacom-premier-league
+857,liberia,LFA First Division,16810,lfa-first-division
+858,liberia,Orange Cup,26059,orange-cup
+859,libya,Premier League,16641,premier-league
+860,libya,Libyan Cup,18537,libyan-cup
+861,libya,Super Cup,22096,super-cup
+862,libya,First Division,18429,first-division
+863,libya,Second Division,20464,second-division
+864,libya,Second Division - Gulf of Sirte,22031,second-division-gulf-of-sirte
+865,libya,Third Division,20757,third-division
+866,libya,Third Division - Al Jabal Alakhdar,20495,third-division-al-jabal-alakhdar
+867,libya,Third Division - South,20482,third-division-south
+868,libya,Third Division - Tobruk,20609,third-division-tobruk
+869,libya,Third Division - Tripoli,20481,third-division-tripoli
+870,libya,Third Division - West,20494,third-division-west
+871,liechtenstein,FL1 Aktiv - Cup,757,fl1-aktiv-cup
+872,lithuania,A Lyga,198,a-lyga
+873,lithuania,Pirma Lyga,676,pirma-lyga
+874,lithuania,LFF Cup,812,lff-cup
+875,lithuania,LFF Super Cup,1262,lff-super-cup
+876,lithuania,A Lyga Women,25410,a-lyga-women
+877,lithuania,II Lyga,16785,ii-lyga
+878,luxembourg,Division Nationale,690,division-nationale
+879,luxembourg,Promotion d'Honneur,723,promotion-dhonneur
+880,luxembourg,Coupe de Luxembourg,765,coupe-de-luxembourg
+881,macao,Elite League,20238,elite-league
+882,madagascar,Pure Play Football League,20122,pure-play-football-league
+883,madagascar,Telma Coupe,22507,telma-coupe
+884,malaysia,Malaysia Super League,1000,malaysia-super-league
+885,malaysia,Malaysia FA Cup,13474,malaysia-fa-cup
+886,malaysia,Piala Malaysia,20827,piala-malaysia
+887,malaysia,Liga A1,22740,liga-a1
+888,malaysia,Malaysia MFL Cup,22821,malaysia-mfl-cup
+889,malaysia,MFL Challenge Cup,24408,mfl-challenge-cup
+890,malaysia,Piala Sumbangsih,28375,piala-sumbangsih
+891,malta,YoHealth Malta Premier,629,premier-league
+892,malta,Challenge League,630,challenge-league
+893,malta,IZIBET Amateur League,19807,izibet-amateur-league
+894,malta,Maltese FA Trophy,633,fa-trophy
+895,malta,Maltese Super Cup,725,super-cup
+896,malta,AME Cup,2107,ame-cup
+897,malta,Gozo Football League First Division,16504,gozo-football-league-first-division
+898,malta,Gozo Football League Second Division,16514,gozo-football-league-second-division
+899,malta,ISA Malta,19141,isa-malta
+900,malta,BOV Youth League A,25123,bov-youth-league-a
+901,malta,Challenge Cup,25273,challenge-cup
+902,malta,National Amateur Cup,20172,national-amateur-cup
+903,malta,National Amateur Super Cup,20175,national-amateur-super-cup
+904,martinique,Trophée Gérard Janvion - R1,21408,trophee-gerard-janvion-r1
+905,martinique,Coupe de France - Martinique,21093,coupe-de-france-martinique-zone
+906,martinique,Coupe de Martinique,21797,coupe-de-martinique
+907,martinique,Trophée Daniel Charles-Alfred - R2,21531,trophee-daniel-charles-alfred-r2
+908,martinique,Trophée Yvon Lutbert,23295,trophee-yvon-lutbert
+909,mauritania,Super D1,23703,super-d1
+910,mauritius,National Super League,16527,national-super-league
+911,mauritius,National Division One,16612,national-division-one
+912,mauritius,National Division Two,17351,national-division-two
+913,mauritius,Republic Cup,24255,republic-cup
+914,mayotte,Régional 1,21920,regional-1
+915,mayotte,Régional 2,23998,regional-2
+916,moldova,Moldovan Super Liga,685,super-liga
+917,moldova,Moldovan Liga 1,710,liga-1
+918,moldova,Cupa Moldova,741,cupa-moldova
+919,moldova,Supercupa Moldovei,890,supercupa-moldovei
+920,moldova,Cupa Federației,14713,cupa-federatiei
+921,mongolia,Mongolian Premier League,18725,premier-league
+922,mongolia,Mongolia Cup,22793,mongolia-cup
+923,montenegro,Montenegrin First League,154,meridianbet-1-cfl
+924,montenegro,Amplitudo 2. CFL,717,amplitudo-2-cfl
+925,montenegro,Montenegrin Cup,739,montenegrin-cup
+926,montenegro,1. ŽFL,28320,1-zfl
+927,morocco,Botola Pro,937,botola-pro
+928,morocco,Botola Pro 2,10554,botola-pro-2
+929,morocco,Coupe du Trône,1434,coupe-du-trone
+930,morocco,Division 1 Féminin,28276,morocco-division-1-feminin
+931,morocco,Morocco Excellence Cup,23848,morocco-excellence-cup
+932,mozambique,Moçambola,16642,mocambola
+933,mozambique,Super Cup Mário Esteves Coluna,25519,super-cup-mario-esteves-coluna
+934,myanmar,Myanmar National League,10535,national-league
+935,myanmar,Myanmar League 2,23060,myanmar-league-2
+936,myanmar,Myanmar League Women,23047,myanmar-league-women
+937,myanmar,Myanmar National League Cup,26512,myanmar-national-league-cup
+938,namibia,Debmarine Namibia Premiership,21358,debmarine-namibia-premiership
+939,namibia,Maris Cup,25752,maris-cup
+940,nepal,Nepal Super League,25312,nepal-super-league
+941,netherlands,Eredivisie,37,eredivisie
+942,netherlands,Eerste Divisie,131,eerste-divisie
+943,netherlands,Tweede Divisie,11402,tweede-divisie
+944,netherlands,KNVB Beker,330,knvb-beker
+945,netherlands,Johan Cruijff Schaal,340,johan-cruijff-schaal
+946,netherlands,Vrouwen Eredivisie,2123,vrouwen-eredivisie
+947,netherlands,"U21 KNVB, Divisie 1",17143,u21-knvb-divisie-1
+948,netherlands,Dutch Women's Super Cup,20833,supercup-women
+949,netherlands,Eredivisie Cup,22480,eredivisie-cup
+950,netherlands,Derde Divisie,28156,derde-divisie
+951,netherlands,"KNVB Beker, Women",18789,knvb-beker-women
+952,new-caledonia,Super Ligue,26397,super-ligue
+953,new-zealand,New Zealand National League,594,national-league
+954,new-zealand,"National League, Women",24140,national-league-women
+955,new-zealand,Chatham Cup,27789,chatham-cup
+956,new-zealand,"Kate Sheppard Cup, Women",27788,kate-sheppard-cup-women
+957,nicaragua,Liga Primera de Nicaragua,10533,liga-primera
+958,nigeria,Nigeria Premier Football League,2060,professional-league
+959,nigeria,National League,22136,national-league
+960,nigeria,NYML NLO Division One League,22115,nlo-division-one-league
+961,nigeria,5stars Premier League,22307,5stars-premier-league
+962,nigeria,5stars Premier League Preseason,22330,5stars-premier-league-preseason
+963,nigeria,NYML NLO Division Two League,22858,nlo-division-two-league
+964,nigeria,Green Lock FC Summer Football Tournament,22879,green-lock-fc-summer-football-tournament
+965,nigeria,Optima  Energy Gold Cup Pre-season Tournament,23238,optima-energy-gold-cup-pre-season-tournament
+966,nigeria,The Ondo Stars League,23259,the-ondo-stars-league
+967,nigeria,IFC Adeyemi Football Championship,23603,elford-alliyu-football-development-cup
+968,nigeria,Elford Alliyu Football League,23607,elford-alliyu-football-league
+969,nigeria,Oluyole Local Football League,23619,oluyole-local-football-league
+970,nigeria,Ibadan Football Council,23663,ibadan-football-council
+971,nigeria,Dynasty Scouting League,23986,dynasty-scouting-league
+972,nigeria,Asaba Super Cup,24111,asaba-super-cup
+973,nigeria,New Year Mega Lottery Nationwide League One  Super 8,24423,new-year-mega-lottery-nationwide-league-one-super-8
+974,nigeria,Olumo Super Liga,24666,olumo-super-liga
+975,nigeria,Sarduana Cup,25391,sarduana-cup
+976,nigeria,Don Bosco Cup,25489,don-bosco-cup
+977,nigeria,1xCup,26680,1xcup
+978,nigeria,Abeokuta South Coaches FA Cup,28126,abeokuta-south-coaches-fa-cup
+979,nigeria,Abuja All Stars International,26905,abuja-all-stars-international
+980,nigeria,Discovery Cup U19,26513,discovery-cup-u19
+981,nigeria,D'Royal Off Season Tournament,28476,droyal-off-season-tournament
+982,nigeria,Federation Cup,25865,federation-cup
+983,nigeria,Future Stars Challenge Cup,27972,future-stars-challenge-cup
+984,nigeria,Knockout Football League,28369,knockout-football-league
+985,nigeria,Kwara State Inner Super Cup,27353,kwara-state-inner-super-cup
+986,nigeria,NFCA Abeokuta South Coaches League,27042,nfca-abeokuta-south-coaches-league
+987,nigeria,NNL Super 8,27536,nnl-super-8
+988,nigeria,Oakdale Cup,25990,oakdale-cup
+989,nigeria,Oyebode Cup,28368,oyebode-cup
+990,nigeria,Pro Route League,28480,pro-route-league
+991,nigeria,Skouted Youth League,28377,skouted-youth-league
+992,nigeria,Wasimi Summer Soccer Championship,28125,wasinmi-summer-soccer-championship
+993,north-macedonia,1. MFL,199,1-mfl
+994,north-macedonia,2. MFL,718,2-mfl
+995,north-macedonia,North Macedonia Cup,348,north-macedonia-cup
+996,north-macedonia,3. MFL,23461,3-mfl
+997,northern-ireland,NIFL Premiership,200,premiership
+998,northern-ireland,NIFL Championship,701,championship
+999,northern-ireland,Irish Cup,767,irish-cup
+1000,northern-ireland,Northern Ireland Football League Cup,611,league-cup
+1001,northern-ireland,NIFL Charity Shield,20621,nifl-charity-shield
+1002,northern-ireland,NIFL Reserve League,23276,nifl-reserve-league
+1003,northern-ireland,NIFL Women's Premiership League Cup,25986,nifl-womens-premiership-league-cup
+1004,northern-ireland,Northern Ireland Women's Championship,25758,northern-ireland-womens-championship
+1005,northern-ireland,"Premiership, Women",26136,premiership-women
+1006,northern-mariana-islands,MSL 1,23694,msl-1
+1007,norway,Eliteserien,20,eliteserien
+1008,norway,Norwegian 1st Division,22,1st-division
+1009,norway,2nd Division Playoffs,11089,2nd-division-playoffs
+1010,norway,"2nd Division, Group 1",11085,2nd-division-group-1
+1011,norway,"2nd Division, Group 2",11090,2nd-division-group-2
+1012,norway,"Toppserien, Women",201,toppserien-women
+1013,norway,"1st Division, Women",10607,1st-division-women
+1014,norway,NM Cup,29,nm-cup
+1015,norway,"NM Cup, Women",1062,nm-cup-women
+1016,norway,"3rd Division, Group 1",11084,3rd-division-group-1
+1017,norway,"3rd Division, Group 2",11086,3rd-division-group-2
+1018,norway,"3rd Division, Group 3",11083,3rd-division-group-3
+1019,norway,"3rd Division, Group 4",11087,3rd-division-group-4
+1020,norway,"3rd Division, Group 5",11088,3rd-division-group-5
+1021,norway,"3rd Division, Group 6",11082,3rd-division-group-6
+1022,norway,Nasjonal U19 CL,21931,nasjonal-u19-cl
+1023,pakistan,Premier League,1137,premier-league
+1024,palestine,Gaza Strip Premier League,2142,gaza-strip-premier-league
+1025,palestine,West Bank League,2296,west-bank-league
+1026,palestine,Gaza Strip Cup,13471,gaza-strip-cup
+1027,palestine,West Bank Cup,13383,west-bank-cup
+1028,palestine,Gaza Strip Division 1,19535,gaza-strip-division-1
+1029,panama,"Liga Panameña de Fútbol, Apertura",11534,liga-panamena-de-futbol-apertura
+1030,panama,"Liga Panameña de Fútbol, Clausura",11533,liga-panamena-de-futbol-clausura
+1031,papua-new-guinea,National Soccer League,20718,national-soccer-league
+1032,paraguay,"Primera División, Apertura",11540,primera-division-apertura
+1033,paraguay,"Primera División, Clausura",11541,primera-division-clausura
+1034,paraguay,División Intermedia,1254,division-intermedia
+1035,paraguay,Copa Paraguay,13614,copa-paraguay
+1036,paraguay,"Primera División Reserve, Apertura",11564,primera-division-reserve-apertura
+1037,paraguay,"Primera División Reserve, Clausura",11563,primera-division-reserve-clausura
+1038,paraguay,Supercopa Paraguay,18415,supercopa-paraguay
+1039,paraguay,Nacional B,28144,nacional-b
+1040,paraguay,Paraguay Tercera Division,22759,paraguay-tercera-division
+1041,paraguay,Paraguay Women's Football Championship,26134,camopeonato-femenino-women
+1042,peru,Liga 1,406,liga-1
+1043,peru,Liga 2,10297,liga-2
+1044,peru,Copa Bicentenario,13685,copa-bicentenario
+1045,peru,Supercopa Peruana,14603,supercopa-peruana
+1046,peru,Peru Primera División Femenina,18718,liga-femenina
+1047,peru,Copa Perú,21191,copa-peru
+1048,peru,"Copa Promesas, División Elite",26057,copa-promesas
+1049,peru,"Copa Promesas, División Oro",26100,copa-promesas-division-oro
+1050,peru,Copa Master 30,26405,copa-master-30
+1051,peru,Supercopa de Lima,27108,supercopa-de-lima
+1052,peru,Intercolegios Lima Norte,27576,intercolegios-lima-norte
+1053,peru,Torneo Asociación,28133,torneo-asociacion
+1054,peru,U11 La Nacional Tocache,28371,u11-la-nacional-tocache
+1055,peru,U12 La Nacional Tocache,28372,u12-la-nacional-tocache
+1056,philippines,Philippines Football League,1654,philippines-football-league
+1057,poland,Ekstraklasa,202,ekstraklasa
+1058,poland,Betclic 1. Liga,229,i-liga
+1059,poland,Betclic 2. Liga,515,ii-liga
+1060,poland,"Betclic 3. Liga, Group 1",11316,iii-liga-group-1
+1061,poland,"Betclic 3. Liga, Group 2",11317,iii-liga-group-2
+1062,poland,"Betclic 3. Liga, Group 3",11315,iii-liga-group-3
+1063,poland,"Betclic 3. Liga, Group 4",11318,iii-liga-group-4
+1064,poland,Puchar Polski,281,puchar-polski
+1065,poland,Superpuchar Polski,511,superpuchar-polski
+1066,poland,U19 CLJ,1365,u19-clj
+1067,poland,ORLEN Women's Ekstraliga,10499,ekstraliga-women
+1068,poland,Polish Women's Cup,21988,puchar-polski-women
+1069,portugal,Liga Portugal Betclic,238,liga-portugal-betclic
+1070,portugal,Liga Portugal 2,239,liga-portugal-2
+1071,portugal,Liga 3,17101,liga-3
+1072,portugal,Taça de Portugal,336,taca-de-portugal
+1073,portugal,Taça da Liga,327,taca-da-liga
+1074,portugal,Supertaça,345,supertaca
+1075,portugal,Campeonato de Portugal,10093,campeonato-de-portugal
+1076,portugal,Campeonato Nacional Feminino,10527,campeonato-nacional-feminino
+1077,portugal,U19 Championship,1133,u19-championship
+1078,portugal,U23 Liga Revelação,11341,u23-liga-revelacao
+1079,portugal,Taça Revelação U23,13543,u23-taca-revelacao
+1080,portugal,"U19 Championship, II Division",23150,u19-campeonato-nacional-ii-divisao
+1081,portugal,Taça da Liga Feminina,24728,taca-da-liga-feminina
+1082,portugal,Taça de Portugal Feminina,24151,taca-de-portugal-feminina
+1083,romania,Romanian Super Liga,152,superliga
+1084,romania,Liga II,562,liga-ii
+1085,romania,Cupa României Betano,355,cupa-romaniei-betano
+1086,romania,Cupa Ligii,1778,cupa-ligii
+1087,romania,Supercupa României,698,supercupa-romaniei
+1088,romania,Liga III Baraj Promovare,18846,liga-iii-baraj-promovare
+1089,romania,Liga III Seria 1,16797,liga-iii-seria-1
+1090,romania,Liga III Seria 2,16804,liga-iii-seria-2
+1091,romania,Liga III Seria 3,16826,liga-iii-seria-3
+1092,romania,Liga III Seria 4,16779,liga-iii-seria-4
+1093,romania,Liga III Seria 5,16787,liga-iii-seria-5
+1094,romania,Liga III Seria 6,16809,liga-iii-seria-6
+1095,romania,Liga III Seria 7,16892,liga-iii-seria-7
+1096,romania,Liga III Seria 8,16796,liga-iii-seria-8
+1097,romania,Liga III Seria 9,16816,liga-iii-seria-9
+1098,romania,Liga III Seria 10,16822,liga-iii-seria-10
+1099,romania,SuperLiga Feminină,23334,liga-1-women
+1100,romania,Cupa României Feminină,24113,cupa-romaniei-feminina
+1101,romania,Cupa de Tineret,24213,cupa-de-tineret
+1102,romania,Liga 2 Feminin,23349,liga-2-women
+1103,romania,Liga de Tineret,24208,liga-de-tineret-u19
+1104,romania,Liga 3 Feminin,24101,liga-3-feminin
+1105,romania,Campionatul Național U19,24254,campionatul-national-u19
+1106,romania,Cupa Națională U19,24323,cupa-nationala-u19
+1107,romania,Supercupa de Tineret,27145,supercupa-liga-de-tineret
+1108,russia,Russian Cup,91,russian-cup
+1109,russia,Russian Premier League,203,premier-liga
+1110,russia,First League,204,1-liga
+1111,russia,"Second League, Division A",20706,2-liga-division-a
+1112,russia,"Second League, Division B, Group 1",1093,2-liga-division-b-group-1
+1113,russia,"Second League, Division B, Group 2",1099,2-liga-division-b-group-2
+1114,russia,"Second League, Division B, Group 3",1095,2-liga-division-b-group-3
+1115,russia,"Second League, Division B, Group 4",1097,2-liga-division-b-group-4
+1116,russia,M-League,879,m-liga
+1117,russia,"Superleague, Women",6783,superleague-women
+1118,russia,Russian Supercup,397,russian-supercup
+1119,russia,"First League, Women",24209,russian-womens-first-league
+1120,russia,"Russian Cup, Women",27656,russian-cup-women
+1121,russia,"Super Cup, Women",27073,super-cup-women
+1122,rwanda,Rwanda Premier League,10608,national-league
+1123,rwanda,Rwanda Cup Women,25617,rwanda-cup-women
+1124,saint-kitts-and-nevis,SKNFA Premier League,16732,sknfa-premier-league
+1125,saint-kitts-and-nevis,SKNFA Division 1,16753,division-1
+1126,saint-martin,Régional 1,25050,regional-1
+1127,saint-vincent-and-the-grenadines,SVGFF Premier Division,19889,svgff-premier-division
+1128,samoa,Upolu National League,19034,upolu-national-league
+1129,san-marino,Campionato Sammarinese,738,campionato-sammarinese
+1130,san-marino,Coppa Titano,737,coppa-titano
+1131,san-marino,Supercoppa Sammarinese,1343,supercoppa-sammarinese
+1132,sao-tome-and-principe,Campeonato Nacional,18272,campeonato-nacional
+1133,scotland,Scottish Premiership,36,premiership
+1134,scotland,Scottish Championship,206,championship
+1135,scotland,Scottish League One,207,league-one
+1136,scotland,Scottish League Two,209,league-two
+1137,scotland,Scottish Cup,347,scottish-cup
+1138,scotland,Scottish League Cup,332,scottish-league-cup
+1139,scotland,Scottish Challenge Cup,331,challenge-cup
+1140,scotland,Scottish Women's Premier League,2054,premier-league-1-women
+1141,scotland,Scotland Reserve League,11392,reserve-league
+1142,senegal,Senegal Ligue 1,1226,ligue-1
+1143,senegal,Tournoi Inter-Villages UGB,27668,tournoi-inter-villages-ugb
+1144,serbia,Mozzart Bet Superliga,210,mozzart-bet-superliga
+1145,serbia,Mozzart Bet Prva Liga,721,mozzart-bet-prva-liga
+1146,serbia,Kup Srbije,314,serbia-cup
+1147,serbia,Srpska Liga Beograd,16508,srpska-liga-beograd
+1148,serbia,Srpska Liga Istok,16509,srpska-liga-istok
+1149,serbia,Srpska Liga Vojvodina,16510,srpska-liga-vojvodina
+1150,serbia,Srpska Liga Zapad,16511,srpska-liga-zapad
+1151,serbia,Serbian Women's Cup,25369,serbian-womens-cup
+1152,serbia,Serbian Women's Super League,23441,serbian-womens-super-league
+1153,serbia,U19 Serbian League,23195,u19-serbian-league
+1154,seychelles,Seychelles Premier League,23538,premier-league
+1155,sierra-leone,Sierra Leone National Premier League,16950,premier-league
+1156,singapore,Singapore Premier League,634,premier-league
+1157,singapore,Singapore Cup,655,singapore-cup
+1158,singapore,Singapore Community Shield,18531,community-shield
+1159,singapore,Singapore Women's Premier League,23049,deloitte-womens-premier-league
+1160,sint-maarten,Premier League,21773,premier-league
+1161,slovakia,Niké Liga,211,nike-liga
+1162,slovakia,Slovakia League Two,224,2-liga
+1163,slovakia,Slovensky Pohar,303,slovensky-pohar
+1164,slovakia,Slovak Women's First League,10560,1-liga-women
+1165,slovakia,U19 Slovakia League,1327,u19-1-liga
+1166,slovakia,"3. Liga, West",20766,3-liga-west
+1167,slovakia,"3. Liga, East",20814,3-liga-east
+1168,slovakia,IV. liga - Majstrovsto regiónu,23241,4-liga-center
+1169,slovakia,IV. liga HUMMEL ZsFZ - Majstrovstvá regiónu,23500,4-liga-west
+1170,slovakia,6. Liga Východ HUMMEL ZsFZ,24222,6-liga-east-hummel-zsfz
+1171,slovakia,7. Liga MEVA-OBFZ KN,24401,7-liga-meva-obfz-kn
+1172,slovakia,8. Liga HUMMEL ObFZ NZ,25280,8-liga-hummel-obfz-nz
+1173,slovakia,5. Liga Juhovýchod HUMMEL ZsFZ,26120,5-liga-juhovychod-hummel-zsfz
+1174,slovakia,3. Liga,27670,3-liga
+1175,slovenia,PrvaLiga,212,prvaliga
+1176,slovenia,2. SNL,532,2-snl
+1177,slovenia,3. SNL,21064,3-snl
+1178,slovenia,Slovenia Cup,291,slovenia-cup
+1179,slovenia,Slovenian Junior League,22890,slovenian-junior-league
+1180,slovenia,Slovenian Women's Football League,22723,slovenian-womens-football-league
+1181,slovenia,3. SNL,28170,3-snl
+1182,solomon-islands,Telekom S-League,16439,telekom-s-league
+1183,somalia,Premier League,22403,premier-league
+1184,south-africa,South African Premier Division,358,premiership
+1185,south-africa,Motsepe Foundation Championship,1906,motsepe-foundation-championship
+1186,south-africa,Nedbank Cup,1020,fa-cup
+1187,south-africa,MTN 8,1125,mtn-8
+1188,south-africa,South African League Cup,1205,league-cup
+1189,south-africa,Black Label Cup,13774,black-label-cup
+1190,south-africa,SAFA Women's League,25484,safa-womens-league
+1191,south-africa,South Africa Diski Challenge,23696,south-africa-diski-challenge
+1192,south-korea,K League 1,410,k-league-1
+1193,south-korea,K League 2,777,k-league-2
+1194,south-korea,K3 League,10268,k3-league
+1195,south-korea,Korean Cup,615,korean-cup
+1196,south-korea,WK League,2284,wk-league
+1197,south-korea,K4 League,25158,k4-league
+1198,south-sudan,Premier League,24561,premier-league
+1199,suriname,SVB Eerste Divisie,18576,svb-eerste-divisie
+1200,sweden,Allsvenskan,40,allsvenskan
+1201,sweden,Superettan,46,superettan
+1202,sweden,"Ettan, Norra",67,ettan-norra
+1203,sweden,"Ettan, Södra",68,ettan-sodra
+1204,sweden,"Division 2, Promotion Round",10641,division-2-promotion-round
+1205,sweden,"Division 2, Norrland",71,division-2-norrland
+1206,sweden,"Division 2, Norra Svealand",70,division-2-norra-svealand
+1207,sweden,"Division 2, Södra Svealand",74,division-2-sodra-svealand
+1208,sweden,"Division 2, Norra Götaland",868,division-2-norra-gotaland
+1209,sweden,"Division 2, Ostra Götaland",395,division-2-ostra-gotaland
+1210,sweden,"Division 2, Västra Götaland",73,division-2-vastra-gotaland
+1211,sweden,"Division 2, Södra Götaland",72,division-2-sodra-gotaland
+1212,sweden,Damallsvenskan,214,damallsvenskan
+1213,sweden,Svenska Cupen,80,svenska-cupen
+1214,sweden,"Svenska Cupen, Women",1058,svenska-cupen-women
+1215,switzerland,Swiss Super League,215,super-league
+1216,switzerland,Challenge League,216,challenge-league
+1217,switzerland,Promotion League,1101,promotion-league
+1218,switzerland,Schweizer Cup,399,schweizer-cup
+1219,switzerland,Swiss Women's Super League,13994,womens-super-league
+1220,switzerland,1. Liga Classic,28152,1-liga-classic
+1221,switzerland,Switzerland U19 Elite League,24079,switzerland-u19-elite-league
+1222,tahiti,Coupe de Polynesie,25186,coupe-de-polynesie
+1223,tahiti,Ligue 1 Vini,21792,ligue-1-vini
+1224,tajikistan,Tajikistan Higher League,16817,tajikistan-higher-league
+1225,tajikistan,Tajikistan Cup,25030,tajikistan-cup
+1226,tanzania,Tanzanian Premier League,2353,premier-league
+1227,tanzania,Championship,18874,championship
+1228,tanzania,First Division,18894,first-division
+1229,tanzania,PBZ Premier League,19415,pbz-premier-league
+1230,tanzania,Samatta Cup,25875,samatta-cup
+1231,tanzania,Federation Cup,26051,federation-cup
+1232,thailand,Thai League 1,1032,thai-league-1
+1233,thailand,Thai League 2,10511,thai-league-2
+1234,thailand,Thai FA Cup,21779,fa-cup
+1235,thailand,Thai Women's League 1,23120,thai-womens-league-1
+1236,thailand,Thailand League Cup,23798,thailand-league-cup
+1237,thailand,Thailand U23 League,23853,thailand-u23-league
+1238,thailand,Thai League 3 Cup,24333,thai-league-3-cup
+1239,tonga,TFA Major League,23098,tfa-major-league
+1240,trinidad-and-tobago,Premier Football League,10636,premier-football-league
+1241,trinidad-and-tobago,Inter Community Football League,20290,inter-community-football-league
+1242,tunisia,Tunisian Ligue Professionnelle 1,984,ligue-1
+1243,tunisia,Tunisian Ligue Professionnelle 2,10633,ligue-2
+1244,tunisia,Coupe de Tunisie,1682,coupe-de-tunisie
+1245,tunisia,Tunisian Super Cup,14734,super-cup
+1246,turkey,Trendyol Süper Lig,52,trendyol-super-lig
+1247,turkey,Trendyol 1.Lig,98,trendyol-1lig
+1248,turkey,Türkiye Kupası,96,turkiye-kupasi
+1249,turkey,TFF Süper Kupa,505,tff-super-kupa
+1250,turkey,Nesine 2. Lig,97,tff-2-lig
+1251,turkey,"Nesine 3. Lig, Grup 1",11417,tff-3-lig-grup-1
+1252,turkey,"Nesine 3. Lig, Grup 2",11416,tff-3-lig-grup-2
+1253,turkey,"Nesine 3. Lig, Grup 3",11415,tff-3-lig-grup-3
+1254,turkey,"Nesine 3. Lig, Grup 4",15938,tff-3-lig-grup-4
+1255,turkey,U19 Elit A Ligi,13959,u19-lig-elit-a-grup-1
+1256,turkey,U19 Elit B Ligi,13960,u19-lig-elit-b
+1257,turkey,"First League, Women",24295,1-liga-women
+1258,turkey,Turkish Women's Super League,23427,turkish-womens-super-league
+1259,turkey,Türkiye Spor Yazarları Derneği Kupası,25623,turkiye-spor-yazarlari-dernegi-kupasi
+1260,turkmenistan,Ýokary Liga,18229,yokary-liga
+1261,turks-and-caicos-islands,TCIFA Premier League,21450,tcifa-premier-league
+1262,uganda,Uganda Premier League,10166,premier-league
+1263,uganda,Big League,19410,big-league
+1264,uganda,Rubaga Soccer League,25404,rubaga-soccer-league
+1265,ukraine,Ukrainian Premier League,218,premier-league
+1266,ukraine,Persha Liha,691,persha-liha
+1267,ukraine,Druha Liga,19980,druha-liga
+1268,ukraine,Ukraine Cup,312,ukraine-cup
+1269,ukraine,Ukraine U19 Championship,1307,u19-championship
+1270,ukraine,Ukrainian Women's Football League,23328,ukrainian-womens-football-league
+1271,united-arab-emirates,UAE Pro League,971,uae-pro-league
+1272,united-arab-emirates,UAE 1st Division,10665,division-1
+1273,united-arab-emirates,Division 2,20434,division-2
+1274,united-arab-emirates,Division 3,20439,division-3
+1275,united-arab-emirates,Presidents Cup,3080,presidents-cup
+1276,united-arab-emirates,UAE League Cup,1369,uae-league-cup
+1277,united-arab-emirates,UAE Super Cup,2304,uae-super-cup
+1278,united-arab-emirates,UAE Pro League U21,23299,uae-pro-league-u21
+1279,united-arab-emirates,UAE Pro League U23,23125,uae-pro-league-reserve
+1280,united-arab-emirates,UAE Women's League,24136,uae-womens-league
+1281,us-virgin-islands,President's Cup,22114,presidents-cup
+1282,usa,MLS,242,mls
+1283,usa,MLS All Star Game,1794,mls-all-star-game
+1284,usa,USL Championship,13363,usl-championship
+1285,usa,USL League One,13362,usl-league-one
+1286,usa,USL League Two,13546,usl-league-two
+1287,usa,US Open Cup,495,us-open-cup
+1288,usa,NPSL,13450,npsl
+1289,usa,MLS Preseason,18553,mls-preseason
+1290,usa,MLS Next Pro,18641,mls-next-pro
+1291,usa,NWSL,1690,nwsl
+1292,usa,NWSL Challenge Cup,14820,nwsl-challenge-cup
+1293,usa,NISA,18642,nisa
+1294,usa,NCAA,15946,ncaa
+1295,usa,USL W League,18890,usl-w-league
+1296,usa,"NCAA Regular Season, Women",18944,ncaa-regular-season-women
+1297,usa,USL Jägermeister Cup,22382,usl-jagermeister-cup
+1298,usa,USL Super League Women,25042,usl-super-league-women
+1299,usa,"USL Super League, Women",28384,usl-super-league-women
+1300,usa,Women's Premier Soccer League,27241,womens-premier-soccer-league
+1301,uzbekistan,Uzbekistan Super League,772,super-league
+1302,uzbekistan,Uzbekistan Pro Legue,18559,pro-liga
+1303,uzbekistan,Uzbekistan Championship U21,27365,uzbekistan-championship-u21
+1304,uzbekistan,Uzbekistan Cup,27238,cup
+1305,uzbekistan,Uzbekistan U19 Championship,27660,u19-championship
+1306,vanuatu,PVFA Super League,20485,pvfa-premier-league
+1307,venezuela,Liga FUTVE,231,primera-division
+1308,venezuela,Copa Venezuela,10528,copa-venezuela
+1309,venezuela,Liga FUTVE 2,22799,liga-futve-2
+1310,venezuela,Supercopa Venezuela,25187,supercopa-venezuela
+1311,vietnam,V-League 1,626,v-league-1
+1312,vietnam,V-League 2,771,v-league-2
+1313,vietnam,Vietnam Cup,3087,vietnam-cup
+1314,vietnam,Vietnamese Super Cup,1236,super-cup
+1315,vietnam,Vietnamese Women's National League,21607,vietnamese-womens-national-league
+1316,vietnam,Vietnam Women's National Cup,24327,vietnam-cup-women
+1317,vietnam,Vietnam U21 Championship,22932,vietnam-u21-championship
+1318,vietnam,Vietnam U19 Championship,24448,vietnam-u19-championship
+1319,vietnam,U19 Vietnam Women's Championship,23666,u19-vietnam-womens-championship
+1320,vietnam,Vietnam 2nd Division,26119,vietnam-2nd-division
+1321,wales,Cymru Premier,254,cymru-premier
+1322,wales,Cymru North,13820,cymru-north
+1323,wales,Cymru South,13821,cymru-south
+1324,wales,FAW Welsh Cup,388,faw-welsh-cup
+1325,wales,Wales Premier League Women,23231,wales-premier-league-women
+1326,wales,Welsh League Cup,367,league-cup
+1327,wales,Ardal Leagues,24172,ardal-leagues
+1328,wales,Ardal North League Cup,28263,ardal-north-league-cup
+1329,wales,Ardal South League Cup,28254,ardal-south-league-cup
+1330,zambia,Zambia Super League,2065,super-league
+1331,zambia,Unilus League,28157,unilus-league
+1332,zimbabwe,Zimbabwe Premier Soccer League,11033,premier-soccer-league

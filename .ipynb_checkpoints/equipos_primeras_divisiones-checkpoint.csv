@@ -1,0 +1,2458 @@
+,teamName,id,teamslug,teamorigin
+0,CF Monterrey,1932,cf-monterrey,mexico
+1,Club América,1939,club-america,mexico
+2,Cruz Azul,1947,cruz-azul,mexico
+3,Tigres UANL,1940,tigres-uanl,mexico
+4,CD Toluca,1931,deportivo-toluca-fc,mexico
+5,CF Pachuca,1936,cf-pachuca,mexico
+6,Club Tijuana,36525,club-tijuana,mexico
+7,FC Juárez,201624,fc-juarez,mexico
+8,Club León,36534,club-leon,mexico
+9,Pumas UNAM,1933,pumas-unam,mexico
+10,Santos Laguna,1948,santos-laguna,mexico
+11,Mazatlán FC,1946,mazatlan-fc,mexico
+12,Atlético San Luis,1950,atletico-san-luis,mexico
+13,Atlas FC,1949,atlas-fc,mexico
+14,Club Necaxa,1944,club-necaxa,mexico
+15,CD Guadalajara,1938,cd-guadalajara,mexico
+16,Querétaro FC,1951,queretaro-fc,mexico
+17,Club Puebla,1941,club-puebla,mexico
+18,Liverpool,44,liverpool,england
+19,Chelsea,38,chelsea,england
+20,Arsenal,42,arsenal,england
+21,Tottenham Hotspur,33,tottenham-hotspur,england
+22,Everton,48,everton,england
+23,Sunderland,41,sunderland,england
+24,Bournemouth,60,bournemouth,england
+25,Crystal Palace,7,crystal-palace,england
+26,Manchester United,35,manchester-united,england
+27,Nottingham Forest,14,nottingham-forest,england
+28,Brighton & Hove Albion,30,brighton-and-hove-albion,england
+29,Leeds United,34,leeds-united,england
+30,Manchester City,17,manchester-city,england
+31,Burnley,6,burnley,england
+32,Brentford,50,brentford,england
+33,West Ham United,37,west-ham-united,england
+34,Newcastle United,39,newcastle-united,england
+35,Fulham,43,fulham,england
+36,Aston Villa,40,aston-villa,england
+37,Wolverhampton,3,wolverhampton,england
+38,Real Madrid,2829,real-madrid,spain
+39,Athletic Club,2825,athletic-club,spain
+40,Villarreal,2819,villarreal,spain
+41,Barcelona,2817,barcelona,spain
+42,Espanyol,2814,espanyol,spain
+43,Getafe,2859,getafe,spain
+44,Elche,2846,elche,spain
+45,Real Betis,2816,real-betis,spain
+46,Valencia,2828,valencia,spain
+47,Rayo Vallecano,2818,rayo-vallecano,spain
+48,Deportivo Alavés,2885,deportivo-alaves,spain
+49,Sevilla,2833,sevilla,spain
+50,Osasuna,2820,osasuna,spain
+51,Celta Vigo,2821,celta-vigo,spain
+52,Real Oviedo,2851,real-oviedo,spain
+53,Atlético Madrid,2836,atletico-madrid,spain
+54,Real Sociedad,2824,real-sociedad,spain
+55,Mallorca,2826,mallorca,spain
+56,Levante UD,2849,levante-ud,spain
+57,Girona FC,24264,girona-fc,spain
+58,FC Bayern München,2672,fc-bayern-munchen,germany
+59,Eintracht Frankfurt,2674,eintracht-frankfurt,germany
+60,1. FC Köln,2671,1-fc-koln,germany
+61,Borussia Dortmund,2673,borussia-dortmund,germany
+62,FC St. Pauli,2526,fc-st-pauli,germany
+63,VfL Wolfsburg,2524,vfl-wolfsburg,germany
+64,FC Augsburg,2600,fc-augsburg,germany
+65,VfB Stuttgart,2677,vfb-stuttgart,germany
+66,TSG Hoffenheim,2569,tsg-hoffenheim,germany
+67,1. FC Union Berlin,2547,1-fc-union-berlin,germany
+68,RB Leipzig,36360,rb-leipzig,germany
+69,Bayer 04 Leverkusen,2681,bayer-04-leverkusen,germany
+70,1. FSV Mainz 05,2556,1-fsv-mainz-05,germany
+71,Borussia M'gladbach,2527,borussia-mgladbach,germany
+72,Hamburger SV,2676,hamburger-sv,germany
+73,SV Werder Bremen,2534,sv-werder-bremen,germany
+74,1. FC Heidenheim,5885,1-fc-heidenheim,germany
+75,SC Freiburg,2538,sc-freiburg,germany
+76,Juventus,2687,juventus,italy
+77,Napoli,2714,napoli,italy
+78,Cremonese,2761,cremonese,italy
+79,Roma,2702,roma,italy
+80,Udinese,2695,udinese,italy
+81,Inter,2697,inter,italy
+82,Lazio,2699,lazio,italy
+83,Milan,2692,milan,italy
+84,Como,2704,como,italy
+85,Bologna,2685,bologna,italy
+86,Atalanta,2686,atalanta,italy
+87,Fiorentina,2693,fiorentina,italy
+88,Cagliari,2719,cagliari,italy
+89,Pisa,2737,pisa,italy
+90,Genoa,2713,genoa,italy
+91,Parma,2690,parma,italy
+92,Lecce,2689,lecce,italy
+93,Hellas Verona,2701,hellas-verona,italy
+94,Torino,2696,torino,italy
+95,Sassuolo,2793,sassuolo,italy
+96,Paris Saint-Germain,1644,paris-saint-germain,france
+97,Olympique Lyonnais,1649,olympique-lyonnais,france
+98,Lille,1643,lille,france
+99,AS Monaco,1653,as-monaco,france
+100,RC Lens,1648,rc-lens,france
+101,RC Strasbourg,1659,rc-strasbourg,france
+102,Toulouse,1681,toulouse,france
+103,Angers,1684,angers,france
+104,Stade Rennais,1658,stade-rennais,france
+105,Olympique de Marseille,1641,olympique-de-marseille,france
+106,Le Havre,1662,le-havre,france
+107,Nice,1661,nice,france
+108,Nantes,1647,nantes,france
+109,Auxerre,1646,auxerre,france
+110,Lorient,1656,lorient,france
+111,Paris FC,6070,paris-fc,france
+112,Stade Brestois,1715,stade-brestois,france
+113,Metz,1651,metz,france
+114,Abu Muslim,939374,abu-muslim,afghanistan
+115,Attack Energy SC,527823,attack-energy-sc,afghanistan
+116,Sorkh Poshan,939365,sorkh-poshan,afghanistan
+117,Istiqlal Club,939366,istiqlal-club,afghanistan
+118,Sarrafan FC,1040177,sarrafan-fc,afghanistan
+119,Khurasan FC,939371,khurasan-fc,afghanistan
+120,Sarsabz Yashlar,939369,sarsabz-yashlar,afghanistan
+121,Mawj Sahel Sehat,939370,mawj-sahel-sehat,afghanistan
+122,Aino FC,939368,aino-fc,afghanistan
+123,Perozi Kabul,1040176,perozi-kabul,afghanistan
+124,Adalat Farah,939372,adalat-farah,afghanistan
+125,Khadim FC,939375,khadim-fc,afghanistan
+126,AF Elbasani,403091,af-elbasani,albania
+127,FK Partizani,5222,fk-partizani,albania
+128,Dinamo City,5217,dinamo-city,albania
+129,KF Vora,173810,kf-vora,albania
+130,KF Vllaznia,5418,kf-vllaznia,albania
+131,KF Bylis,37123,kf-bylis,albania
+132,KF Teuta Durrës,5417,kf-teuta-durres,albania
+133,Flamurtari FC,36387,flamurtari-fc,albania
+134,KF Egnatia,264619,ks-egnatia,albania
+135,KF Tirana,5195,kf-tirana,albania
+136,MB Rouissat,238383,mb-rouisset,algeria
+137,Olympique Akbou,306567,olympique-akbou,algeria
+138,USM Khenchela,238384,usm-khenchela,algeria
+139,ES Mostaganem,186100,es-mostaganem,algeria
+140,CR Belouizdad,42207,cr-belouizdad,algeria
+141,MC Oran,45001,mc-oran,algeria
+142,CS Constantine,55393,cs-constantine,algeria
+143,ES Sétif,41756,es-setif,algeria
+144,JS Kabylie,42202,js-kabylie,algeria
+145,MC Alger,42204,mc-alger,algeria
+146,USM Alger,42206,usm-alger,algeria
+147,ES Ben Aknoun,133444,es-ben-aknoun,algeria
+148,JS Saoura,79565,js-saoura,algeria
+149,ASO Chlef,42201,aso-chlef,algeria
+150,Paradou AC,212197,paradou-ac,algeria
+151,MC El Bayadh,133466,mc-el-bayadh,algeria
+152,Pago Youth FC,492002,pago-youth-fc,american-samoa
+153,PanSa East SC,491993,pansa-east-sc,american-samoa
+154,Royal Puma FC,491994,royal-puma-fc,american-samoa
+155,Ilaoa & To'omata SC,491992,ilaoa-and-toomata-sc,american-samoa
+156,Vaiala Tongan,491999,vaiala-tongan,american-samoa
+157,Green Bay Faga'alu,491997,green-bay-fagaalu,american-samoa
+158,Tafuna Jets,492000,tafuna-jets,american-samoa
+159,Utulei Youth,492001,utulei-youth,american-samoa
+160,Lion Heart,491998,lion-heart,american-samoa
+161,Tupulaga Fagasa,556616,tupulaga-fagasa,american-samoa
+162,Black Roses,491995,black-roses,american-samoa
+163,Atlètic Club Escaldes,37962,atletic-club-escaldes,andorra
+164,CE Carroi,209035,ce-carroi,andorra
+165,CF Esperanca d'Andorra,422630,cf-esperanca-dandorra,andorra
+166,FC Ordino,83851,fc-ordino,andorra
+167,FC Pas de la Casa,209036,fc-pas-de-la-casa,andorra
+168,Penya Encarnada d'Andorra,37966,penya-encarnada-dandorra,andorra
+169,FC Rànger's,5965,fc-rangers,andorra
+170,FC Santa Coloma,7711,fc-santa-coloma,andorra
+171,Inter Club d'Escaldes,37946,inter-club-descaldes,andorra
+172,UE Santa Coloma,37949,ue-santa-coloma,andorra
+173,Atlético Petróleos de Luanda,148072,atletico-petroleos-de-luanda,angola
+174,Wiliete SC,326543,wiliete-sc,angola
+175,Primeiro de Agosto,134318,primeiro-de-agosto,angola
+176,Sagrada Esperança,195746,sagrada-esperanca,angola
+177,FC Bravos do Maquis,195753,fc-bravos-do-maquis,angola
+178,CD São Salvador,496745,cd-sao-salvador,angola
+179,Interclube Luanda,76431,interclube-luanda,angola
+180,Desportivo da Huíla,195747,desportivo-da-huila,angola
+181,Kabuscorp SCP,134310,kabuscorp-scp,angola
+182,CD Lunda Sul,394492,clube-desportivo-lunda-sul,angola
+183,Académica Petróleos do Lobito,195748,academica-petroleos-do-lobito,angola
+184,Recreativo do Libolo,94785,recreativo-do-libolo,angola
+185,Luanda City FC,859331,luanda-city-fc,angola
+186,Santa Rita de Cássia FC,245483,santa-rita,angola
+187,GD Escolinha Isaac do Benguela,448660,gd-escolinha-isaac-de-benguela,angola
+188,Carmona SC do Uíge,859332,carmona-fc,angola
+189,Roaring Lions FC,377274,roaring-lions-fc,anguilla
+190,Attackers FC,377276,attackers-fc,anguilla
+191,Doc's United FC,377278,docs-united-fc,anguilla
+192,Uprising FC,377272,uprising-fc,anguilla
+193,Eagle Claw FC,409450,eagle-claw-fc,anguilla
+194,Spartans FC,377273,spartans-fc,anguilla
+195,Lymers FC,377269,lymers-fc,anguilla
+196,Diamond FC,377271,diamond-fc,anguilla
+197,West End Predators FC,377268,west-end-predators-fc,anguilla
+198,East Enders FC,938576,east-enders-fc,anguilla
+199,All Saints United,459375,all-saints-united,antigua-and-barbuda
+200,Grenades FC,459380,grenades-fc,antigua-and-barbuda
+201,Garden Stars FC,500236,garden-stars-fc,antigua-and-barbuda
+202,Flow Old Road FC,244433,flow-old-road-fc,antigua-and-barbuda
+203,Villa Lions FC,459377,villa-lions-fc,antigua-and-barbuda
+204,Pigotts SC,459373,pigotts-sc,antigua-and-barbuda
+205,John Hughes SC,500239,john-hughes-sc,antigua-and-barbuda
+206,Potters Tigers FC,933635,potters-tigers-fc,antigua-and-barbuda
+207,Green City FC,500238,green-city-fc,antigua-and-barbuda
+208,Attacking Saints FC,933636,attacking-saints-fc,antigua-and-barbuda
+209,Five Islands FC,276897,five-islands-fc,antigua-and-barbuda
+210,Parham FC,306181,parham-fc,antigua-and-barbuda
+211,Willikies FC,459374,willikies-fc,antigua-and-barbuda
+212,Greenbay Hoppers,459376,greenbay-hoppers,antigua-and-barbuda
+213,Barracas Central,65668,barracas-central,argentina
+214,Central Córdoba,65676,central-cordoba,argentina
+215,Boca Juniors,3202,boca-juniors,argentina
+216,Club Atlético Unión de Santa Fe,3204,club-atletico-union,argentina
+217,Defensa y Justicia,36839,defensa-y-justicia,argentina
+218,Estudiantes de La Plata,3206,estudiantes-de-la-plata,argentina
+219,Huracán,7629,huracan,argentina
+220,Banfield,3219,banfield,argentina
+221,Argentinos Juniors,3216,argentinos-juniors,argentina
+222,Independiente Rivadavia,36842,independiente-rivadavia,argentina
+223,Belgrano,3203,belgrano,argentina
+224,Tigre,7628,tigre,argentina
+225,Newell's Old Boys,3212,newells-old-boys,argentina
+226,Racing Club,3215,racing-club,argentina
+227,Aldosivi,36836,aldosivi,argentina
+228,Urartu,5225,urartu,armenia
+229,FC Alashkert,67966,fc-alashkert,armenia
+230,FC Ararat-Armenia,262229,fc-ararat-armenia,armenia
+231,Pyunik Yerevan,5214,pyunik-yerevan,armenia
+232,FC Noah,262228,fc-noah,armenia
+233,BKMA Yerevan,325785,bkma-yerevan,armenia
+234,FC Van,325779,fc-van,armenia
+235,FC Gandzasar,36059,fc-gandzasar,armenia
+236,FC Shirak Gyumri,33817,fc-shirak-gyumri,armenia
+237,FC Ararat,5377,fc-ararat,armenia
+238,SV Britannia Piedra Plat,451286,sv-britannia-piedra-plat,aruba
+239,SV Racing Club Aruba Solito,451275,sv-racing-club-aruba-solito,aruba
+240,SV Dakota,451285,sv-dakota,aruba
+241,SV La Fama Savaneta,451279,sv-la-fama-savaneta,aruba
+242,SV Deportivo Nacional Palm Beach,451276,sv-deportivo-nacional-palm-beach,aruba
+243,SV Estrella Papilon,451277,sv-estrella-papilon,aruba
+244,SV River Plate Aruba,451282,sv-river-plate-aruba,aruba
+245,SC United,451280,sc-united,aruba
+246,Jong Aruba,338282,jong-aruba,aruba
+247,SV Unistars,464453,sv-unistars,aruba
+248,Auckland FC,800224,auckland-fc,australia
+249,Melbourne City,42210,melbourne-city,australia
+250,Western United,193723,western-united,australia
+251,Western Sydney Wanderers,72926,western-sydney-wanderers,australia
+252,Melbourne Victory,5970,melbourne-victory,australia
+253,Adelaide United,2946,adelaide-united,australia
+254,Sydney FC,5971,sydney-fc,australia
+255,Macarthur FC,371682,macarthur-fc,australia
+256,Newcastle Jets,2934,newcastle-jets,australia
+257,Central Coast Mariners,5966,central-coast-mariners,australia
+258,Wellington Phoenix,7568,wellington-phoenix,australia
+259,Brisbane Roar,5968,brisbane-roar,australia
+260,Perth Glory,2945,perth-glory,australia
+261,Zirə FK,173406,zire-fk,azerbaijan
+262,Sumqayıt FK,44497,sumqayit-fk,azerbaijan
+263,Araz Naxçıvan,119066,araz-naxcivan-pfk,azerbaijan
+264,Turan Tovuz,36951,turan-tovuz,azerbaijan
+265,İmişli FK,452296,imisli-fk,azerbaijan
+266,FK Karvan Yevlax,498809,fk-karvan-yevlax,azerbaijan
+267,Qarabağ,5962,qarabag,azerbaijan
+268,Sabah FK,267828,sabah-fk,azerbaijan
+269,Şamaxı FK,24036,samaxi-fk,azerbaijan
+270,Neftçi Baku PFK,5215,neftci-baku-pfk,azerbaijan
+271,Qəbələ FK,36952,qebele-fk,azerbaijan
+272,Kəpəz PFK,37750,kepez-pfk,azerbaijan
+273,Western Warriors Titans,454462,western-warriors-fc,bahamas
+274,Dynamos Nassau FC,454471,dynamos-nassau-fc,bahamas
+275,Westside Renegades,454465,westside-renegades,bahamas
+276,University of Bahamas Mingoes,454466,university-of-bahamas-mingoes,bahamas
+277,Western Warriors Gladiator,929880,western-warriors-gladiator,bahamas
+278,United FC,454470,united-fc,bahamas
+279,Future Stars FC,454469,future-stars-fc,bahamas
+280,IM Bears FC,454467,im-bears-fc,bahamas
+281,Seventeen FC,454468,seventeen-fc,bahamas
+282,Baha Juniors,454463,baha-juniors,bahamas
+283,Cavalier Nassau FC,454464,cavalier-nassau-fc,bahamas
+284,Inter Nassau,497576,inter-nassau,bahamas
+285,A'Ali FC,448068,aali-fc,bahrain
+286,Bahrain SC,60428,bahrain-sc,bahrain
+287,Al-Budaiya,190807,al-budaiya,bahrain
+288,Al-Hidd,45472,al-hidd,bahrain
+289,Al-Ahli Club,45471,al-ahli-club,bahrain
+290,Al Khalidiyah,371631,al-khalidiyah,bahrain
+291,Al-Muharraq,45474,al-muharraq,bahrain
+292,Al Najma Manama,45475,al-najma-manama,bahrain
+293,Al Riffa,40659,al-riffa,bahrain
+294,Al-Shabab Manama,45476,al-shabab-manama,bahrain
+295,Malkiya Club,45477,malkiya-club,bahrain
+296,Sitra Club,117220,sitra-club,bahrain
+297,Mohammedan SC,233643,mohammedan-sc,bangladesh
+298,Abahani Limited Dhaka,246836,abahani-limited-dhaka,bangladesh
+299,Bashundhara Kings,264278,bashundhara-kings,bangladesh
+300,Rahmatganj MFS,230294,rahmatganj-mfs,bangladesh
+301,Brothers Union,254080,brothers-union,bangladesh
+302,Fortis FC,375005,fortis-fc,bangladesh
+303,Bangladesh Police FC,241598,bangladesh-police-fc,bangladesh
+304,Fakirerpool Young Men,238724,fakirerpool-young-men,bangladesh
+305,Dhaka Wanderers Club,375011,dhaka-wanderers-club,bangladesh
+306,Chittagong Abahani Limited,230295,chittagong-abahani-limited,bangladesh
+307,Weymouth Wales FC,223421,weymouth-wales-fc,barbados
+308,Brittons Hill United,245539,brittons-hill-united,barbados
+309,Ellerton FC,245537,ellerton-fc,barbados
+310,UWI Blackbirds,248657,uwi-blackbirds,barbados
+311,Pride of Gall Hill SSC,314385,pride-of-gall-hill,barbados
+312,Kickstart Rush Stars,505115,kickstart-rush,barbados
+313,Paradise SC,253368,paradise-sc,barbados
+314,Wotton FC,468973,wotton-fc,barbados
+315,Deacons FC,313330,deacons-fc,barbados
+316,Abrahams United Silver Sands,256211,silver-sands-fc,barbados
+317,ML Vitebsk,381792,bk-maxline-vitebsk,belarus
+318,Slavia Mozyr,3358,slavia-mozyr,belarus
+319,Dinamo Minsk,3361,dinamo-minsk,belarus
+320,FC Isloch Minsk Region,42965,fc-isloch-minsk-region,belarus
+321,Torpedo-BelAZ Zhodino,3359,torpedo-belaz-zhodino,belarus
+322,Dynamo Brest,3353,dynamo-brest,belarus
+323,FC Minsk,7304,fc-minsk,belarus
+324,Neman Grodno,3356,neman-grodno,belarus
+325,BATE Borisov,3350,bate-borisov,belarus
+326,Vitebsk,3351,vitebsk,belarus
+327,Arsenal Dzerzhinsk,317897,fk-arsenal-dzerzhinsk,belarus
+328,Gomel,3349,fk-gomel,belarus
+329,Naftan Novopolotsk,5234,naftan-novopolotsk,belarus
+330,Smorgon,7305,fk-smorgon,belarus
+331,SFK Slutsk,36881,sfk-slutsk,belarus
+332,Molodechno-2018,197956,fc-molodechno,belarus
+333,Royale Union Saint-Gilloise,4860,royale-union-saint-gilloise,belgium
+334,Sint-Truidense VV,2895,sint-truidense-vv,belgium
+335,KV Mechelen,5044,kv-mechelen,belgium
+336,Club Brugge KV,2888,club-brugge-kv,belgium
+337,RSC Anderlecht,2900,anderlecht,belgium
+338,Royal Antwerp FC,2889,royal-antwerp-fc,belgium
+339,Cercle Brugge,2929,cercle-brugge,belgium
+340,KRC Genk,2890,krc-genk,belgium
+341,Standard Liège,2901,standard-liege,belgium
+342,Oud-Heverlee Leuven,2918,oud-heverlee-leuven,belgium
+343,KVC Westerlo,2893,kvc-westerlo,belgium
+344,RC Sporting Charleroi,2898,rc-sporting-charleroi,belgium
+345,KAA Gent,2903,kaa-gent,belgium
+346,RAAL La Louvière,368506,raal-la-louviere,belgium
+347,SV Zulte Waregem,2933,sv-zulte-waregem,belgium
+348,FCV Dender,389232,fcv-dender-eh,belgium
+349,Verdes FC,24063,verdes-fc,belize
+350,Progresso FC,491693,progresso-fc,belize
+351,Belmopan FC Belize,1112838,belmopan-fc-belize,belize
+352,Napoles FC,1112837,napoles-fc,belize
+353,Port Layola FC,524602,port-layola-fc,belize
+354,Wagiya SC,491691,wagiya-sc,belize
+355,Benque Viejo United,491697,benque-viejo-united,belize
+356,Dadje FC,520851,dadje-fc,benin
+357,Espoir FC De Savalou,381037,espoir-fc-de-savalou,benin
+358,Cavalier de Nikki,520782,cavalier-de-nikki,benin
+359,Dynamo FC d'Abomey,339438,dynamo-abomey-fc,benin
+360,Hodio FC,380766,hodio-fc,benin
+361,Damissa FC,382157,damissa-fc,benin
+362,Loto-Popo FC,485617,loto-popo-fc,benin
+363,Panthère de Djougou,520780,panthere-de-djougou,benin
+364,Bani Ganse FC,520783,bani-ganse-fc,benin
+365,Buffles de Borgou,260809,buffles-de-borgou,benin
+366,Beke FC,314669,beke-fc,benin
+367,Abeille FC,520784,abeille-fc,benin
+368,BOA FC de Sinendé,520819,ainonvi-fc,benin
+369,Takunnin FC,376621,takunnin-fc,benin
+370,Dynamique FC,376620,dynamique-fc,benin
+371,Dynamo FC de Parakou,520781,dynamo-fc-de-parakou,benin
+372,Real Sport,336526,real-sport,benin
+373,Tonnerre FC,520785,tonnerre-fc,benin
+374,North Village Rams,930748,north-village-community-club,bermuda
+375,PHC Zebras,930746,phc-zebras,bermuda
+376,St. George's Cricket Club,930751,st-georges-cricket-club,bermuda
+377,Paget Lions FC,930754,paget-lions-fc,bermuda
+378,Devonshire Cougars,930750,devonshire-recreation-club,bermuda
+379,Devonshire Colts,930757,devonshire-colts,bermuda
+380,Dandy Town Hornets,930749,western-stars,bermuda
+381,Young Men's Social Club,930755,young-mens-social-club,bermuda
+382,Hamilton Parish,930753,hamilton-parish,bermuda
+383,Wolves SC,930756,wolves-sc,bermuda
+384,Paro FC,338855,paro-fc,bhutan
+385,Thimphu City,245117,thimphu-city,bhutan
+386,Royal Thimphu College FC,417798,royal-thimphu-college-fc,bhutan
+387,Transport United,275594,transport-united,bhutan
+388,BFF Academy U19,417911,bff-academy-u19,bhutan
+389,Ugyen Academy FC,353899,ugyen-academy-fc,bhutan
+390,Tsirang FC,476175,tsirang-fc,bhutan
+391,Southern City,512351,southern-city,bhutan
+392,Tensung FC,353683,tensung-fc,bhutan
+393,Samtse,476262,samtse,bhutan
+394,FK Borac Banja Luka,5235,fk-borac-banja-luka,bosnia-herzegovina
+395,FK Željezničar,5240,fk-zeljeznicar,bosnia-herzegovina
+396,FK Radnik Bijeljina,6149,fk-radnik-bijeljina,bosnia-herzegovina
+397,NK Široki Brijeg,5239,nk-siroki-brijeg,bosnia-herzegovina
+398,FK Sloga Doboj,37064,fk-sloga-meridian,bosnia-herzegovina
+399,FK Sarajevo,5237,fk-sarajevo,bosnia-herzegovina
+400,HŠK Posušje,6147,hsk-posusje,bosnia-herzegovina
+401,FK Rudar Prijedor,36537,fk-rudar-prijedor,bosnia-herzegovina
+402,HŠK Zrinjski Mostar,5178,hsk-zrinjski-mostar,bosnia-herzegovina
+403,FK Velež Mostar,6151,fk-velez-mostar,bosnia-herzegovina
+404,Jwaneng Galaxy FC,297712,jwaneng-galaxy-fc,botswana
+405,Township Rollers FC,277010,township-rollers-fc,botswana
+406,Sua Flamingoes FC,398669,sua-flamingos,botswana
+407,Gaborone United,286890,gaborone-united,botswana
+408,Mochudi Centre Chiefs,134296,mochudi-centre-chiefs,botswana
+409,Botswana Defence Force XI,281168,bdf-xi,botswana
+410,Nico United,453220,nico-united,botswana
+411,Tafic FC,327832,tafic-fc,botswana
+412,Santa Green FC,1106877,santa-green-fc,botswana
+413,Matebele,488867,matebele,botswana
+414,Police XI,297707,police-xi,botswana
+415,Extension Gunners,281169,extension-gunners,botswana
+416,Orapa United,297710,orapa-united,botswana
+417,Calendar Stars,1106876,calendar-stars,botswana
+418,Black Lions FC,1117606,black-lions-fc,botswana
+419,Morupule Wanderers,327834,morupule-wanderers,botswana
+420,Flamengo,5981,flamengo,brazil
+421,Cruzeiro,1954,cruzeiro,brazil
+422,Palmeiras,1963,palmeiras,brazil
+423,Bahia,1955,bahia,brazil
+424,Botafogo,1958,botafogo,brazil
+425,Mirassol,21982,mirassol,brazil
+426,São Paulo,1981,sao-paulo,brazil
+427,Red Bull Bragantino,1999,red-bull-bragantino,brazil
+428,Fluminense,1961,fluminense,brazil
+429,Internacional,1966,internacional,brazil
+430,Ceará,2001,ceara,brazil
+431,Corinthians,1957,corinthians,brazil
+432,Grêmio,5926,gremio,brazil
+433,Atlético Mineiro,1977,atletico-mineiro,brazil
+434,Vasco da Gama,1974,vasco-da-gama,brazil
+435,Santos,1968,santos,brazil
+436,Vitória,1962,vitoria,brazil
+437,Juventude,1980,juventude,brazil
+438,Fortaleza,2020,fortaleza,brazil
+439,Sport Recife,1959,sport-recife,brazil
+440,Virgin Gorda United,463150,virgin-gorda-united,british-virgin-islands
+441,Wolues FC,463153,wolues-fc,british-virgin-islands
+442,Islanders FC,463144,islanders-fc,british-virgin-islands
+443,Panthers FC,463143,panthers-fc,british-virgin-islands
+444,One Love United FC,463151,one-love-united-fc,british-virgin-islands
+445,Lion Heart FC,463149,lion-heart-fc,british-virgin-islands
+446,Rebels FC,463146,rebels-fc,british-virgin-islands
+447,Positive FC,463148,positive-fc,british-virgin-islands
+448,Sugar Boys FC,463152,sugar-boys-fc,british-virgin-islands
+449,Old Madrid FC,463145,old-madrid-fc,british-virgin-islands
+450,Avengers FC,933557,avengers-fc,british-virgin-islands
+451,Kasuka FC,378124,kasuka-fc,brunei
+452,Indera SC,338854,indera-sc,brunei
+453,Kota Ranger FC,385126,kota-ranger-fc,brunei
+454,MS ABDB,385125,ms-abdb,brunei
+455,AKSE Bersatu,463701,akse-bersatu,brunei
+456,KB FC,385118,kb-fc,brunei
+457,MS PPDB,385121,ms-ppdb,brunei
+458,IKLS MB-5,385122,ikls-mb-5,brunei
+459,Wijaya FC,385117,wijaya-fc,brunei
+460,Rimba Star FC,385120,rimba-star-fc,brunei
+461,Lun Bawang FC,463702,lun-bawang-fc,brunei
+462,Panchor Murai FC,385128,panchor-murai-fc,brunei
+463,Bakes FC,385123,bakes-fc,brunei
+464,Setia Perdana FC,385119,setia-perdana-fc,brunei
+465,BSRC FC,385124,bsrc-fc,brunei
+466,Jerudong FC,385127,jerudong-fc,brunei
+467,Ludogorets,43840,ludogorets,bulgaria
+468,Levski Sofia,3273,levski-sofia,bulgaria
+469,Lokomotiv Plovdiv,3272,lokomotiv-plovdiv,bulgaria
+470,FC CSKA 1948 Sofia,252080,fc-cska-1948-sofia,bulgaria
+471,Cherno More Varna,3280,cherno-more-varna,bulgaria
+472,Lokomotiv Sofia,3277,lokomotiv-sofia,bulgaria
+473,Botev Vratsa,36938,botev-vratsa,bulgaria
+474,PFK Montana 1921,32642,pfk-montana-1921,bulgaria
+475,Beroe Stara Zagora,3281,beroe-stara-zagora,bulgaria
+476,FK Septemvri Sofia,201203,fk-septemvri-sofia,bulgaria
+477,Arda Kardzhali,274971,arda-kardzhali,bulgaria
+478,FK Dobrudzha Dobrich,5242,fk-dobrudzha-dobrich,bulgaria
+479,Slavia Sofia,3274,slavia-sofia,bulgaria
+480,CSKA Sofia,3275,cska-sofia,bulgaria
+481,FK Spartak Varna,3278,fk-spartak-varna,bulgaria
+482,Botev Plovdiv,5241,botev-plovdiv,bulgaria
+483,Aigle Noir SC,271294,aigle-noir-sc,burundi
+484,Flambeau du Centre,341719,flambeau-du-centre,burundi
+485,Muzinga FC,345189,muzinga-fc,burundi
+486,Olympic Star,327936,olympic-star,burundi
+487,Musongati FC,334574,musongati-fc,burundi
+488,Bumamuru,326098,bumamuru,burundi
+489,Royal Vision 2026,827522,royal-vision-2026,burundi
+490,Kayanza United,329383,kayanza-united,burundi
+491,Le Messager Ngozi,273393,le-messager-ngozi,burundi
+492,Garage Express,452094,garage-express,burundi
+493,Ngozi City,326353,ngozi-city,burundi
+494,Inter Stars,239489,inter-stars,burundi
+495,Rukinzo FC,325658,rukinzo-fc,burundi
+496,Vital'O FC,215597,vitalo-fc,burundi
+497,BG Green Maze FC,1110447,green-farmers-fc,burundi
+498,BS Dynamik,326097,bs-dynamik,burundi
+499,Svay Rieng FC,153474,svay-rieng-fc,cambodia
+500,Angkor Tiger,294279,angkor-tiger,cambodia
+501,Tiffy Army FC,465538,tiffy-army-fc,cambodia
+502,Visakha FC,291651,visakha-fc,cambodia
+503,MOI Kompong Deva FC​,319878,national-police-commissary,cambodia
+504,Nagaworld FC,153476,nagaworld-fc,cambodia
+505,Boeung Ket FC,95619,boeung-ket-fc,cambodia
+506,Kirivong Soksen Chey,340471,kirivong-soksen-chey,cambodia
+507,Phnom Penh Crown,35605,phnom-penh-crown,cambodia
+508,Life FC,555838,life-fc,cambodia
+509,ISI Dangkor Senchey FC,483831,isi-dangkor-senchey-fc,cambodia
+510,Colombe FC,247067,colombe-fc,cameroon
+511,Panthere Sportive du Nde,62220,panthere-sportive-du-nde,cameroon
+512,Gazelle FA de Garoua,317671,gazelle-fa-de-garoua,cameroon
+513,Coton Sport de Garoua,42575,coton-sport-de-garoua,cameroon
+514,Stade Renard,247069,stade-renard,cameroon
+515,Victoria United Limbe,294293,victoria-united-limbe,cameroon
+516,Canon Yaoundé,42577,canon-yaounde,cameroon
+517,PWD Bamenda,308673,pwd-bamenda,cameroon
+518,Fauve Azur de Yaounde,317820,fauve-azur-de-yaounde,cameroon
+519,Dynamo de Douala,310804,dynamo-de-douala,cameroon
+520,AS Fortuna,276693,as-fortuna,cameroon
+521,Aigle Royal DU Moungo,384465,aigle-royal-du-moungo,cameroon
+522,Bamboutos FC de Mbouda,136726,bamboutos-fc-de-mbouda,cameroon
+523,Astres FC de Douala,42576,astres-fc-de-douala,cameroon
+524,Union Sportive de Douala,62230,union-sportive-de-douala,cameroon
+525,Yong Sports Academy,62234,yong-sports-academy,cameroon
+526,Forge FC,313716,forge-fc,canada
+527,Atlético Ottawa,342076,atletico-ottawa,canada
+528,Cavalry FC,309889,cavalry-fc,canada
+529,HFX Wanderers FC,309892,hfx-wanderers-fc,canada
+530,York United FC,309890,york-united-fc,canada
+531,Pacific FC,309888,pacific-fc,canada
+532,Valour FC,313717,valour-fc,canada
+533,Vancouver FC,463097,vancouver-fc,canada
+534,Boavista da Praia,517663,boavista-da-praia,cape-verde
+535,GD Palmeira,414735,gd-palmeira,cape-verde
+536,CF Os Sanjoanenses,468924,cf-os-sanjoanenses,cape-verde
+537,Paulense DC,1090976,paulense-desportivo-clube,cape-verde
+538,CS Mindelense,414737,cs-mindelense,cape-verde
+539,Académica da Praia,1091241,academica-da-praia,cape-verde
+540,Sal-Rei SC,1090977,sal-rei-sc,cape-verde
+541,FC Ultramarina,414733,fc-ultramarina,cape-verde
+542,CD Scorpion Vermelho,1091238,scorpion,cape-verde
+543,Botafogo de São Filipe,414728,botafogo-de-sao-filipe,cape-verde
+544,Elite SC,503043,elite-sc,cayman-islands
+545,345 FC,503046,345-fc,cayman-islands
+546,Academy SC,503045,academy-sc,cayman-islands
+547,Tigers FC,1046232,tigers-fc,cayman-islands
+548,Scholars International SC,485252,scholars-international-sc,cayman-islands
+549,Bodden Town FC,503044,bodden-town-fc,cayman-islands
+550,East End United FC,1046233,east-end-united-fc,cayman-islands
+551,Sunset FC,1046230,sunset-fc,cayman-islands
+552,Cayman Brac FC,1075726,cayman-brac-fc,cayman-islands
+553,Future SC,503042,future-sc,cayman-islands
+554,Roma United SC,503041,roma-united-sc,cayman-islands
+555,Elect-Sport,514684,elect-sport,chad
+556,Aiglons FC,514692,aiglons-fc,chad
+557,As Psi,514687,as-psi,chad
+558,Foullah Edifice,134280,foullah-edifice,chad
+559,Renaissance FC Ndjamena,371288,renaissance-fc-ndjamena,chad
+560,Algoy,514681,algoy,chad
+561,Emat,514685,emat,chad
+562,Stars J. Talents,514682,stars-j-talents,chad
+563,Galactik FC,514714,galactik-fc,chad
+564,Ascot,514691,ascot,chad
+565,As Dgssie,514683,as-dgssie,chad
+566,Gazelle FC,514688,gazelle-fc,chad
+567,FC Yves,514699,fc-yves,chad
+568,Tourbillon FC,514689,tourbillon-fc,chad
+569,Deportes Puerto Montt,3158,deportes-puerto-montt,chile
+570,Provincial Ovalle,372987,provincial-ovalle,chile
+571,Deportes Linares,332458,deportes-linares,chile
+572,Deportes Melipilla,5033,deportes-melipilla,chile
+573,Provincial Osorno,21873,provincial-osorno,chile
+574,Brujas de Salamanca,411445,municipal-salamanca,chile
+575,CD Trasandino de Los Andes,312329,cd-trasandino-de-los-andes,chile
+576,San Antonio Unido,284401,san-antonio-unido,chile
+577,CD Concón National,512254,cd-concon-national-fc,chile
+578,General Velasquez,284654,general-velasquez,chile
+579,Deportes Rengo,312330,deportes-rengo,chile
+580,Real San Joaquín,411418,real-san-joaquin,chile
+581,Santiago City FC,468447,santiago-city-fc,chile
+582,AC Barnechea,84875,ac-barnechea,chile
+583,Chengdu Rongcheng,221241,chengdu-rongcheng,china
+584,Shanghai Shenhua,3373,shanghai-shenhua,china
+585,Shanghai Port,41537,shanghai-port,china
+586,Beijing Guoan,3376,beijing-guoan,china
+587,Shandong Taishan,3371,shandong-taishan,china
+588,Zhejiang,34697,zhejiang,china
+589,Tianjin Jinmen Tiger,3367,tianjin-jinmen-tiger,china
+590,Yunnan Yukun,474991,yunnan-yukun,china
+591,Dalian Yingbo FC,474992,dalian-young-boy-fc,china
+592,Qingdao West Coast,369532,qingdao-west-coast,china
+593,Wuhan Three Towns,295152,wuhan-three-towns,china
+594,Henan FC Jiuzu Dukang,34692,henan-songshan-longmen,china
+595,Shenzhen Peng City,281331,shenzhen-city,china
+596,Meizhou Hakka,215186,meizhou-hakka,china
+597,Qingdao Hainiu,34695,qingdao-hainiu,china
+598,Changchun Yatai,34694,changchun-yatai,china
+599,AC Taipei,1116481,ac-taipei,chinese-taipei
+600,Taichung Blue Whale,345946,taichung-blue-whale,chinese-taipei
+601,Hang Yuen Women,483189,hang-yuen,chinese-taipei
+602,Taichung Cherry Blossoms,1116482,taichung-cherry-blossoms,chinese-taipei
+603,Kaohsiung Sunny Bank,345942,kaohsiung-sunny-bank,chinese-taipei
+604,Hualien,345944,hualien,chinese-taipei
+605,Valkyrie,1116483,valkyrie,chinese-taipei
+606,Taipei Bravo!,345947,taipei-bravo,chinese-taipei
+607,Independiente Medellín,6115,independiente-medellin,colombia
+608,América de Cali,6102,america-de-cali,colombia
+609,Deportes Tolima,6111,deportes-tolima,colombia
+610,Junior Barranquilla,6105,junior-barranquilla,colombia
+611,US Zilimadjou,371276,us-zilimadjou,comoros
+612,Djabal FC,403976,djabal-fc,comoros
+613,Atomic Ngomé,506355,atomic-ngome,comoros
+614,Volcan Club,402715,volcan-club,comoros
+615,FC Hantsindzi,378285,fc-hantsindzi,comoros
+616,Alizé Fort,506356,alize-fort,comoros
+617,Étoile des Comores Nioumadzaha,378286,etoile-des-comores-nioumadzaha,comoros
+618,Amical Club,929926,amical-club,comoros
+619,FC Malé,378284,fc-male,comoros
+620,US de Mbéni,378279,union-sportive-de-mbeni-usm,comoros
+621,N'Gaya Club,929925,ngaya-club,comoros
+622,Coin-Nord de Mitsamiouli,929927,coin-nord-de-mitsamiouli,comoros
+623,Étoile du Congo,215598,etoile-du-congo,congo-republic
+624,Inter Club de Brazzaville,275892,inter-club-de-brazzaville,congo-republic
+625,JS Talangaï,275885,js-talangai,congo-republic
+626,FC Racine,1055379,fc-racine,congo-republic
+627,AS Otohô,275889,as-otoho,congo-republic
+628,JS Poto-Poto,275884,js-poto-poto,congo-republic
+629,Diables Noirs,134292,diables-noirs,congo-republic
+630,CARA Brazzaville,275891,cara-brazzaville,congo-republic
+631,Patronage Sainte-Anne,275883,patronage-sainte-anne,congo-republic
+632,AS Jeunesse Unie de Kintélé,453219,as-jeunesse-unie-de-kintele,congo-republic
+633,AS Penarol,1077687,as-penarol,congo-republic
+634,AS Bana Nouvelle Génération,403406,as-bana-nouvelle-generation,congo-republic
+635,FC Kondzo,275887,as-kondzo,congo-republic
+636,Avenir FC,1078385,avenir-fc,congo-republic
+637,Tupapa Maraerenga FC,276665,tupapa-maraerenga-fc,cook-islands
+638,Matavera-Ngatangiia FC,498522,matavera-ngatangiia-fc,cook-islands
+639,Nikao Sokattak FC,425310,nikao-sokattak-fc,cook-islands
+640,Puaikura,246597,puaikura,cook-islands
+641,Titikaveka FC,498524,titikaveka-fc,cook-islands
+642,Avatiu FC,498523,avatiu-fc,cook-islands
+643,Municipal Liberia,6575,municipal-liberia,costa-rica
+644,Herediano,7045,herediano,costa-rica
+645,Deportivo Saprissa,6574,deportivo-saprissa,costa-rica
+646,LD Alajuelense,6572,ld-alajuelense,costa-rica
+647,CS Cartaginés,7044,cs-cartagines,costa-rica
+648,Municipal Pérez Zeledón,6576,municipal-perez-zeledon,costa-rica
+649,San Carlos,7047,san-carlos,costa-rica
+650,Puntarenas FC,7046,puntarenas-fc,costa-rica
+651,Guadalupe FC,261695,guadalupe-fc,costa-rica
+652,Sporting FC,262906,sporting-san-jose,costa-rica
+653,GNK Dinamo Zagreb,2032,gnk-dinamo-zagreb,croatia
+654,HNK Hajduk Split,2036,hnk-hajduk-split,croatia
+655,NK Lokomotiva Zagreb,36246,nk-lokomotiva-zagreb,croatia
+656,NK Varaždin,231380,nk-varazdin,croatia
+657,NK Slaven Belupo,2042,nk-slaven-belupo,croatia
+658,HNK Gorica,43917,hnk-gorica,croatia
+659,HNK Rijeka,2039,hnk-rijeka,croatia
+660,NK Istra 1961,25529,nk-istra-1961,croatia
+661,NK Osijek,2040,nk-osijek,croatia
+662,HNK Vukovar 1991,6672,hnk-vukovar-1991,croatia
+663,CRKSV Jong Colombia,307570,crksv-jong-colombia,curacao
+664,RKSV Scherpenheuvel,246865,rksv-scherpenheuvel,curacao
+665,RKSV Centro Dominguito,248874,rksv-centro-dominguito,curacao
+666,Inter Willemstad,248361,inter-willemstad,curacao
+667,CRKSV Jong Holland,246866,crksv-jong-holland,curacao
+668,SV Victory Boys,246905,sv-victory-boys,curacao
+669,SV SUBT,248465,sv-subt,curacao
+670,SV UNDEBA,246904,sv-undeba,curacao
+671,Atletiko Saliña,494143,atletiko-salina,curacao
+672,CSD Barber,248464,csd-barber,curacao
+673,Aris Limassol,3397,aris-limassol,cyprus
+674,Ethnikos Achnas,3396,ethnikos-achnas,cyprus
+675,Akritas Chlorakas,36398,akritas-chlorakas,cyprus
+676,AEK Larnaca,3404,aek-larnaca,cyprus
+677,Pafos FC,171626,pafos-fc,cyprus
+678,APOEL Nicosia,3398,apoel-nicosia,cyprus
+679,AEL Limassol,3407,ael-limassol,cyprus
+680,Enosis Neon Ypsona FC,329409,krasava-ypsona-fc,cyprus
+681,Olympiakos Nicosia,3401,olympiakos-nicosia,cyprus
+682,Anorthosis Famagusta,3403,anorthosis-famagusta,cyprus
+683,Omonia Aradippou,25542,omonia-aradippou,cyprus
+684,Omonia Nicosia,3395,omonia-nicosia,cyprus
+685,Enosis Neon Paralimniou,3405,enosis-neon-paralimniou,cyprus
+686,Apollon Limassol,3402,apollon-limassol,cyprus
+687,AC Sparta Praha,2218,sparta-praha,czech-republic
+688,SK Slavia Praha,2216,slavia-praha,czech-republic
+689,FK Jablonec,2205,fk-jablonec,czech-republic
+690,SK Sigma Olomouc,2207,sk-sigma-olomouc,czech-republic
+691,FC Zlín,2220,fc-zlin,czech-republic
+692,Viktoria Plzeň,4502,viktoria-plzen,czech-republic
+693,MFK Karviná,23951,mfk-karvina,czech-republic
+694,FC Slovan Liberec,2219,fc-slovan-liberec,czech-republic
+695,Bohemians Praha 1905,6064,bohemians-praha-1905,czech-republic
+696,FC Hradec Králové,2217,fc-hradec-kralove,czech-republic
+697,Dukla Praha,7739,dukla-praha,czech-republic
+698,1. FC Slovácko,4871,1-fc-slovacko,czech-republic
+699,Baník Ostrava,2204,banik-ostrava,czech-republic
+700,Mladá Boleslav,2224,mlada-boleslav,czech-republic
+701,FK Teplice,2208,fk-teplice,czech-republic
+702,FK Pardubice,2230,fk-pardubice,czech-republic
+703,FC København,1284,fc-kobenhavn,denmark
+704,FC Midtjylland,1289,fc-midtjylland,denmark
+705,AGF,1291,agf,denmark
+706,Brøndby IF,1281,brondby-if,denmark
+707,Sønderjyske Fodbold,1295,sonderjyske,denmark
+708,FC Fredericia,1302,fc-fredericia,denmark
+709,Viborg FF,1288,viborg-ff,denmark
+710,FC Nordsjælland,1292,fc-nordsjaelland,denmark
+711,Odense Boldklub,1286,odense-bk,denmark
+712,Randers FC,1301,randers-fc,denmark
+713,Silkeborg IF,1285,silkeborg-if,denmark
+714,Vejle,4872,vejle,denmark
+715,Dublanc FC,387876,cccul-dublanc-fc,dominica
+716,Mahaut Soca Strikers,1083054,mahaut-soca-strikers,dominica
+717,WE United,386769,we-united,dominica
+718,Sagicor South East,530886,sagicor-south-east,dominica
+719,Bombers FC,1083279,bombers-fc,dominica
+720,Middleham United,1083280,middleham-united,dominica
+721,Harlem United SC,1083282,harlem-united-sc,dominica
+722,Point Michel,386264,point-michel,dominica
+723,East Central FC,1083281,east-central-fc,dominica
+724,Ds Fc,1083053,ds-fc,dominica
+725,Club Atlético Pantoja,229207,club-atletico-pantoja,dominican-republic
+726,Salcedo FC,511055,salcedo-fc,dominican-republic
+727,O&M FC,284175,universidad-o-and-m,dominican-republic
+728,Moca FC,298873,moca-fc,dominican-republic
+729,Cibao FC,229208,cibao-fc,dominican-republic
+730,Atlético Vega Real,297213,atletico-vega-real,dominican-republic
+731,Delfines del Este FC,321876,delfines-del-este-fc,dominican-republic
+732,Jarabacoa FC,287242,jarabacoa-fc,dominican-republic
+733,Atlántico FC,271430,atlantico-fc,dominican-republic
+734,Atlético San Cristóbal,229798,atletico-san-cristobal,dominican-republic
+735,Tout Puissant Mazembe,38873,toutes-puissant-mazembe,dr-congo
+736,FC Saint-Éloi Lupopo,371343,fc-saint-eloi-lupopo,dr-congo
+737,SM Sanga Balende,191186,sm-sanga-balende,dr-congo
+738,FC Tanganyika,483141,fc-tanganyika,dr-congo
+739,AS Simba,371664,as-simba,dr-congo
+740,CS Don Bosco,371619,cs-don-bosco,dr-congo
+741,Blessing FC,378134,blessing-fc,dr-congo
+742,Groupe Bazano,380399,groupe-bazano,dr-congo
+743,AS Malole,555246,as-malole,dr-congo
+744,US Tshinkunku,393650,union-sportive-tshinkunku,dr-congo
+745,Lubumbashi Sport,380668,lubumbashi-sport,dr-congo
+746,US Panda B52,393647,us-panda-b52,dr-congo
+747,Independiente del Valle,39723,independiente-del-valle,ecuador
+748,Barcelona SC,5250,barcelona-sc,ecuador
+749,LDU,5257,ldu,ecuador
+750,Deportivo Cuenca,5251,deportivo-cuenca,ecuador
+751,Universidad Católica del Ecuador,21942,universidad-catolica-del-ecuador,ecuador
+752,Libertad,394127,libertad,ecuador
+753,Orense SC,277525,orense-sc,ecuador
+754,Aucas,5249,aucas,ecuador
+755,Emelec,5255,emelec,ecuador
+756,El Nacional,5254,el-nacional,ecuador
+757,Macará,6001,macara,ecuador
+758,Delfín,213638,delfin,ecuador
+759,Manta FC,33561,manta-fc,ecuador
+760,Técnico Universitario,21941,tecnico-universitario,ecuador
+761,Vinotinto FC,465299,cuniburo-fc,ecuador
+762,Mushuc Runa SC,134976,mushuc-runa,ecuador
+763,Al-Masry,43560,al-masry,egypt
+764,Zamalek SC,42368,zamalek-sc,egypt
+765,Modern Sport FC,265830,modern-future-fc,egypt
+766,Petrojet,43567,petrojet,egypt
+767,Pyramids FC,175002,pyramids-fc,egypt
+768,ENPPI,43564,enppi,egypt
+769,Ghazl El Mahalla FC,58319,ghazl-el-mahalla,egypt
+770,Smouha,43563,smouha,egypt
+771,Ceramica Cleopatra,371622,ceramica-cleopatra,egypt
+772,Wadi Degla,43568,wadi-degla,egypt
+773,ZED FC,373168,zed-fc,egypt
+774,El Gouna FC,43565,el-gouna-fc,egypt
+775,Al Ahly FC,6910,al-ahly-fc,egypt
+776,Haras El Hedoud,43566,haras-el-hedoud,egypt
+777,Tala'ea El-Gaish,43561,talaea-el-gaish,egypt
+778,National Bank of Egypt,266626,national-bank-of-egypt,egypt
+779,Ismaily,42366,ismaily,egypt
+780,Al-Ittihad Alexandria,35187,al-ittihad-alexandria,egypt
+781,Arab Contractors FC,42365,al-mokawloon,egypt
+782,Ismailia Electricity Club,241702,kahrabaa-ismailia-sc,egypt
+783,Pharco FC,241703,pharco-fc,egypt
+784,CD FAS,24386,cd-fas,el-salvador
+785,CD Luis Ángel Firpo,24388,c-d-luis-angel-firpo,el-salvador
+786,Isidro Metapan,24382,isidro-metapan,el-salvador
+787,CD Águila,24385,cd-aguila,el-salvador
+788,Alianza FC,24383,alianza-fc,el-salvador
+789,CD Cacahuatique,335240,cd-cacahuatique,el-salvador
+790,CD Municipal Limeño,228633,cd-municipal-limeno,el-salvador
+791,CD Hercules,1099336,cd-hercules,el-salvador
+792,Fuerte San Francisco,310030,fuerte-san-francisco,el-salvador
+793,C.D. Platense Zacatecoluca,306368,cd-platense-zacatecoluca,el-salvador
+794,Inter FA,343177,fundacion-formado-un-atleta,el-salvador
+795,Zacatecoluca FC,852872,zacatecoluca-fc,el-salvador
+796,FCI Levadia Tallinn,3342,fci-levadia-tallinn,estonia
+797,Flora Tallinn,3346,flora-tallinn,estonia
+798,Paide Linnameeskond,32476,paide-linnameeskond,estonia
+799,Nõmme Kalju,8091,nomme-kalju,estonia
+800,Narva Trans,3343,narva-trans,estonia
+801,Pärnu JK Vaprus,247090,parnu-jk-vaprus,estonia
+802,Tartu JK Tammeka,138566,tartu-jk-tammeka,estonia
+803,Harju Jalgpallikool,197994,harju-jalgpallikool,estonia
+804,FC Kuressaare,7106,fc-kuressaare,estonia
+805,Tallinna Kalev,7105,tallinna-kalev,estonia
+806,Ethiopian Medhin,448123,ethiopian-medhin,ethiopia
+807,Ethiopia Bunna,241957,ethiopia-bunna,ethiopia
+808,Bahir Dar Kenema FC,317333,bahir-dar-kenema-fc,ethiopia
+809,Hawassa City,274249,hawassa-city,ethiopia
+810,Sidama Bunna FC,315378,sidama-bunna-fc,ethiopia
+811,Wolaita Dicha FC,277540,wolaita-dicha-fc,ethiopia
+812,Arba Minch,241822,arbaminch,ethiopia
+813,Hadiya Hossana,338073,hadiya-hossana,ethiopia
+814,Saint George,94787,saint-george,ethiopia
+815,Mechal,258167,mekelakeya,ethiopia
+816,Ethiopia Nigd Bank,241821,ethiopia-nigd-bank,ethiopia
+817,Ethiopia Electricity,273369,ethiopia-electricity,ethiopia
+818,Dire Dawa,237728,dire-dawa,ethiopia
+819,Fasil Ketema,273370,fasil-ketema,ethiopia
+820,Mekelle 70  Enderta,274479,mekelle-70-enderta,ethiopia
+821,Adama City,237727,adama-city,ethiopia
+822,Shire Endaselassie FC,308073,shire-endaselassie-fc,ethiopia
+823,Welwalu Adigrat,274408,welwalu-adigrat,ethiopia
+824,Klaksvíkar Ítróttarfelag,5194,klaksvikar-itrottarfelag,faroe-islands
+825,NSÍ Runavík,5189,nsi-runavik,faroe-islands
+826,HB Tórshavn,5187,havnar-boltfelag,faroe-islands
+827,Víkingur Gøta,5193,vikingur-gota,faroe-islands
+828,B36 Tórshavn,5185,b36-torshavn,faroe-islands
+829,EB/Streymur,5260,ebstreymur,faroe-islands
+830,B68 Toftir,5186,b68-toftir,faroe-islands
+831,FC Suduroy,5192,fc-suduroy,faroe-islands
+832,Tvøroyrar Bóltfelag,5191,tvoroyrar-boltfelag,faroe-islands
+833,07 Vestur Sørvágur,36144,07-vestur-sorvagur,faroe-islands
+834,Rewa FC,246595,rewa-fc,fiji
+835,FC Labasa,371114,fc-labasa,fiji
+836,Lautoka FC,276667,lautoka-fc,fiji
+837,Navua FC,370088,navua-fc,fiji
+838,Ba Football Association,86732,ba-football-association,fiji
+839,Nadi FC,149160,nadi-fc,fiji
+840,Suva FC,193722,suva-fc,fiji
+841,Nadroga FC,374050,nadroga-fc,fiji
+842,Nasinu FC,370089,nasinu-fc,fiji
+843,Tavua FC,459809,tavua-fc,fiji
+844,Inter Turku,2247,inter-turku,finland
+845,Ilves,22386,ilves,finland
+846,HJK,2242,hjk,finland
+847,KuPS,2244,kups,finland
+848,SJK,22395,sjk,finland
+849,IF Gnistan,2271,gnistan,finland
+850,VPS,2246,vps,finland
+851,FF Jaro,2252,ff-jaro,finland
+852,IFK Mariehamn,5058,ifk-mariehamn,finland
+853,AC Oulu,5114,ac-oulu,finland
+854,FC Haka,2240,fc-haka,finland
+855,KTP,2255,ktp,finland
+856,ASC Armire,1078167,asc-armire,french-guiana
+857,Loyola OC,377848,loyola-oc,french-guiana
+858,ASC Agouado,377849,asc-agouado,french-guiana
+859,ASC Karib,1078162,asc-karib,french-guiana
+860,Étoile de Matoury,184713,etoile-de-matoury,french-guiana
+861,Aigles d'Or de Mana,939274,aigles-d-or-de-mana,french-guiana
+862,Cosma Foot,1078177,cosma-foot,french-guiana
+863,US Matoury,304021,us-de-matoury,french-guiana
+864,ASC Le Geldar,377844,asc-le-geldar,french-guiana
+865,ASC Rémire,377845,asc-remire,french-guiana
+866,US Sinnamary,374813,us-sinnamary,french-guiana
+867,CSC Cayenne,334233,csc-cayenne,french-guiana
+868,Olympique de Cayenne,377851,olympique-de-cayenne,french-guiana
+869,ASU Grand Santi,377843,asu-grand-santi,french-guiana
+870,AS Mangasport,191190,as-mangasport,gabon
+871,FC 105 Libreville,420093,fc-105-libreville,gabon
+872,ASO Stade Mandji,445553,as-stade-mandji,gabon
+873,AO Cercle Mbéri Sportif,305263,centre-mberi-sportif,gabon
+874,Vautour Club,458975,vautour-club,gabon
+875,Lambaréné AC,325654,lambarene-ac,gabon
+876,Union Sportive d'Oyem,420090,union-sportive-doyem,gabon
+877,AS Bouenguidi,371279,as-bouenguidi,gabon
+878,Union Sportive de Bitam,134308,union-sportive-de-bitam,gabon
+879,AS Dikaki,420094,as-dikaki,gabon
+880,Lozo Sports,420092,lozo-sports,gabon
+881,CF Mounana,246939,cf-mounana,gabon
+882,Centre Sportif de Bendje,458976,centre-sportif-de-bendje,gabon
+883,Stade Migoveen,420096,stade-migoveen,gabon
+884,Ogooue FC,1101943,ogooue-fc,gabon
+885,Oyem Athletic Club,1101944,oyem-athletic-club,gabon
+886,Real De Banjul,191565,real-de-banjul,gambia
+887,Fortune FC,310077,fortune-fc,gambia
+888,Falcons FC,336980,falcons-fc,gambia
+889,BST Galaxy,460902,bst-galaxy,gambia
+890,Bombada FC,273893,bombada-fc,gambia
+891,Brikama United FC,312641,brikama-united-fc,gambia
+892,Hart Academy FC,462434,hart-academy-fc,gambia
+893,Steve Biko FC,134302,steve-biko-fc,gambia
+894,Hawks FC,275756,hawks-fc,gambia
+895,TMT FA,462175,tmt-fa,gambia
+896,Gambian Dutch Lions,499130,gambian-dutch-lions,gambia
+897,Team Rhino FC,339869,team-rhino-fc,gambia
+898,Greater Tomorrow FC,398824,greater-tomorrow-fc,gambia
+899,Gambia Armed Forces,270288,gambia-armed-forces,gambia
+900,Banjul United FC,281680,banjul-united-fc,gambia
+901,Marimoo Pakfood FC,274023,marimoo-pakfood-fc,gambia
+902,FC Iberia 1999,116312,fc-iberia-1999,georgia
+903,FC Dila Gori,33819,fc-dila-gori,georgia
+904,Dinamo Tbilisi,5171,dinamo-tbilisi,georgia
+905,Dinamo Batumi,37297,dinamo-batumi,georgia
+906,FC Torpedo Kutaisi,5419,fc-torpedo-kutaisi,georgia
+907,FC Gagra,36865,fc-gagra,georgia
+908,FC Samgurali Tskhaltubo,44217,fc-samgurali-tskhaltubo,georgia
+909,Gareji,248920,gareji,georgia
+910,FC Telavi,254627,fc-telavi,georgia
+911,FC Kolkheti-1913 Poti,37302,fc-kolkheti-1913-poti,georgia
+912,Aduana Stars FC,42610,aduana-stars,ghana
+913,Asante Kotoko SC,41755,asante-kotoko-sc,ghana
+914,Basake Holy Stars FC,458755,basake-holy-stars-fc,ghana
+915,Bechem United,115787,bechem-united,ghana
+916,Berekum Chelsea,42611,berekum-chelsea,ghana
+917,Bibiani Gold Stars FC,396192,bibiani-gold-stars-fc,ghana
+918,Dreams,213969,dreams,ghana
+919,Eleven Wonders,274972,eleven-wonders,ghana
+920,Samartex,196369,samartex,ghana
+921,Heart of Lions,42613,heart-of-lions,ghana
+922,Accra Hearts of Oak,42614,accra-hearts-of-oak,ghana
+923,Hohoe United FC,505233,hohoe-united-fc,ghana
+924,Karela United,274973,karela-united,ghana
+925,Medeama,81951,medeama,ghana
+926,Nations FC,486320,nations-fc,ghana
+927,Swedru All Blacks,377885,swedru-all-blacks,ghana
+928,Vision FC,458766,vision-fc,ghana
+929,Young Apostles FC,406370,young-apostles-fc,ghana
+930,St Joseph's FC,126312,st-josephs-fc,gibraltar
+931,Lions Gibraltar,126306,lions-gibraltar,gibraltar
+932,Lynx FC,126308,lynx-fc,gibraltar
+933,Mons Calpe,232548,mons-calpe,gibraltar
+934,FC Hound Dogs,340572,fc-hound-dogs,gibraltar
+935,Glacis United,126302,glacis-united,gibraltar
+936,Europa FC,126298,europa-fc,gibraltar
+937,FC Bruno's Magpies,255156,fc-brunos-magpies,gibraltar
+938,Manchester 62,126310,manchester-62,gibraltar
+939,Lincoln Red Imps,126304,lincoln-red-imps,gibraltar
+940,Europa Point FC,232549,europa-point-fc,gibraltar
+941,College 1975 FC,325710,college-1975-fc,gibraltar
+942,Olympiacos FC,3245,olympiacos-fc,greece
+943,AEK Athens,3250,aek-athens,greece
+944,PAOK,3251,paok,greece
+945,APO Levadiakos,5063,levadiakos,greece
+946,APS Atromitos Athinon,5062,atromitos-athens,greece
+947,Panetolikos,7004,panetolikos,greece
+948,OFI Crete,3241,ofi-crete,greece
+949,Aris Thessaloniki,3252,aris-thessaloniki,greece
+950,Panathinaikos,3248,panathinaikos,greece
+951,AE Kifisia,120224,ae-kifisia-fc,greece
+952,AE Larisa,3265,ae-larisa,greece
+953,Asteras Aktor,6342,asteras-tripolis,greece
+954,MGS Panserraikos,6347,panserraikos,greece
+955,NPS Volos,267459,volos-nfc,greece
+956,G-44 Qeqertarsuaq,522961,g-44-qeqertarsuaq,greenland
+957,Inuit Timersoqatigiiffiat-79,522958,inuit-timersoqatigiiffiat-79,greenland
+958,B-67 Nuuk,522963,b-67-nuuk,greenland
+959,Nagtoralik-45,522959,nagtoralik-45,greenland
+960,Nuuk FC,1108735,nuuk-fc,greenland
+961,Kissaviarsuk-33,522960,kissaviarsuk-33,greenland
+962,T-41 Aasiaat,1108734,t-41-aasiaat,greenland
+963,Tugto FC,1108736,tugto-fc,greenland
+964,Paradise FCI,381880,paradise-fci,grenada
+965,St. John's SC,381877,st-johns-sc,grenada
+966,Hurricanes SC,381882,hurricanes-sc,grenada
+967,SAB Spartans SC,381878,sab-spartans-sc,grenada
+968,Saint David's FC,1096050,saint-davids-fc,grenada
+969,FC Camerhogne,381886,fc-camerhogne,grenada
+970,Hard Rock FC,381883,hard-rock-fc,grenada
+971,Queen's Park Rangers,381879,queens-park-rangers,grenada
+972,North Stars FC,1096051,north-stars-fc,grenada
+973,Shamrock SC,520939,shamrock-fc,grenada
+974,Arsenal Club,498147,arsenal-club,guadeloupe
+975,Sporting Club Baie-Mahault,463080,sporting-club-baie-mahault,guadeloupe
+976,AO Gourbeyrienne,463088,ao-gourbeyrienne,guadeloupe
+977,AS Gosier,463087,as-gosier,guadeloupe
+978,AS Moule,498161,as-moule,guadeloupe
+979,L'Etoile de Morne-à-L'eau,84391,letoile-de-morne-a-leau,guadeloupe
+980,Jeunesse Évolution,334197,jeunesse-evolution,guadeloupe
+981,Siroco Les Abymes,183325,siroco-les-abymes,guadeloupe
+982,CS Moulien,210896,cs-moulien,guadeloupe
+983,La Gauloise,463082,la-gauloise,guadeloupe
+984,Stade Lamentinois,463079,stade-lamentinois,guadeloupe
+985,Dynamo Le Moule,463084,dynamo-le-moule,guadeloupe
+986,CA Marquisat,498148,ca-marquisat,guadeloupe
+987,Cerfa FC,463086,cerfa-fc,guadeloupe
+988,NAPA Rovers,504828,napa-rovers,guam
+989,Wings FC,469006,wings-fc,guam
+990,Bank of Guam Strykers FC,469003,bank-of-guam-strykers-fc,guam
+991,Quality Distributors,469005,quality-distributors,guam
+992,Sidekick SC,504823,sidekick-sc,guam
+993,U16 National Academy,1093069,u16-national-academy,guam
+994,Guam Shipyard,303811,guam-shipyard,guam
+995,Southern Cobras,504826,southern-cobras,guam
+996,Southern Heat,504829,southern-heat,guam
+997,Deportivo Mixco,296034,deportivo-mixco,guatemala
+998,Aurora FC,295547,aurora-fc,guatemala
+999,Antigua GFC,163296,antigua-gfc,guatemala
+1000,CSD Municipal,7025,csd-municipal,guatemala
+1001,CSD Xelajú MC,7026,csd-xelaju-mc,guatemala
+1002,Deportivo Achuapa,298481,deportivo-achuapa,guatemala
+1003,Comunicaciones FC,7024,comunicaciones-fc,guatemala
+1004,CD Marquense,7019,cd-marquense,guatemala
+1005,CD Mictlán,7020,cd-mictlan,guatemala
+1006,Deportivo Malacateco,7730,deportivo-malacateco,guatemala
+1007,Cobán Imperial,203021,coban-imperial,guatemala
+1008,Deportivo Guastatoya,163298,deportivo-guastatoya,guatemala
+1009,Horoya,134322,horoya,guinea
+1010,Hafia FC,325644,hafia-fc,guinea
+1011,Renaissance FC Conakry,462030,renaissance-fc-conakry,guinea
+1012,Ashanti Golden Boys,405279,ashanti-golden-boys,guinea
+1013,RCC Kamsar,1078692,rcc-kamsar,guinea
+1014,CI Kamsar,325652,ci-kamsar,guinea
+1015,Milo FC,405282,milo-fc,guinea
+1016,Wakriya AC,305255,wakriya-ac,guinea
+1017,AS Kaloum,191185,as-kaloum,guinea
+1018,ASM Sangarédi,462031,asm-sangaredi,guinea
+1019,Loubha FC,405276,loubha-fc,guinea
+1020,Foot Elite,1078689,foot-elite,guinea
+1021,Flamme Olympique de Guinée,405281,flamme-olympique-de-guinee,guinea
+1022,Académie SOAR,405280,academie-soar,guinea
+1023,CD Marathon,25355,cd-marathon,honduras
+1024,CD Olimpia,25358,cd-olimpia,honduras
+1025,Platense Futbol Club,42213,platense-futbol-club,honduras
+1026,Olancho FC,422195,olancho-fc,honduras
+1027,Juticalpa FC,203086,juticalpa-fc,honduras
+1028,Real CD España,36404,real-cd-espana,honduras
+1029,Lobos UPNFM,261766,lobos-upnfm,honduras
+1030,FC Motagua,22047,fc-motagua,honduras
+1031,Génesis PN,800157,policia-nacional-fc,honduras
+1032,CD Choloma,800174,cd-choloma,honduras
+1033,CD Victoria,42214,cd-victoria,honduras
+1034,Hong Kong Rangers,78447,hong-kong-rangers,hong-kong
+1035,Golik North District,303921,golik-north-district,hong-kong
+1036,Kitchee SC,42199,kitchee-sc,hong-kong
+1037,Lee Man FC,263691,lee-man-fc,hong-kong
+1038,Wofoo Tai Po,40662,wofoo-tai-po,hong-kong
+1039,Eastern District,245149,eastern-district,hong-kong
+1040,Kowloon City,299633,kowloon-city,hong-kong
+1041,Hong Kong FC,194227,hong-kong-fc,hong-kong
+1042,Southern District FC,78449,southern-district-fc,hong-kong
+1043,Eastern SC,115157,eastern-sc,hong-kong
+1044,Paksi FC,6059,paksi-fc,hungary
+1045,Ferencváros TC,1925,ferencvaros-tc,hungary
+1046,Debreceni VSC,1921,debreceni-vsc,hungary
+1047,Puskás Akadémia,25596,puskas-akademia,hungary
+1048,Kisvárda FC,25397,kisvarda-fc,hungary
+1049,ETO FC Győr,1923,eto-fc-gyor,hungary
+1050,Újpest,1924,ujpest,hungary
+1051,MTK Budapest,1915,mtk-budapest,hungary
+1052,Diósgyőri VTK,5121,diosgyori-vtk,hungary
+1053,Nyiregyháza Spartacus,5124,nyiregyhaza-spartacus,hungary
+1054,Zalaegerszegi TE,1922,zalaegerszegi-te,hungary
+1055,Kazincbarcikai SC,8059,kazincbarcikai-sc,hungary
+1056,Valur Reykjavík,1899,valur-reykjavik,iceland
+1057,Víkingur Reykjavík,1908,vikingur-reykjavik,iceland
+1058,Stjarnan Garðabær,1912,stjarnan-gardabaer,iceland
+1059,Breidablik Kópavogur,1901,breidablik-kopavogur,iceland
+1060,FH Hafnarfjörður,1894,fh-hafnarfjordur,iceland
+1061,Fram Reykjavík,1893,fram-reykjavik,iceland
+1062,ÍBV Vestmannaeyjar,1895,ibv-vestmannaeyjar,iceland
+1063,IF Vestri,221305,if-vestri,iceland
+1064,KA Akureyri,1904,ka-akureyri,iceland
+1065,KR Reykjavík,1902,kr-reykjavik,iceland
+1066,Afturelding,1914,afturelding,iceland
+1067,ÍA Akranes,1898,ia-akranes,iceland
+1068,Mohun Bagan Super Giant,370834,mohun-bagan-super-giant,india
+1069,FC Goa,174594,fc-goa,india
+1070,NorthEast United FC,174602,northeast-united,india
+1071,Bengaluru FC,118670,bengaluru-fc,india
+1072,Jamshedpur FC,267915,jamshedpur-fc,india
+1073,Mumbai City FC,174600,mumbai-city-fc,india
+1074,Odisha FC,174592,odisha-fc,india
+1075,Kerala Blasters,174598,kerala-blasters,india
+1076,East Bengal FC,40655,east-bengal-fc,india
+1077,Punjab FC,230661,punjab-fc,india
+1078,Chennaiyin FC,174590,chennaiyin-fc,india
+1079,Hyderabad FC,331840,hyderabad-fc,india
+1080,Mohammedan SC,118660,mohammedan-sc,india
+1081,Persija Jakarta,64295,persija-jakarta,indonesia
+1082,Borneo FC Samarinda,189945,borneo-fc-samarinda,indonesia
+1083,Arema FC,47465,arema-fc,indonesia
+1084,PSIM Yogyakarta,75653,psim-yogyakarta,indonesia
+1085,Persebaya Surabaya,76319,persebaya-surabaya,indonesia
+1086,Malut United FC,491968,malut-united,indonesia
+1087,Bali United FC,64299,bali-united-fc,indonesia
+1088,Persijap Jepara,135868,persijap-jepara,indonesia
+1089,Persib Bandung,64289,persib-bandung,indonesia
+1090,Bhayangkara Presisi Indonesia FC,220867,bhayangkara-presisi-indonesia-fc,indonesia
+1091,Madura United FC,86578,madura-united,indonesia
+1092,Persis Solo,200020,persis-solo,indonesia
+1093,Persik Kediri,135866,persik-kediri,indonesia
+1094,Semen Padang FC,86066,semen-padang,indonesia
+1095,PSM Makassar,135864,psm-makassar,indonesia
+1096,Dewa United FC,383891,dewa-united-fc,indonesia
+1097,PSBS Biak,266861,psbs-biak,indonesia
+1098,Persita Tangerang,86576,persita-tangerang,indonesia
+1099,Kheybar Khorramabad FC,274322,kheybar-khorramabad-fc,iran
+1100,Chador Malu Yazd,446285,chador-malu-yazd,iran
+1101,Esteghlal FC,34316,esteghlal-fc,iran
+1102,Malavan Bandar Anzali FC,53709,malavan-bandar-anzali-fc,iran
+1103,Paykan,73668,paykan,iran
+1104,Persepolis FC,34314,persepolis-fc,iran
+1105,Gol Gohar Sirjan,275525,gol-gohar-sirjan,iran
+1106,Fajr Sepasi FC,53717,fajr-sepasi-fc,iran
+1107,Zob Ahan,39328,zob-ahan,iran
+1108,Mes Rafsanjan FC,245405,mes-rafsanjan-fc,iran
+1109,Sepahan S.C.,8018,sepahan-sc,iran
+1110,Tractor FC,53715,tractor-fc,iran
+1111,Aluminium Arak,270969,aluminium-arak,iran
+1112,Foolad Khuzestan,53703,foolad-khuzestan,iran
+1113,Shams Azar Qazvin,375661,shams-azar-qazvin,iran
+1114,Esteghlal Khuzestan,109573,esteghlal-khuzestan,iran
+1115,Al-Shorta,61532,al-shorta,iraq
+1116,Al-Zawraa,35888,al-zawraa,iraq
+1117,Zakho SC,188763,zakho-fc,iraq
+1118,Al Talaba,47485,al-talaba,iraq
+1119,Al-Quwa Al-Jawiya,213877,al-quwa-al-jawiya,iraq
+1120,Al Naft SC,319883,al-naft-sc,iraq
+1121,Duhok SC,47479,duhok-fc,iraq
+1122,Al Karma SC,505704,al-karma,iraq
+1123,Newroz SC,396430,newroz-sc,iraq
+1124,Al-Qasim SC,330086,al-qasim-sc,iraq
+1125,Naft Missan,320444,naft-missan,iraq
+1126,Erbil SC,35889,erbil-sc,iraq
+1127,Al Kahraba,320458,al-kahraba,iraq
+1128,Al Najaf,320543,al-najaf,iraq
+1129,Al Karkh,320005,al-karkh,iraq
+1130,Al Mina'a SC,319835,al-minaa,iraq
+1131,Diyala SC,925386,diyala-sc,iraq
+1132,Naft Al-Basra SC,382056,naft-al-basra-sc,iraq
+1133,Al Hudod,453142,al-hudod,iraq
+1134,Karbalaa FC,517864,karbalaa-fc,iraq
+1135,Shamrock Rovers,3177,shamrock-rovers,ireland
+1136,Bohemian FC,3173,bohemian,ireland
+1137,Derry City,3170,derry-city,ireland
+1138,St. Patrick's Athletic,3169,st-patricks-athletic,ireland
+1139,Drogheda United,3180,drogheda-united,ireland
+1140,Shelbourne,3174,shelbourne,ireland
+1141,Waterford FC,3194,waterford-fc,ireland
+1142,Galway United,137382,galway-united,ireland
+1143,Sligo Rovers,3190,sligo-rovers,ireland
+1144,Cork City,40896,cork-city,ireland
+1145,Hapoel Be'er Sheva,5202,hapoel-beer-sheva,israel
+1146,Maccabi Haifa,5197,maccabi-haifa,israel
+1147,Hapoel Tel Aviv,5396,hapoel-tel-aviv,israel
+1148,Beitar Jerusalem,5204,beitar-jerusalem,israel
+1149,Maccabi Tel Aviv,5198,maccabi-tel-aviv,israel
+1150,Bnei Sakhnin,5392,bnei-sakhnin,israel
+1151,Ashdod SC,5391,ashdod-sc,israel
+1152,Hapoel Haifa,5201,hapoel-haifa,israel
+1153,Ironi Tiberias,61702,ironi-tiberias,israel
+1154,Hapoel Petach Tikva,5199,hapoel-petach-tikva,israel
+1155,Hapoel Ironi Kiryat Shmona,5399,hapoel-ironi-kiryat-shmona,israel
+1156,Maccabi Bney Reine,274894,maccabi-bney-reine,israel
+1157,Hapoel Jerusalem,86406,hapoel-katamon-jerusalem,israel
+1158,Maccabi Netanya,5395,maccabi-netanya,israel
+1159,ASEC Mimosas,42360,asec-mimosas,ivory-coast
+1160,Stella Club d'Adjamé,42362,stella-club-dadjame,ivory-coast
+1161,AFAD Plateau,69318,afad-djekanou,ivory-coast
+1162,FC San Pedro,238206,fc-san-pedro,ivory-coast
+1163,US Tchologo,1116943,us-tchologo,ivory-coast
+1164,Société Omnisports de l'Armée,84057,societe-omnisport-de-larmee,ivory-coast
+1165,CO Korhogo,84053,club-omnisports-de-korhogo,ivory-coast
+1166,Stade d'Abidjan,42361,stade-dabidjan,ivory-coast
+1167,Bouaké FC,185296,bouake-fc,ivory-coast
+1168,ES Agboville,1116942,es-agboville,ivory-coast
+1169,Inova SCA,929210,inova-sca,ivory-coast
+1170,Stars Olympic FC,326546,sol-fc,ivory-coast
+1171,FC Olympique Sport D'Abobo,852866,fc-osa,ivory-coast
+1172,Racing Club d'Abidjan,343408,racing-club-dabidjan,ivory-coast
+1173,FC Mouna d'Akoupé,494020,mouna-fc,ivory-coast
+1174,Zoman FC,494027,zoman-fc,ivory-coast
+1175,Racing United FC,925387,racing-united-fc,jamaica
+1176,Chapelton Maroons FC,455021,chapelton-maroons-fc,jamaica
+1177,Montego Bay United FC,173724,montego-bay-united,jamaica
+1178,Portmore United FC,124528,portmore-united-fc,jamaica
+1179,Cavalier FC,173720,cavalier-fc,jamaica
+1180,Waterhouse FC,173736,waterhouse-fc,jamaica
+1181,Treasure Beach FC,496048,treasure-beach-fc,jamaica
+1182,Dunbeholden FC,298574,dunbeholden-fc,jamaica
+1183,Mount Pleasant FA,298573,mount-pleasant-fa,jamaica
+1184,Tivoli Gardens,173734,tivoli-gardens,jamaica
+1185,Molynes United FC,327921,molynes-united-fc,jamaica
+1186,Harbour View FC,22050,harbour-view-fc,jamaica
+1187,Spanish Town Police FC,1120666,spanish-town-police-fc,jamaica
+1188,Arnett Gardens,173716,arnett-gardens,jamaica
+1189,Kyoto Sanga FC,3149,kyoto-sanga-fc,japan
+1190,Kashiwa Reysol,3140,kashiwa-reysol,japan
+1191,Vissel Kobe,3146,vissel-kobe,japan
+1192,Kashima Antlers,3134,kashima-antlers,japan
+1193,Machida Zelvia,44409,machida-zelvia,japan
+1194,Sanfrecce Hiroshima,3135,sanfrecce-hiroshima,japan
+1195,Urawa Red Diamonds,3145,urawa-red-diamonds,japan
+1196,Kawasaki Frontale,5127,kawasaki-frontale,japan
+1197,Gamba Osaka,3138,gamba-osaka,japan
+1198,Cerezo Osaka,3141,cerezo-osaka,japan
+1199,Fagiano Okayama,34034,fagiano-okayama,japan
+1200,Avispa Fukuoka,3143,avispa-fukuoka,japan
+1201,Shimizu S-Pulse,3133,shimizu-s-pulse,japan
+1202,Tokyo Verdy,3139,tokyo-verdy,japan
+1203,FC Tokyo,3147,fc-tokyo,japan
+1204,Nagoya Grampus,3136,nagoya-grampus,japan
+1205,Yokohama F. Marinos,3137,yokohama-f-marinos,japan
+1206,Shonan Bellmare,21905,shonan-bellmare,japan
+1207,Yokohama FC,7061,yokohama-fc,japan
+1208,Albirex Niigata,5128,albirex-niigata,japan
+1209,Ramtha SC,54595,ramtha-sc,jordan
+1210,Al Faisaly SC,47482,al-faisaly-sc,jordan
+1211,Al Hussein Irbid,117204,al-hussein-irbid,jordan
+1212,Al Salt,250534,al-salt,jordan
+1213,Al-Jazeera Jordan,54587,al-jazeera-jordan,jordan
+1214,Al-Baqa'a,54583,al-baqaa,jordan
+1215,Al-Wehdat,40650,al-wehdat,jordan
+1216,Al Ahli Jordan,167130,al-ahli-jordan,jordan
+1217,Shabab Al Ordun,40646,shabab-al-ordun,jordan
+1218,Sama Al Sarhan,310075,sama-al-sarhan,jordan
+1219,Astana,36155,astana,kazakhstan
+1220,Kairat Almaty,5172,kairat-almaty,kazakhstan
+1221,FC Tobol,5362,fc-tobol,kazakhstan
+1222,FK Aktobe,5355,fk-aktobe,kazakhstan
+1223,Yelimay Semey,464803,elimai-fc,kazakhstan
+1224,FC Okzhetpes,5359,fc-okzhetpes,kazakhstan
+1225,FK Zhenys,5363,fk-zhenys,kazakhstan
+1226,FC Ordabasy,5366,fc-ordabasy,kazakhstan
+1227,FC Kyzylzhar,5367,fc-kyzylzhar,kazakhstan
+1228,Zhetysu Taldykorgan,5364,zhetysu-taldykorgan,kazakhstan
+1229,FC Kaysar,36142,fc-kaysar,kazakhstan
+1230,Ulytau FC,464804,ulytau-fc,kazakhstan
+1231,FC Turan,316183,fc-turan,kazakhstan
+1232,Atyrau,5356,atyrau,kazakhstan
+1233,AFC Leopards SC,76433,afc-leopards-sc,kenya
+1234,APS Bomet FC,334948,aps-bomet-fc,kenya
+1235,Bandari FC,138474,bandari-fc,kenya
+1236,Bidco United,258735,bidco-united,kenya
+1237,Gor Mahia FC,134306,gor-mahia-fc,kenya
+1238,Kakamega Homeboyz,213604,kakamega-homeboyz,kenya
+1239,Kariobangi Sharks,246032,kariobangi-sharks,kenya
+1240,Kenya Commercial Bank,138478,kenya-commercial-bank,kenya
+1241,Kenya Police,291904,kenya-police,kenya
+1242,Mara Sugar FC,815035,mara-sugar-fc,kenya
+1243,Mathare United,138482,mathare-united,kenya
+1244,Muranga Seal,332427,muranga-seal,kenya
+1245,Nairobi United,257440,nairobi-united,kenya
+1246,Posta Rangers,213605,posta-rangers,kenya
+1247,Shabana FC,332880,shabana-fc,kenya
+1248,Sofapaka,138488,sofapaka,kenya
+1249,Tusker Football Club,138496,tusker,kenya
+1250,Ulinzi Stars,138498,ulinzi-stars,kenya
+1251,FC Prishtina,229752,fc-prishtina,kosovo
+1252,Dukagjini,230411,dukagjini,kosovo
+1253,KF Ferizaj,229756,kf-ferizaj,kosovo
+1254,KF Ballkani,230417,kf-ballkani,kosovo
+1255,KF Drenica,229754,kf-drenica,kosovo
+1256,SC Gjilani,229758,sc-gjilani,kosovo
+1257,KF Prishtina E Re,486180,kf-prishtina-e-re,kosovo
+1258,KF Llapi,229761,kf-llapi,kosovo
+1259,FC Drita,229755,fc-drita,kosovo
+1260,FC Malisheva,325494,fc-malisheva,kosovo
+1261,Al Fahaheel SC,55159,al-fehaheel,kuwait
+1262,Al Jahra SC,53845,al-jahra,kuwait
+1263,Al Kuwait SC,32525,al-kuwait,kuwait
+1264,Al Salmiya SC,55161,al-salmiya-sc,kuwait
+1265,Al Shabab SC,55169,al-shabab-kuwait,kuwait
+1266,Al Arabi SC Kuwait,35892,al-arabi-kuwait,kuwait
+1267,Al Nasr SC Kuwait,23401,al-nasr-kuwait,kuwait
+1268,Al Qadsia SC,23480,al-qadsia,kuwait
+1269,Kazma SC,40654,kazma-sc,kuwait
+1270,Tadhamon SC,55155,al-tadamon-sc,kuwait
+1271,Muras United,468660,muras-united,kyrgyzstan
+1272,FK Abdysh-Ata Kant,307625,fk-abdysh-ata-kant,kyrgyzstan
+1273,FC Alay,138964,fc-alay,kyrgyzstan
+1274,Bars,1078992,bars,kyrgyzstan
+1275,FC Dordoi Bishkek,186779,fc-dordoi-bishkek,kyrgyzstan
+1276,OshMU Aldier,475664,oshmu-aldier,kyrgyzstan
+1277,FC Özgön,1074643,fc-ozgon,kyrgyzstan
+1278,FC Talant,383337,fc-talant,kyrgyzstan
+1279,FK Neftchi Kochkor-Ata,338858,fk-neftchi-kochkor-ata,kyrgyzstan
+1280,FC Alga Bishkek,254149,fc-alga-bishkek,kyrgyzstan
+1281,FC Kyrgyzaltyn,515792,fc-kyrgyzaltyn,kyrgyzstan
+1282,Ilbirs FC,307837,ilbirs-fc,kyrgyzstan
+1283,FC Bishkek City,1078991,fc-bishkek-city,kyrgyzstan
+1284,Asiagoal Bishkek,1078989,asiagoal-bishkek,kyrgyzstan
+1285,Young Elephants FC,379274,young-elephants-fc,laos
+1286,Mazda Laos GB FC,1114635,gb-fc,laos
+1287,Ezra,379273,ezra,laos
+1288,Lao Army FC,379272,lao-army-fc,laos
+1289,Master FC,338365,master-7-fc,laos
+1290,Salavan United,1114634,salavan-united,laos
+1291,Luang Prabang United,410075,luang-prabang-united,laos
+1292,Champasak Avenir FC,410074,champasak-fc,laos
+1293,Namtha United,462449,namtha-united,laos
+1294,Savannakhet FC,1114663,savannakhet,laos
+1295,Riga FC,162368,riga-fc,latvia
+1296,RFS,68718,rfs,latvia
+1297,FK Liepaja,146336,fk-liepaja,latvia
+1298,BFC Daugavpils,41498,bfc-daugava-daugavpils,latvia
+1299,FK Auda,5346,fk-auda,latvia
+1300,FS Jelgava,36081,fs-jelgava,latvia
+1301,SK Super Nova,282126,sk-super-nova,latvia
+1302,FK Tukums 2000,36080,fk-tukums-2000,latvia
+1303,FK Grobiņa,52220,grobinas-sc,latvia
+1304,FK Metta,36082,fk-metta,latvia
+1305,Al-Ahed,40657,al-ahed,lebanon
+1306,Al-Ansar FC,47481,al-ansar-fc,lebanon
+1307,Sagesse,208550,sagesse,lebanon
+1308,Al Mabarrah,240952,al-mabarrah,lebanon
+1309,Al-Safa Beirut,35893,al-safa-beirut,lebanon
+1310,Al-Tadamon Sour,187263,al-tadamon-sour,lebanon
+1311,Al-Bourj FC,329622,al-bourj-fc,lebanon
+1312,Jwaaya FC,1117637,jwaaya-fc,lebanon
+1313,Nejmeh SC,40658,nejmeh-sc,lebanon
+1314,Racing Beirut,187266,racing-beirut,lebanon
+1315,Al-Abbassieh FC,503248,reyady-abaseya,lebanon
+1316,Shabab Al Sahel,187257,shabab-al-sahel,lebanon
+1317,Manonyane FC,1093106,manonyane-fc,lesotho
+1318,Lesotho Defence Force FC,1093086,lesotho-defence-force-fc,lesotho
+1319,Machokha FC,1093104,machokha-fc,lesotho
+1320,Lesotho Mounted Police Service FC,1093084,lesotho-mounted-police-service-fc,lesotho
+1321,Linare FC,1093082,linare-fc,lesotho
+1322,Majantja FC,1093089,majantja-fc,lesotho
+1323,Lijabatho FC,1093083,lijabatho-fc,lesotho
+1324,Limkokwing University FC,1093105,limkokwing-university-fc,lesotho
+1325,Matlama FC,325650,matlama-fc,lesotho
+1326,Bantu FC,1093087,bantu-fc,lesotho
+1327,Lifofane FC,1093081,lifofane-fc,lesotho
+1328,Liphakoe FC,1093102,liphakoe-fc,lesotho
+1329,Lioli FC,1093088,lioli-fc,lesotho
+1330,Lesotho Correctional Services FC,1093085,lesotho-correctional-services-fc,lesotho
+1331,Maroala FC,1119815,maroala-fc,lesotho
+1332,Members FC,1119816,members-fc,lesotho
+1333,FC Fassell,337856,fc-fassell,liberia
+1334,Heaven Eleven FC,459849,heaven-eleven-fc,liberia
+1335,Watanga FC,317753,watanga-fc,liberia
+1336,Discoveries SA,499927,discoveries-sa,liberia
+1337,BEA Mountain FC,341429,bea-mountain-fc,liberia
+1338,Global Pharma,477181,global-pharma,liberia
+1339,LPRC Oilers FC,316151,lprc-oilers-fc,liberia
+1340,Paynesville,477180,paynesville,liberia
+1341,Black Man Warrior FC,933027,black-man-warrior-fc,liberia
+1342,Liscr FC,277104,liscr-fc,liberia
+1343,Freeport FC,341428,freeport-fc,liberia
+1344,Mighty Barrolle,369882,mighty-barrolle,liberia
+1345,Shaita FC,498033,shaita-fc,liberia
+1346,Invincible Eleven FC,400520,invincible-eleven-fc,liberia
+1347,Al Nasr SC Benghazi,305246,al-nasr-sc-benghazi,libya
+1348,Al Akhdar SC,375031,al-akhdar-sc,libya
+1349,Al Tahaddy Benghazi SC,375026,al-tahaddy-benghazi-sc,libya
+1350,Al Anwar Al Abyar SC,375030,al-anwar-al-abyar-sc,libya
+1351,Al Soqour Tobruk,404524,al-soqour-tobruk,libya
+1352,Al Borouq FC,457681,al-borouq-fc,libya
+1353,Khaleej Sirte SC,375024,khaleej-sirte-sc,libya
+1354,Al Ansar Al Bayda,457682,al-ansar-al-bayda,libya
+1355,Al Wefaq Ajdabiya,404519,al-wefaq-ajdabiya,libya
+1356,FK Kauno Žalgiris,80741,fk-kauno-zalgiris,lithuania
+1357,FC Hegelmann,171484,fc-hegelmann,lithuania
+1358,FK Sūduva Marijampolė,5343,fk-suduva-marijampole,lithuania
+1359,Šiauliai FA,312564,siauliai-fa,lithuania
+1360,FK Žalgiris,5345,fk-zalgiris,lithuania
+1361,Džiugas Telšiai,168446,dziugas-telsiai,lithuania
+1362,FK Panevėžys,192763,fk-panevezys,lithuania
+1363,FK Banga Gargždai,35388,fk-banga-gargzdai,lithuania
+1364,FK Riteriai,310557,fk-riteriai,lithuania
+1365,Dainava Alytus,192536,dainava-alytus,lithuania
+1366,F91 Dudelange,5207,f91-dudelange,luxembourg
+1367,Victoria Rosport,5387,victoria-rosport,luxembourg
+1368,Una Strassen,46353,una-strassen,luxembourg
+1369,US Mondorf-Les-Bains,38997,us-mondorf-les-bains,luxembourg
+1370,Progrès Niederkorn,36201,progres-niederkorn,luxembourg
+1371,Swift Hesperange,5382,swift-hesperange,luxembourg
+1372,US Hostert,37263,us-hostert,luxembourg
+1373,Jeunesse Esch,5383,jeunesse-esch,luxembourg
+1374,Differdange FC 03,7605,differdange-fc-03,luxembourg
+1375,FC Mamer 32,46350,fc-mamer-32,luxembourg
+1376,FC Rodange 91,59964,fc-rodange-91,luxembourg
+1377,Atert Bissen,38989,atert-bissen,luxembourg
+1378,Racing FC Union Luxembourg,5261,racing-fc-union-luxembourg,luxembourg
+1379,Jeunesse Canach,37256,jeunesse-canach,luxembourg
+1380,Union Titus Petange,5378,union-titus-petange,luxembourg
+1381,Un Kaerjeng 97,5384,un-kaerjeng-97,luxembourg
+1382,Chao Pak Kei,469905,chao-pak-kei,macao
+1383,Shao Jiang SC,1076070,shao-jiang-sc,macao
+1384,Universidade de Macau,506264,universidade-de-macau,macao
+1385,Cheng Fung,244318,cheng-fung,macao
+1386,Benfica de Macau,213448,benfica-de-macau,macao
+1387,Chiba,1076071,chiba,macao
+1388,Hang Sai SC,320447,hang-sai-sc,macao
+1389,Gala FC,506265,gala-fc,macao
+1390,Lun Lok,278270,lun-lok,macao
+1391,Sporting Clube De Macau,275175,sporting-clube-de-macau,macao
+1392,Fosa Juniors,277170,fosa-juniors,madagascar
+1393,FC Théo,1040360,fc-theo,madagascar
+1394,Association Sportive d'Ambondrona de Diana,467611,association-sportive-dambondrona-de-diana,madagascar
+1395,Tsaramandroso Formation FC,467610,tsaramandroso-formation-fc,madagascar
+1396,Johor Darul Ta'zim,3327,johor-darul-tazim,malaysia
+1397,Kuala Lumpur City FC,3324,kuala-lumpur-city-fc,malaysia
+1398,Terengganu,3333,terengganu,malaysia
+1399,Selangor Football Club,3323,selangor-football-club,malaysia
+1400,Kelantan Darul Naim,314055,kelantan-darul-naim,malaysia
+1401,Kuching City,338334,kuching-city,malaysia
+1402,Negeri Sembilan,3331,negeri-sembilan,malaysia
+1403,Melaka FC,464754,melaka-fc,malaysia
+1404,Sabah FC,3329,sabah-fc,malaysia
+1405,PDRM FC,138874,pdrm-fc,malaysia
+1406,Penang,3330,penang,malaysia
+1407,Immigration FC,464755,immigration-fc,malaysia
+1408,Brunei DPMM FC,34085,brunei-dpmm-fc,malaysia
+1409,Floriana FC,33584,floriana-fc,malta
+1410,Marsaxlokk FC,7704,marsaxlokk-fc,malta
+1411,Hibernians,5331,hibernians,malta
+1412,Sliema Wanderers,5206,sliema-wanderers,malta
+1413,Mosta FC,33572,mosta-fc,malta
+1414,Valletta FC,5332,valletta-fc,malta
+1415,Ħamrun Spartans FC,33583,hamrun-spartans-fc,malta
+1416,Birkirkara FC,5330,birkirkara-fc,malta
+1417,Zabbar Saint Patrick FC,33578,zabbar-saint-patrick-fc,malta
+1418,Tarxien Rainbows FC,33580,tarxien-rainbows-fc,malta
+1419,Gżira United FC,58327,gzira-united-fc,malta
+1420,Naxxar Lions FC,53755,naxxar-lions-fc,malta
+1421,Aiglon du Lamentin,491424,aiglon-du-lamentin-martinique,martinique
+1422,RC Saint-Joseph,491522,rc-saint-joseph,martinique
+1423,Club Péléen,491524,club-peleen,martinique
+1424,AS Samaritaine,386965,as-samaritaine,martinique
+1425,Émulation de Schœlcher,491544,emulation,martinique
+1426,CO Trénelle,491533,co-trenelle,martinique
+1427,Golden Star,210095,golden-star,martinique
+1428,Club Colonial,400188,club-colonial,martinique
+1429,Golden Lion,401238,golden-lion,martinique
+1430,Club Franciscain,184711,club-franciscain,martinique
+1431,Espoir de Sainte-luce,491534,espoir,martinique
+1432,AS Morne des Esses,491521,as-morne-des-esses,martinique
+1433,Inter de Sainte-Anne,491421,inter-de-sainte-anne,martinique
+1434,US Robert,401239,us-robert,martinique
+1435,Al-Hilal Omdurman,69322,al-hilal-omdurman,mauritania
+1436,FC Nouadhibou,134304,fc-nouadhibou,mauritania
+1437,Chemal FC,457858,chemal-fc,mauritania
+1438,Nouakchott Kings,305253,nouakchott-kings,mauritania
+1439,AS Douanes,339159,as-douanes,mauritania
+1440,Al-Merrikh,69320,al-merrikh,mauritania
+1441,Tevragh Zeina,313217,tevragh-zeina,mauritania
+1442,AS Pompier,462642,as-pompier,mauritania
+1443,FC Inter Nouakchott,338179,fc-inter-de-nouakchott,mauritania
+1444,Kaédi FC,337949,kaedi-fc,mauritania
+1445,ASCG Gendrim,408952,asc-gendrim,mauritania
+1446,ASC Snim,325655,asc-snim,mauritania
+1447,FC N'Zidane,929753,fc-nzidane,mauritania
+1448,FC Ksar,313208,asc-ksar,mauritania
+1449,AS Garde Nationale,459440,as-garde-nationale,mauritania
+1450,ASC Touldé,929752,asc-toulde,mauritania
+1451,Cercle de Joachim SC,372914,cercle-de-joachim-sc,mauritius
+1452,La Cure Waves SC,395848,la-cure-waves-sc,mauritius
+1453,Pamplemousses SC,325646,pamplemousses-sc,mauritius
+1454,Petite Rivière Noire FC,372910,petite-riviere-noire-fc,mauritius
+1455,Chebel Citizens SC,374263,chebel-citizens-sc,mauritius
+1456,AS Vacoas-Phoenix,372912,as-vacoas-phoenix,mauritius
+1457,AS Port-Louis 2000,246935,as-port-louis-2000,mauritius
+1458,Pointe-aux-Sables Mates,374262,pointe-aux-sables-mates,mauritius
+1459,Entente Boulet Rouge SC,372913,entente-boulet-rouge-sc,mauritius
+1460,Grande Riviere Sud Est Wanderers,372908,grande-riviere-sud-est-wanderers,mauritius
+1461,Bandrélé FC,505057,bandrele-fc,mayotte
+1462,Football Club de Mtsapéré,505059,football-club-de-mtsapere,mayotte
+1463,Diables Noirs de Combani,505054,diables-noirs-de-combani,mayotte
+1464,Jumeaux  Mzouazia,181746,jumeaux-mzouazia,mayotte
+1465,UCS Sada,517866,ucs-sada,mayotte
+1466,FC de Sohoa,934897,fc-de-sohoa,mayotte
+1467,ACSj. de M'liha,934904,acsj-de-mliha,mayotte
+1468,FMJ Vahibé,517867,fmj-vahibe,mayotte
+1469,L'Esperance d'Iloni,934901,lesperance-diloni,mayotte
+1470,Union Sportive de Kavani,505055,union-sportive-de-kavani,mayotte
+1471,ASC Kawéni,505056,asc-kaweni,mayotte
+1472,AJ Kani-Kéli,505053,aj-kani-keli,mayotte
+1473,Sheriff Tiraspol,5173,sheriff,moldova
+1474,FC Petrocub Hîncesti,167232,fc-petrocub-hincesti,moldova
+1475,FC Zimbru Chişinău,5265,zimbru-chisinau,moldova
+1476,FC Milsami Orhei,53475,fc-milsami-orhei,moldova
+1477,FC Bălți,353848,fc-balti,moldova
+1478,Dacia Buiucani,54679,dacia-buiucani,moldova
+1479,FC Politehnica,5177,fc-politehnica,moldova
+1480,CSF Spartanii Selemet,81139,csf-spartanii-selemet,moldova
+1481,SP Falcons FC,350408,sp-falcons-fc,mongolia
+1482,Khangarid,338741,khangarid,mongolia
+1483,FC Ulaanbaatar,338715,fc-ulaanbaatar,mongolia
+1484,Deren FC,350409,deren,mongolia
+1485,Khoromkhon Club,350465,khoromkhon-club,mongolia
+1486,Khovd,350464,khovd,mongolia
+1487,Hunters FC,801716,hunters-fc,mongolia
+1488,Khaan Khuns-Erchim FC,246653,khaan-khuns-erchim-fc,mongolia
+1489,TUV Azarganuud,350461,tuv-buganuud,mongolia
+1490,Brera Ilch FC,485804,brera-ilch-fc,mongolia
+1491,FK Sutjeska Nikšić,6224,fk-sutjeska-niksic,montenegro
+1492,FK Dečić Tuzi,6226,fk-decic-tuzi,montenegro
+1493,FK Arsenal Tivat,37956,fk-arsenal-tivat,montenegro
+1494,Mladost DG,327162,mladost-dg,montenegro
+1495,OFK Petrovac,6216,ofk-petrovac,montenegro
+1496,FK Budućnost Podgorica,5143,fk-buducnost-podgorica,montenegro
+1497,FK Jezero,24312,fk-jezero,montenegro
+1498,FK Jedinstvo Bijelo Polje,6219,fk-jedinstvo-bijelo-polje,montenegro
+1499,FK Mornar Bar,36019,fk-mornar-bar,montenegro
+1500,FK Bokelj Kotor,7581,fk-bokelj-kotor,montenegro
+1501,AS FAR Rabat,24394,as-far-rabat,morocco
+1502,CODM Meknès,55025,codm-meknes,morocco
+1503,Difaâ Hassani El-Jadidi,55043,difaa-hassani-el-jadidi,morocco
+1504,Fath Union Sport,55027,fath-union-sport,morocco
+1505,Hassania d'Agadir,55039,hassania-dagadir,morocco
+1506,Ittihad Tanger,87180,ittihad-tanger,morocco
+1507,Kawkab Athletic Club Marrakech,47696,kawkab-athletic-club-marrakech,morocco
+1508,MAS de Fès,55035,mas-de-fes,morocco
+1509,Olympic Safi,55037,olympic-safi,morocco
+1510,Olympique Dcheira,204299,olympique-dcheira,morocco
+1511,Raja Club Athletic,41757,raja-club-athletic,morocco
+1512,Renaissance Zemamra,263373,renaissance-zemamra,morocco
+1513,RS Berkane,80395,rs-berkane,morocco
+1514,Union Sportive Yacoub El Mansour,479104,union-sportive-yacoub-el-mansour,morocco
+1515,Union Touarga Sport,118834,union-touarga-sport,morocco
+1516,Wydad Casablanca,36268,wydad-casablanca,morocco
+1517,União Desportiva do Songo,278161,uniao-desportiva-do-songo,mozambique
+1518,Associação Black Bulls,375117,associacao-black-bulls,mozambique
+1519,Ferroviário de Lichinga,375116,ferroviario-de-lichinga,mozambique
+1520,Costa do Sol,282020,desportivo-costa-do-sol,mozambique
+1521,Ferroviário de Maputo,215596,ferroviario-de-maputo,mozambique
+1522,Chingale de Tete,1088444,chingale-de-tete,mozambique
+1523,Ferroviário da Beira,246841,ferroviario-da-beira,mozambique
+1524,Baía de Pemba FC,331737,baia-de-pemba-fc,mozambique
+1525,Ferroviário de Nacala,322832,ferroviario-de-nacala,mozambique
+1526,Ferroviario Nampula,310946,ferroviario-de-nampula,mozambique
+1527,Vilankulo FC,330379,vilankulo-fc,mozambique
+1528,GDR Textáfrica Chimoio,375113,gdr-textafrica-chimoio,mozambique
+1529,Desportivo de Nacala,328636,desportivo-de-nacala,mozambique
+1530,Desportivo Matola,1088445,desportivo-matola,mozambique
+1531,Dagon FC,307488,dagon-fc,myanmar
+1532,Yangon United,61530,yangon-united,myanmar
+1533,Hantharwady United FC,274846,hantharwady-united-fc,myanmar
+1534,Shan United,69658,shan-united,myanmar
+1535,Ispe FC,338085,ispe-fc,myanmar
+1536,Yadanarbon FC,186789,yadanarbon-fc,myanmar
+1537,Dagon Port FC,526990,dagon-port-fc,myanmar
+1538,Ayeyawady United,61528,ayeyawady-united,myanmar
+1539,Thitsar Arman FC,526989,thitsar-arman-fc,myanmar
+1540,Mahar United,274847,sagaing-united,myanmar
+1541,Yarmanya United,1117359,yarmanya-united,myanmar
+1542,Rakhine United FC,274848,rakhine-united-fc,myanmar
+1543,African Stars FC,305249,african-stars-fc,namibia
+1544,Young African FC,495653,young-african-fc,namibia
+1545,Khomas Nampol FC,495655,khomas-nampol-fc,namibia
+1546,FC Ongos,495654,fc-ongos,namibia
+1547,Mighty Gunners FC,495656,mighty-gunners-fc,namibia
+1548,University of Namibia FC,495651,unam-fc,namibia
+1549,Eeshoke Chula Chula FC,495658,eeshoke-chula-chula-fc,namibia
+1550,King Kauluma Palace,1041481,king-kauluma-palace,namibia
+1551,Blue Waters FC,317868,blue-waters-fc,namibia
+1552,Bucks Buccaneers FC,1079409,bucks-buccaneers-fc,namibia
+1553,Tigers  SC,495652,tigers-fc,namibia
+1554,Okahandja United FC,307797,okahandja-united-fc,namibia
+1555,Julinho Sporting FC,317128,julinho-sporting-fc,namibia
+1556,Young Brazilians FC,381803,young-brazilians-fc,namibia
+1557,Blue Boys,1041480,blue-boys,namibia
+1558,Cuca Tops FC,1079410,cuca-tops-fc,namibia
+1559,Lalitpur City FC,502681,lalitpur-city-fc,nepal
+1560,Dhangadhi FC,1078892,dhangadhi-fc,nepal
+1561,FC Chitwan,1078893,fc-chitwan,nepal
+1562,Pokhara Thunders,1078895,pokhara-thunders,nepal
+1563,Kathmandu Rayzrs FC,502680,kathmandu-rayzrs-fc,nepal
+1564,Jhapa FC,1078894,jhapa-fc,nepal
+1565,Butwal Lumbini FC,1078891,butwal-lumbini-fc,nepal
+1566,Feyenoord,2959,feyenoord,netherlands
+1567,NEC Nijmegen,2962,nec-nijmegen,netherlands
+1568,FC Utrecht,2948,fc-utrecht,netherlands
+1569,PSV Eindhoven,2952,psv-eindhoven,netherlands
+1570,AFC Ajax,2953,ajax,netherlands
+1571,AZ Alkmaar,2950,az-alkmaar,netherlands
+1572,PEC Zwolle,2971,pec-zwolle,netherlands
+1573,FC Groningen,2951,fc-groningen,netherlands
+1574,Sparta Rotterdam,2960,sparta-rotterdam,netherlands
+1575,Fortuna Sittard,2957,fortuna-sittard,netherlands
+1576,FC Volendam,2968,fc-volendam,netherlands
+1577,SC Telstar,2972,sc-telstar,netherlands
+1578,Go Ahead Eagles,2979,go-ahead-eagles,netherlands
+1579,FC Twente,2955,fc-twente,netherlands
+1580,NAC Breda,2947,nac-breda,netherlands
+1581,Excelsior,2967,excelsior,netherlands
+1582,SC Heerenveen,2964,sc-heerenveen,netherlands
+1583,Heracles Almelo,2977,heracles-almelo,netherlands
+1584,AS Tiga Sport,470258,as-tiga-sport,new-caledonia
+1585,ASC Gaïca,508996,asc-gaica,new-caledonia
+1586,Hienghène Sport,246599,hienghene-sport,new-caledonia
+1587,AS Horizon Patho,1089909,as-horizon-patho,new-caledonia
+1588,AS Mont Dore,86740,as-mont-dore,new-caledonia
+1589,Wellington Olympic,378944,wellington-olympic,new-zealand
+1590,Miramar Rangers,261131,miramar-rangers,new-zealand
+1591,Western Suburbs FC,411578,western-suburbs-fc,new-zealand
+1592,Wellington Phoenix Reserve,182819,wellington-phoenix-reserve,new-zealand
+1593,Napier City Rovers,261130,napier-city-rovers,new-zealand
+1594,FC Petone,379307,fc-petone,new-zealand
+1595,Waterside Karori,380147,waterside-karori,new-zealand
+1596,Upper Hutt City FC,1079628,upper-hutt-city-fc,new-zealand
+1597,Island Bay United,508950,island-bay-united,new-zealand
+1598,North Wellington AFC,378943,north-wellington-afc,new-zealand
+1599,Real Estelí,25353,real-esteli,nicaragua
+1600,Diriangén FC,248234,diriangen-fc,nicaragua
+1601,Club Sport Sébaco,373012,hyh-export-sebaco-fc,nicaragua
+1602,Deportivo Walter Ferretti,201261,deportivo-walter-ferretti,nicaragua
+1603,Deportivo Matagalpa FC,376282,deportivo-matagalpa-fc,nicaragua
+1604,Managua FC,232871,managua-fc,nicaragua
+1605,UNAN Managua,251761,unan-managua,nicaragua
+1606,Rancho Santana FC,371649,rancho-santana-fc,nicaragua
+1607,Real Madriz,249830,real-madriz,nicaragua
+1608,ART Municipal Jalapa,296018,art-municipal-jalapa,nicaragua
+1609,Bayelsa United FC,42369,bayelsa-united-fc,nigeria
+1610,Warri Wolves FC,190732,warri-wolves-fc,nigeria
+1611,Remo Stars,239062,remo-stars,nigeria
+1612,El Kanemi Warriors,190740,el-kanemi-warriors,nigeria
+1613,Rivers United,215270,rivers-united,nigeria
+1614,Wikki Tourists FC,190730,wikki-tourists-fc,nigeria
+1615,Enyimba,42371,enyimba,nigeria
+1616,Katsina United,243647,katsina-united,nigeria
+1617,Niger Tornadoes,214302,niger-tornadoes,nigeria
+1618,Nasarawa United,190736,nasarawa-united,nigeria
+1619,Abia Warriors,190742,abia-warriors,nigeria
+1620,Ikorodu City,214300,ikorodu-city-fc,nigeria
+1621,Bendel Insurance FC,307998,bendel-insurance-fc,nigeria
+1622,Kano Pillars,134276,kano-pillars,nigeria
+1623,Kun Khalifat FC,1112561,kun-khalifat-fc,nigeria
+1624,Shooting Stars,190739,shooting-stars,nigeria
+1625,Kwara United,190737,kwara-united,nigeria
+1626,Barau FC,1112562,barau-fc,nigeria
+1627,Enugu Rangers International,42370,enugu-rangers-international,nigeria
+1628,Plateau United,214301,plateau-united,nigeria
+1629,FK Sileks Kratovo,5407,fk-sileks-kratovo,north-macedonia
+1630,FC Struga Trim & Lum,259121,fc-struga-trim-and-lum,north-macedonia
+1631,FK Vardar Skopje,5403,fk-vardar-skopje,north-macedonia
+1632,KF Shkëndija,5413,kf-shkendija,north-macedonia
+1633,Bashkimi 1947,5400,bashkimi-1947,north-macedonia
+1634,FK Pelister Bitola,6079,fk-pelister-bitola,north-macedonia
+1635,Makedonija Gjorce Petrov,53841,makedonija-gjorce-petrov,north-macedonia
+1636,AP Brera Strumica,226868,ap-brera-strumica,north-macedonia
+1637,Tikveš Kavadarci,43576,tikves-kavadarci,north-macedonia
+1638,FK Arsimi 1973,424916,fk-arsimi-1973,north-macedonia
+1639,FK Rabotnički Skopje,5212,fk-rabotnicki-skopje,north-macedonia
+1640,KF Shkupi,136548,kf-shkupi,north-macedonia
+1641,Glentoran FC,5179,glentoran-fc,northern-ireland
+1642,Carrick Rangers,36783,carrick-rangers,northern-ireland
+1643,Coleraine FC,5270,coleraine-fc,northern-ireland
+1644,Ballymena United,5269,ballymena-united,northern-ireland
+1645,Larne FC,5184,larne-fc,northern-ireland
+1646,Linfield FC,5272,linfield-fc,northern-ireland
+1647,Portadown FC,5279,portadown-fc,northern-ireland
+1648,Bangor FC,23895,bangor-fc,northern-ireland
+1649,Cliftonville FC,5181,cliftonville-fc,northern-ireland
+1650,Crusaders FC,5180,crusaders-fc,northern-ireland
+1651,Glenavon,5183,glenavon,northern-ireland
+1652,Dungannon Swifts,5271,dungannon-swifts,northern-ireland
+1653,Kanoa FC,929540,kanoa-fc,northern-mariana-islands
+1654,Matansa FC,929538,matansa-fc,northern-mariana-islands
+1655,MP United FC,929539,mp-united-fc,northern-mariana-islands
+1656,Men's Developmental Team,929537,mens-developmental-team,northern-mariana-islands
+1657,Men's Developmental Team 2,1078851,mens-developmental-team-2,northern-mariana-islands
+1658,Bodø/Glimt,656,bodoglimt,norway
+1659,Viking FK,1164,viking-fk,norway
+1660,SK Brann,1159,sk-brann,norway
+1661,Tromsø IL,660,tromso-il,norway
+1662,Vålerenga IF,1165,valerenga-if,norway
+1663,Rosenborg BK,1161,rosenborg-bk,norway
+1664,Sandefjord Fotball,676,sandefjord-fotball,norway
+1665,KFUM Oslo,786,kfum-oslo,norway
+1666,Fredrikstad FK,687,fredrikstad-fk,norway
+1667,Molde FK,661,molde-fk,norway
+1668,Sarpsborg 08,822,sarpsborg-08,norway
+1669,Kristiansund BK,957,kristiansund-bk,norway
+1670,HamKam,666,hamkam,norway
+1671,Bryne FK,663,bryne-fk,norway
+1672,Strømsgodset,1163,stromsgodset,norway
+1673,Haugesund,673,haugesund,norway
+1674,WAPDA FC,78531,wapda-fc,pakistan
+1675,Sui Southern Gas Company,299432,sui-southern-gas-company,pakistan
+1676,PAF FC,78521,paf-fc,pakistan
+1677,Lyallpur FC,115873,lyallpur-fc,pakistan
+1678,Muslim FC,78517,muslim-fc,pakistan
+1679,KRL FC,78515,krl-fc,pakistan
+1680,Civil Aviation Authority FC,299431,civil-aviation-authority-fc,pakistan
+1681,Pakistan Army,78525,pakistan-army,pakistan
+1682,Karachi United,368116,karachi-united,pakistan
+1683,Pakistan Navy FC,78527,pakistan-navy-fc,pakistan
+1684,SNGPL,299428,sngpl,pakistan
+1685,Huma FC,363566,huma-fc,pakistan
+1686,Ittihad Shojaeyya,206531,ittihad-shojaeyya,palestine
+1687,Khadamat Rafah,206529,khadamat-rafah,palestine
+1688,Ittihad Khanyounis,206522,ittihad-khanyounis,palestine
+1689,Shabab Rafah,206521,shabab-rafah,palestine
+1690,Khadamat Al Shataa,206532,khadamat-al-shataa,palestine
+1691,Shabab Jabalia,206534,shabab-jabalia,palestine
+1692,Ahli Gaza,232078,ahli-gaza,palestine
+1693,Gaza EL Riyadi,343369,gaza-el-riyadi,palestine
+1694,Shabab Khanyounis,206528,shabab-khanyounis,palestine
+1695,Hilal Gaza,206530,hilal-gaza,palestine
+1696,Al Sadaka Club,206519,al-sadaka-club,palestine
+1697,Ittihad Beit Hanoun,297182,ittihad-beit-hanoun,palestine
+1698,CD Plaza Amador,168806,plaza-amador,panama
+1699,Sporting San Miguelito,108211,sporting-san-miguelito,panama
+1700,Tauro FC,24064,tauro-fc,panama
+1701,Árabe Unido,36406,arabe-unido,panama
+1702,Alianza FC,168798,alianza-fc,panama
+1703,Costa del Este FC,245429,costa-del-este-fc,panama
+1704,Lae City FC,215880,lae-city-fc,papua-new-guinea
+1705,Hekari United FC,45341,hekari-united-fc,papua-new-guinea
+1706,Gulf Komara FC,483991,gulf-komara-fc,papua-new-guinea
+1707,Admiralty Island FC,530421,admiralty-island-fc,papua-new-guinea
+1708,FC Morobe Wawens,309619,fc-morobe-wawens,papua-new-guinea
+1709,Port Moresby Strikers,483990,port-moresby-strikers,papua-new-guinea
+1710,United Highlands FC,483934,united-highlands-fc,papua-new-guinea
+1711,Lae City Dwellers,483992,lae-city-dwellers,papua-new-guinea
+1712,Kula FC,1099184,kula-fc,papua-new-guinea
+1713,Star Mountain FC,1099186,star-mountain-fc,papua-new-guinea
+1714,Blue Kumuls FC,1099185,blue-kumuls-fc,papua-new-guinea
+1715,Libertad,5996,libertad,paraguay
+1716,Cerro Porteño,5991,cerro-porteno,paraguay
+1717,Guaraní,5994,guarani,paraguay
+1718,Sportivo Trinidense,39722,sportivo-trinidense,paraguay
+1719,Olimpia,5997,olimpia,paraguay
+1720,Sportivo Ameliano,323510,sportivo-ameliano,paraguay
+1721,Recoleta FC,292595,deportivo-recoleta,paraguay
+1722,Nacional Asunción,33001,nacional-asuncion,paraguay
+1723,General Caballero,387619,general-caballero,paraguay
+1724,Sportivo Luqueño,5998,sportivo-luqueno,paraguay
+1725,CS 2 de Mayo,5992,cs-2-de-mayo,paraguay
+1726,Club Atlético Tembetary,318176,club-atletico-tembetary,paraguay
+1727,Universitario,2305,universitario,peru
+1728,Club Sporting Cristal,2302,club-sporting-cristal,peru
+1729,Cusco FC,63760,cusco-fc,peru
+1730,Deportivo Garcilaso,458584,deportivo-garcilaso,peru
+1731,Alianza Lima,2311,alianza-lima,peru
+1732,Alianza Universidad,306660,alianza-universidad,peru
+1733,Sport Huancayo,33895,sport-huancayo,peru
+1734,Melgar,2308,melgar,peru
+1735,Los Chankas CYC,252254,los-chankas-cyc,peru
+1736,Cienciano,2301,cienciano,peru
+1737,Club Atlético Grau,282538,club-atletico-grau,peru
+1738,Asociación Deportiva Tarma,335557,asociacion-deportiva-tarma,peru
+1739,Alianza Atlético de Sullana,2307,alianza-atletico-de-sullana,peru
+1740,ADC Juan Pablo II,511206,adc-juan-pablo-ii,peru
+1741,Comerciantes Unidos,213609,comerciantes-unidos,peru
+1742,Ayacucho,33894,ayacucho,peru
+1743,Sport Boys,2312,sport-boys,peru
+1744,Universidad Técnica de Cajamarca,87854,universidad-tecnica-de-cajamarca,peru
+1745,Kaya-Iloilo,142194,kaya-iloilo,philippines
+1746,Manila Digger FC,512469,manila-digger-fc,philippines
+1747,Davao Aguilas,253131,davao-aguilas,philippines
+1748,DH Cebu FC,413276,dh-cebu-fc,philippines
+1749,Don Bosco Garelli United,512471,don-bosco-garelli-united,philippines
+1750,Maharlika Manila FC,368907,maharlika-manila-fc,philippines
+1751,Taguig FC,512473,taguig-fc,philippines
+1752,Stallion Laguna,142204,stallion-laguna,philippines
+1753,Mendiola FC,315509,mendiola-fc,philippines
+1754,Philippine Army,142200,philippine-army,philippines
+1755,Wisła Płock,3122,wisla-plock,poland
+1756,Cracovia,4901,cracovia,poland
+1757,Górnik Zabrze,3110,gornik-zabrze,poland
+1758,Jagiellonia Białystok,7691,jagiellonia-bialystok,poland
+1759,MKS Korona Kielce,5065,mks-korona-kielce,poland
+1760,Lech Poznań,3121,lech-poznan,poland
+1761,Pogoń Szczecin,3117,pogon-szczecin,poland
+1762,Radomiak Radom,7295,radomiak-radom,poland
+1763,Bruk-Bet Termalica Nieciecza,36851,bruk-bet-termalica-nieciecza,poland
+1764,Motor Lublin,7915,motor-lublin,poland
+1765,MZKS Arka Gdynia,5064,mzks-arka-gdynia,poland
+1766,Legia Warszawa,3106,legia-warszawa,poland
+1767,Widzew Łódź,3115,widzew-lodz,poland
+1768,GKS Katowice,3112,gks-katowice,poland
+1769,Zagłębie Lubin,3113,zaglebie-lubin,poland
+1770,Raków Częstochowa,35268,rakow-czestochowa,poland
+1771,Piast Gliwice,7918,piast-gliwice,poland
+1772,KS Lechia Gdańsk,7913,ks-lechia-gdansk,poland
+1773,FC Porto,3002,fc-porto,portugal
+1774,Famalicão,49531,famalicao,portugal
+1775,Sporting,3001,sporting,portugal
+1776,Benfica,3006,benfica,portugal
+1777,Moreirense,3014,moreirense,portugal
+1778,Sporting Braga,2999,sporting-braga,portugal
+1779,Gil Vicente,3010,gil-vicente,portugal
+1780,FC Arouca,25777,arouca,portugal
+1781,CD Nacional,3013,cd-nacional,portugal
+1782,Vitória SC,3009,vitoria-sc,portugal
+1783,Rio Ave,3036,rio-ave,portugal
+1784,CF Estrela Amadora,3035,cf-estrela-amadora,portugal
+1785,Casa Pia,36365,casa-pia,portugal
+1786,Estoril Praia,4500,estoril-praia,portugal
+1787,Santa Clara,3011,santa-clara,portugal
+1788,FC Alverca,190328,fc-alverca,portugal
+1789,AVS - Futebol SAD,483088,avs-futebol-sad,portugal
+1790,Tondela,38396,tondela,portugal
+1791,Universitatea Craiova,116223,cs-universitatea-craiova,romania
+1792,FC Rapid București,295403,fc-rapid-bucuresti,romania
+1793,FC Dinamo București,3292,fc-dinamo-bucuresti,romania
+1794,FC Argeș Pitești,116221,fc-arges,romania
+1795,FC Botoșani,24798,fc-botosani,romania
+1796,FC Farul Constanța,3294,fcv-farul-constanta,romania
+1797,UTA Arad,204657,uta-arad,romania
+1798,FC Universitatea Cluj,7734,fc-universitatea-cluj,romania
+1799,AFC Unirea 04 Slobozia,44259,afc-unirea-04-slobozia,romania
+1800,SC Oțelul Galați,3291,sc-otelul-galati,romania
+1801,FC Hermannstadt,260356,fc-hermannstadt,romania
+1802,FC Petrolul Ploieşti,25856,fc-petrolul-ploiesti,romania
+1803,FCSB,3301,fcsb,romania
+1804,CFR 1907 Cluj,5287,cfr-1907-cluj,romania
+1805,FK Csíkszereda Miercurea Ciuc,283972,fk-csikszereda-miercurea-ciuc,romania
+1806,FC Metaloglobus București,79081,fc-metaloglobus-bucuresti,romania
+1807,Zenit St. Petersburg,2321,zenit-st-petersburg,russia
+1808,Akhmat Grozny,5131,akhmat-grozny,russia
+1809,Rubin Kazan,2333,rubin-kazan,russia
+1810,Orenburg,24118,orenburg,russia
+1811,Amagaju,268136,amagaju,rwanda
+1812,APR FC,191189,apr-fc,rwanda
+1813,AS Kigali,267073,as-kigali,rwanda
+1814,As Muhanga,302023,as-muhanga,rwanda
+1815,Bugesera FC,268142,bugesera-fc,rwanda
+1816,Etincelles,253570,etincelles,rwanda
+1817,Gasogi United,318729,gasogi-united,rwanda
+1818,Gicumbi FC,268137,gicumbi-fc,rwanda
+1819,Gorilla FC,340351,gorilla-fc,rwanda
+1820,Marine FC,223070,marine-fc,rwanda
+1821,Mukura,268138,mukura,rwanda
+1822,Musanze,268139,musanze,rwanda
+1823,Rwanda Police FC,199921,rwanda-police-fc,rwanda
+1824,Rayon Sports FC,134272,rayon-sports-fc,rwanda
+1825,Rutsiro FC,340378,rutsiro-fc,rwanda
+1826,Kiyovu Sports,268140,kiyovu-sports,rwanda
+1827,Rams Village Superstars,275844,rams-village-superstars,saint-kitts-and-nevis
+1828,St. Pauls United,288737,st-pauls-united,saint-kitts-and-nevis
+1829,Conaree FC,288736,conaree-fc,saint-kitts-and-nevis
+1830,Cayon FC,288677,cayon-rockets-fc,saint-kitts-and-nevis
+1831,St. Peters Strikers FC,377727,st-peters-strikers-fc,saint-kitts-and-nevis
+1832,Old Road Jets,337553,old-road-jets,saint-kitts-and-nevis
+1833,Bath United FC,377725,bath-united-fc,saint-kitts-and-nevis
+1834,Sandy Point FC,378289,sandy-point-fc,saint-kitts-and-nevis
+1835,Mantab United,343767,mantab-united,saint-kitts-and-nevis
+1836,Security Forces United,339120,security-forces-united,saint-kitts-and-nevis
+1837,Junior Stars FC,486307,junior-stars-fc,saint-martin
+1838,AC Saint-Louis,1076112,ac-saint-louis,saint-martin
+1839,Juventus Saint-Martin,1076113,juventus-saint-martin,saint-martin
+1840,FC Orleans Attackers,1076111,fc-orleans-attackers,saint-martin
+1841,North Leeward Predators,461092,north-leeward-predators,saint-vincent-and-the-grenadines
+1842,Hope International,461089,hope-international,saint-vincent-and-the-grenadines
+1843,Layou FC,461088,layou-fc,saint-vincent-and-the-grenadines
+1844,JeBelle FC,461091,jebelle-fc,saint-vincent-and-the-grenadines
+1845,Camdonia Chelsea SC,940486,camdonia-chelsea-sc,saint-vincent-and-the-grenadines
+1846,BESCO Pastures United,461095,besco-pastures-fc,saint-vincent-and-the-grenadines
+1847,Awesome FC,461093,awesome-fc,saint-vincent-and-the-grenadines
+1848,Avenues United FC,461094,avenues-united-fc,saint-vincent-and-the-grenadines
+1849,SV United,940485,sv-united,saint-vincent-and-the-grenadines
+1850,Sion Hill FC,461087,sion-hill-fc,saint-vincent-and-the-grenadines
+1851,Vaipuna SC,382559,vaipuna-sc,samoa
+1852,Lupe Ole Soaga,193724,lupe-ole-soaga,samoa
+1853,Lepea FC,424055,lepea-fc,samoa
+1854,University of the South Pacific,424056,university-of-the-south-pacific,samoa
+1855,Vailima Kiwi FC,424053,vailima-kiwi-fc,samoa
+1856,Vaivase-Tai FC,382558,vaivase-tai-fc,samoa
+1857,Vaitele-Uta SC,382976,vaitele-uta-sc,samoa
+1858,Sogi SC,382557,sogi-sc,samoa
+1859,Moaula FC,424054,moaula-fc,samoa
+1860,Faatoia United,383127,faatoia-united,samoa
+1861,Brothers United FC,526378,brothers-united-fc,samoa
+1862,Moata'a FC,470861,moataa-fc,samoa
+1863,FC Domagnano,33818,fc-domagnano,san-marino
+1864,SS Folgore / Falciano,37863,ss-folgore-falciano,san-marino
+1865,SC Faetano,37858,sc-faetano,san-marino
+1866,SP Tre Penne,37862,sp-tre-penne,san-marino
+1867,SP Tre Fiori,36195,sp-tre-fiori,san-marino
+1868,SS Virtus,36261,ss-virtus,san-marino
+1869,La Fiorita,37860,la-fiorita,san-marino
+1870,AC Libertas,7712,ac-libertas,san-marino
+1871,San Marino Academy U22,487070,san-marino-academy-u22,san-marino
+1872,AC Juvenes / Dogana,24045,ac-juvenes-dogana,san-marino
+1873,AS San Giovanni,37861,as-san-giovanni,san-marino
+1874,SS Cosmos,37864,ss-cosmos,san-marino
+1875,FC Fiorentino,37857,fc-fiorentino,san-marino
+1876,SS Murata,5964,ss-murata,san-marino
+1877,SP Cailungo,37859,sp-cailungo,san-marino
+1878,SS Pennarossa,33821,ss-pennarossa,san-marino
+1879,Sport Operário e Benfica,399726,sport-operario-e-benfica,sao-tome-and-principe
+1880,CD 1º de Maio,399725,cd-1o-de-maio,sao-tome-and-principe
+1881,Sundy FC,399723,sundy-fc,sao-tome-and-principe
+1882,FC Porto Real,399724,fc-porto-real,sao-tome-and-principe
+1883,Sporting Clube do Príncipe,399727,sporting-clube-do-principe,sao-tome-and-principe
+1884,UDAPB,399722,udapb,sao-tome-and-principe
+1885,Celtic,2352,celtic,scotland
+1886,Heart of Midlothian,2353,heart-of-midlothian,scotland
+1887,Hibernian,2354,hibernian,scotland
+1888,Dundee United,2349,dundee-united,scotland
+1889,Kilmarnock,2347,kilmarnock,scotland
+1890,Motherwell,2346,motherwell,scotland
+1891,Rangers,2351,rangers,scotland
+1892,Falkirk FC,2363,falkirk-fc,scotland
+1893,Livingston,2356,livingston,scotland
+1894,St. Mirren,2359,st-mirren,scotland
+1895,Dundee FC,2357,dundee-fc,scotland
+1896,Aberdeen,2355,aberdeen,scotland
+1897,ASC Jaraaf,87306,asc-jaraaf,senegal
+1898,US Goree,87326,us-goree,senegal
+1899,Académie Génération Foot,236722,academie-generation-foot,senegal
+1900,US Ouakam,87328,us-ouakam,senegal
+1901,Wally Daan FC,383708,walidaan-dkr,senegal
+1902,AJEL de Rufisque,384329,ajel-de-rufisque,senegal
+1903,ASC Linguere,87308,asc-linguere,senegal
+1904,AS Dakar Sacré-Cœur,225157,dakar-sacre-coeur,senegal
+1905,AS Pikine,87300,as-pikine,senegal
+1906,Guediawaye FC,87318,guediawaye-fc,senegal
+1907,Teungueth,236723,teungueth,senegal
+1908,Casa Sport,87314,casa-sport,senegal
+1909,ASC Sonacos,124520,suneor,senegal
+1910,ASC HLM,457812,asc-hlm,senegal
+1911,Oslo FA,316675,oslo-fa,senegal
+1912,Jamono Fatick,250989,jamono-fatick,senegal
+1913,FK Partizan,5152,fk-partizan,serbia
+1914,FK Crvena zvezda,5149,fk-crvena-zvezda,serbia
+1915,FK Vojvodina,5150,fk-vojvodina,serbia
+1916,FK Železničar Pančevo,282203,fk-zeleznicar-pancevo,serbia
+1917,FK Čukarički,5148,fk-cukaricki,serbia
+1918,OFK Beograd,5153,ofk-beograd,serbia
+1919,FK Novi Pazar,25736,fk-novi-pazar,serbia
+1920,FK TSC Bačka Topola,263360,fk-tsc-backa-topola,serbia
+1921,FK Napredak Kruševac,7674,fk-napredak-krusevac,serbia
+1922,FK Mladost Lučani,7771,fk-mladost-lucani,serbia
+1923,FK IMT Beograd,308176,fk-imt-beograd,serbia
+1924,FK Radnički 1923,43981,fk-radnicki-1923,serbia
+1925,FK Spartak Subotica,36967,fk-spartak-subotica,serbia
+1926,FK Radnički Niš,25737,fk-radnicki-nis,serbia
+1927,FK Javor Ivanjica,5144,fk-javor-ivanjica,serbia
+1928,FK Radnik Surdulica,111127,fk-radnik-surdulica,serbia
+1929,Anse Reunion FC,466091,anse-reunion-fc,seychelles
+1930,Bazar Brothers FC,403431,bazar-brothers-fc,seychelles
+1931,Real Maldives FC,403434,real-maldives-fc,seychelles
+1932,Bel Air FC,460785,bel-air-fc,seychelles
+1933,Saint Louis Suns Utd,276720,saint-louis-suns-utd,seychelles
+1934,Cote d'Or,134324,cote-dor-fc,seychelles
+1935,Revengers,1119866,revengers,seychelles
+1936,St Michel United,445568,st-michel-united,seychelles
+1937,Foresters FC,403430,foresters-fc,seychelles
+1938,Light Stars Fc,305240,light-stars-fc,seychelles
+1939,East End Lions FC,381902,east-end-lions-fc,sierra-leone
+1940,Bhantal FC,496455,bhantal-fc,sierra-leone
+1941,Bo Rangers FC,381900,bo-rangers-fc,sierra-leone
+1942,FC Kallon,381903,fc-kallon,sierra-leone
+1943,Bai Bureh Warriors FC,381897,bai-bureh-warriors-fc,sierra-leone
+1944,Old Edwardians FC,381891,old-edwardians-fc,sierra-leone
+1945,Wilberforce Strikers FC,496451,wilberforce-strikers-fc,sierra-leone
+1946,Diamond Stars,134334,diamond-stars,sierra-leone
+1947,Star Sport Academy,1044584,star-sport-academy,sierra-leone
+1948,Ports Authority FC,381887,ports-authority-fc,sierra-leone
+1949,Wusum Stars FC,381893,wusum-stars-fc,sierra-leone
+1950,SLIFA Mount Aureol FC,496450,slifa-mount-aureol-fc,sierra-leone
+1951,Abacha City FC,1043975,abacha-city-fc,sierra-leone
+1952,Luawa FC,459257,luawa-fc,sierra-leone
+1953,Mighty Blackpool FC,381889,mighty-blackpool-fc,sierra-leone
+1954,Kamboi Eagles FC,381894,kamboi-eagles-fc,sierra-leone
+1955,Bullom Stars FC,1044583,bullom-stars-fc,sierra-leone
+1956,Freetown City FC,381898,freetown-city-fc,sierra-leone
+1957,Lion City Sailors,3041,lion-city-sailors,singapore
+1958,Albirex Niigata Singapore,34081,albirex-niigata-singapore,singapore
+1959,Balestier Khalsa,3039,balestier-central,singapore
+1960,Tampines Rovers,3043,tampines-rovers,singapore
+1961,Geylang International,3044,geylang-international,singapore
+1962,Tanjong Pagar United,3038,tanjong-pagar-united,singapore
+1963,Young Lions,34082,young-lions,singapore
+1964,Hougang United,34083,hougang-united,singapore
+1965,SCSA Eagles,502024,scsa-eagles,sint-maarten
+1966,United Super Stars FC,1075213,united-super-stars-fc,sint-maarten
+1967,FC Belvedere,502023,fc-belvedere,sint-maarten
+1968,758 Sports Club,502022,758-sports-club,sint-maarten
+1969,FC Soualiga,502021,fc-soualiga,sint-maarten
+1970,Oualichi SA,1075214,oualichi-sa,sint-maarten
+1971,FC Spartak Trnava,2406,fc-spartak-trnava,slovakia
+1972,AS Trenčín,2398,as-trencin,slovakia
+1973,DAC 1904,23833,dac-1904,slovakia
+1974,MŠK Žilina,2402,msk-zilina,slovakia
+1975,ŠK Slovan Bratislava,2404,sk-slovan-bratislava,slovakia
+1976,MFK Zemplín Michalovce,7885,mfk-zemplin-michalovce,slovakia
+1977,FK Železiarne Podbrezová,7887,fk-zeleziarne-podbrezova,slovakia
+1978,MFK Skalica,111061,mfk-skalica,slovakia
+1979,FC Košice,168476,fc-kosice,slovakia
+1980,1. FC Tatran Prešov,2403,1-fc-tatran-presov,slovakia
+1981,KFC Komárno,189813,kfc-komarno,slovakia
+1982,MFK Ružomberok,2397,mfk-ruzomberok,slovakia
+1983,NK Celje,2413,nk-celje,slovenia
+1984,FC Koper,2417,fc-koper,slovenia
+1985,NK Olimpija Ljubljana,2416,nk-olimpija-ljubljana,slovenia
+1986,NK Aluminij Kidričevo,2424,nk-aluminij-kidricevo,slovenia
+1987,NK Maribor,2420,nk-maribor,slovenia
+1988,NK Bravo,261800,nk-bravo,slovenia
+1989,Kalcer Radomlje,37737,kalcer-radomlje,slovenia
+1990,NŠ Mura,213357,ns-mura,slovenia
+1991,ND Primorje,2414,nd-primorje,slovenia
+1992,NK Domžale,2418,nk-domzale,slovenia
+1993,KOSSA FC Honiara,371195,kossa-fc-honiara,solomon-islands
+1994,Central Coast,371202,central-coast,solomon-islands
+1995,Green Shield,1087198,green-shield,solomon-islands
+1996,FC Malaita Kingz,371196,fc-malaita-kingz,solomon-islands
+1997,Honiara City FC,371200,fc-honiara-city,solomon-islands
+1998,Marist FC,246594,marist-fc,solomon-islands
+1999,SOSA FC,470827,sosa-fc,solomon-islands
+2000,Juniper FC,470826,juniper-fc,solomon-islands
+2001,Laugu United Honiara,371201,laugu-united-honiara,solomon-islands
+2002,FC Southern United Honiara,371199,fc-southern-united-honiara,solomon-islands
+2003,GHUPO FC,1087197,ghupo-fc,solomon-islands
+2004,Waneagu United FC,383571,waneagu-united-fc,solomon-islands
+2005,Mogadisho City Club,517780,mogadisho-city-club,somalia
+2006,Heegan,517778,heegan,somalia
+2007,Horseed,326976,horseed,somalia
+2008,FC Dekadaha,290054,fc-dekadaha,somalia
+2009,Elman,517779,elman,somalia
+2010,Gaadiidka FC,486191,gaadiidka-fc,somalia
+2011,Jeenyo,517783,jeenyo,somalia
+2012,Kigs SC,517776,kigs-sc,somalia
+2013,Badbaado,517784,badbaado,somalia
+2014,Raadsan,517782,raadsan,somalia
+2015,Gasco FC,1039627,gasco-fc,somalia
+2016,Madbacada FC,1039626,madbacada-fc,somalia
+2017,Sekhukhune United,371341,sekhukhune-united,south-africa
+2018,Kaizer Chiefs,7663,kaizer-chiefs,south-africa
+2019,Mamelodi Sundowns,7665,mamelodi-sundowns,south-africa
+2020,TS Galaxy,295408,ts-galaxy,south-africa
+2021,Orlando Pirates,7668,orlando-pirates,south-africa
+2022,Durban City FC,829159,durban-city-fc-2024,south-africa
+2023,AmaZulu FC,7655,amazulu-fc,south-africa
+2024,Marumo Gallants FC,263077,marumo-gallants-fc,south-africa
+2025,Lamontville Golden Arrows,7664,lamontville-golden-arrows,south-africa
+2026,Polokwane City,25002,polokwane-city,south-africa
+2027,Siwelele FC,1113108,siwelele-fc,south-africa
+2028,Richards Bay FC,263079,richards-bay-fc,south-africa
+2029,Stellenbosch,43555,stellenbosch,south-africa
+2030,Magesi FC,90844,magesi-fc,south-africa
+2031,ORBIT College FC,275818,orbit-college-fc,south-africa
+2032,Chippa United,70946,chippa-united,south-africa
+2033,Jeonbuk Hyundai Motors,6908,jeonbuk-hyundai-motors,south-korea
+2034,Gimcheon Sangmu FC,7647,gimcheon-sangmu-fc,south-korea
+2035,Daejeon Hana Citizen,7645,daejeon-hana-citizen,south-korea
+2036,Pohang Steelers,7650,pohang-steelers,south-korea
+2037,Gangwon FC,34220,gangwon-fc,south-korea
+2038,FC Seoul,7646,fc-seoul,south-korea
+2039,Gwangju FC,48912,gwangju-fc,south-korea
+2040,Ulsan HD,7653,ulsan-hd,south-korea
+2041,FC Anyang,32675,fc-anyang,south-korea
+2042,Suwon FC,41261,suwon-fc,south-korea
+2043,Jeju SK,7649,jeju-united,south-korea
+2044,Daegu FC,7644,daegu-fc,south-korea
+2045,Jamus SSC,1048175,jamus-ssc,south-sudan
+2046,Kator FC,1048173,kator-fc,south-sudan
+2047,El Merriekh Bentiu,531368,al-merriekh-bentiu,south-sudan
+2048,Holy Family FC,1048172,holy-family-fc,south-sudan
+2049,Koryom FC,1048176,koryom-fc,south-sudan
+2050,Malakia SSC,1048164,malakia-ssc,south-sudan
+2051,Wajuma FC,1048166,wajuma-fc,south-sudan
+2052,Salam Aweil FC,1048169,salam-aweil,south-sudan
+2053,Al-Hilal Wau,1048174,al-hilal-wau,south-sudan
+2054,Olympic Renk,1048165,olympic-renk,south-sudan
+2055,Bentiu City SC,1048171,bentiu-city-sc,south-sudan
+2056,Lion Hunters,1048170,lion-hunters,south-sudan
+2057,Young Stars FC,1048167,young-stars-fc,south-sudan
+2058,Nile City FC,1048168,nile-city-fc,south-sudan
+2059,SV Robinhood,322627,sv-robinhood,suriname
+2060,SV Transvaal,410519,sv-transvaal,suriname
+2061,SV Voorwaarts,410515,sv-voorwaarts,suriname
+2062,SV Notch,410518,sv-notch,suriname
+2063,Politie Voetbal Vereniging,410511,politie-voetbal-vereniging,suriname
+2064,Inter Moengotapoe,410521,inter-moengotapoe,suriname
+2065,Inter Wanica,410520,inter-wanica,suriname
+2066,SV Leo Victor,410517,sv-leo-victor,suriname
+2067,SV Flora,460144,sv-flora,suriname
+2068,SV Broki,410516,sv-broki,suriname
+2069,Mjällby AIF,1783,mjallby-aif,sweden
+2070,Hammarby IF,1758,hammarby-if,sweden
+2071,AIK,1764,aik,sweden
+2072,Malmö FF,1892,malmo-ff,sweden
+2073,GAIS,1786,gais-goteborg,sweden
+2074,IFK Göteborg,1761,ifk-goteborg,sweden
+2075,IF Elfsborg,1762,if-elfsborg,sweden
+2076,Djurgårdens IF,1759,djurgardens-if,sweden
+2077,IF Brommapojkarna,1787,if-brommapojkarna,sweden
+2078,BK Häcken,1760,bk-hacken,sweden
+2079,IFK Norrköping,1769,ifk-norrkoping,sweden
+2080,IK Sirius,1793,ik-sirius,sweden
+2081,Halmstads BK,1767,halmstads-bk,sweden
+2082,Östers IF,1781,osters-if,sweden
+2083,Degerfors IF,1807,degerfors-if,sweden
+2084,IFK Värnamo,1842,ifk-varnamo,sweden
+2085,FC Thun,2454,fc-thun,switzerland
+2086,FC St. Gallen 1879,2442,fc-st-gallen-1879,switzerland
+2087,Basel,2501,basel,switzerland
+2088,FC Luzern,2453,fc-luzern,switzerland
+2089,Young Boys,2445,young-boys,switzerland
+2090,FC Sion,2452,fc-sion,switzerland
+2091,FC Zürich,2450,fc-zurich,switzerland
+2092,Grasshopper Club Zürich,2449,grasshopper-club-zurich,switzerland
+2093,FC Lausanne-Sport,2446,fc-lausanne-sport,switzerland
+2094,FC Lugano,2443,fc-lugano,switzerland
+2095,Servette FC,2448,servette-fc,switzerland
+2096,FC Winterthur,2458,fc-winterthur,switzerland
+2097,CSKA Dushanbe,256633,cska-dushanbe,tajikistan
+2098,FC Istiklol,189871,fc-istiklol,tajikistan
+2099,FC Vakhsh Bokhtar,314166,fc-vakhsh-bokhtar,tajikistan
+2100,Ravshan,86064,ravshan,tajikistan
+2101,FC Khujand,403557,fc-khujand,tajikistan
+2102,Regar-TadAZ,86348,regar-tadaz,tajikistan
+2103,FC Eskhata,277020,fc-eskhata,tajikistan
+2104,FC Barkchi,248591,fc-barkchi,tajikistan
+2105,Khosilot Parkhar,244991,khosilot-parkhar,tajikistan
+2106,FC Istaravshan,308848,fc-istaravshan,tajikistan
+2107,Hulbuk,268099,hulbuk,tajikistan
+2108,Panjshir,264157,panjshir,tajikistan
+2109,Azam FC,212411,azam-fc,tanzania
+2110,Coastal Union,212413,coastal-union,tanzania
+2111,Dodoma Jiji FC,360785,dodoma-jiji-fc,tanzania
+2112,Fountain Gate,426058,singida-bs-fc,tanzania
+2113,JKT Tanzania,296055,jkt-tanzania,tanzania
+2114,KMC FC,296103,kmc-fc,tanzania
+2115,Mashujaa FC,376323,mashujaa-fc,tanzania
+2116,Mbeya City FC,212414,mbeya-city-fc,tanzania
+2117,Mtibwa Sugar,212407,mtibwa-sugar,tanzania
+2118,Namungo FC,327299,namungo-fc,tanzania
+2119,Pamba SC,318547,pamba-sc,tanzania
+2120,Simba SC,212409,simba-sc,tanzania
+2121,Singida Black Stars SC,353799,ihefu-fc,tanzania
+2122,Tabora United,380759,tabora-united,tanzania
+2123,Tanzania Prisons,212406,tanzania-prisons,tanzania
+2124,Young Africans Sport Club,134320,young-africans-sport-club,tanzania
+2125,Buriram United,34218,buriram-united,thailand
+2126,Muang Thong United,39946,muang-thong-united,thailand
+2127,Ratchaburi,85743,ratchaburi,thailand
+2128,True Bangkok United,85741,true-bangkok-united,thailand
+2129,Ayutthaya United,256902,ayutthaya-united,thailand
+2130,Port FC,40661,port-fc,thailand
+2131,BG Pathum United,35607,bg-pathum-united,thailand
+2132,Chiangrai United,66566,chiangrai-united,thailand
+2133,Sukhothai,212198,sukhothai,thailand
+2134,Nakhon Ratchasima Mazda FC,188874,nakhon-ratchasima-mazda-fc,thailand
+2135,PT Prachuap FC,252115,pt-prachuap-fc,thailand
+2136,Chonburi FC,35886,chonburi,thailand
+2137,Kanchanaburi Power FC,393338,dragon-pathumwan-kanchanaburi,thailand
+2138,Lamphun Warrior,310778,lamphun-warrior,thailand
+2139,Rayong FC,254730,rayong-fc,thailand
+2140,Uthai Thani FC,338810,uthai-thani-fc,thailand
+2141,Folaha Marist Kauvai,556523,folaha-marist-kauvai,tonga
+2142,Lavengatonga FC,556518,lavengatonga-fc,tonga
+2143,Veitongo FC,556524,veitongo-fc,tonga
+2144,Longoteme FC,931718,longoteme-fc,tonga
+2145,Marist Ma'ufanga FC,556520,marist-maufanga-fc,tonga
+2146,Fahefa FC,931712,fahefa-fc,tonga
+2147,Fua'amotu FC,931716,fuaamotu-fc,tonga
+2148,Lapaha FC,931715,lapaha-fc,tonga
+2149,'Atataa FC,931713,atataa-fc,tonga
+2150,Afaa II,931714,afaa-ii,tonga
+2151,Defence Force FC,246035,defence-force-fc,trinidad-and-tobago
+2152,Central FC,201262,central-fc,trinidad-and-tobago
+2153,Police FC,231913,police-fc,trinidad-and-tobago
+2154,AC Port Of Spain,340384,ac-port-of-spain,trinidad-and-tobago
+2155,San Juan Jabloteh,36403,san-juan-jabloteh,trinidad-and-tobago
+2156,Club Sando Moruga,246027,club-sando-moruga,trinidad-and-tobago
+2157,Morvant Caledonia United,73718,morvant-caledonia-united,trinidad-and-tobago
+2158,La Horquetta Rangers,245988,la-horquetta-rangers,trinidad-and-tobago
+2159,FC Phoenix 1976,498823,fc-phoenix-1976,trinidad-and-tobago
+2160,Prisons FC,477699,prisons-fc,trinidad-and-tobago
+2161,Eagles FC,340385,eagles-fc,trinidad-and-tobago
+2162,Point Fortin FC,289211,point-fortin-fc,trinidad-and-tobago
+2163,ES Zarzis,59630,es-zarzis,tunisia
+2164,Club Africain,39618,club-africain,tunisia
+2165,Espérance Tunis,59628,esperance-tunis,tunisia
+2166,Stade Tunisien,59636,stade-tunisien,tunisia
+2167,ES Métlaoui,112647,es-metlaoui,tunisia
+2168,US Monastir,59638,us-monastir,tunisia
+2169,JS Omrane,341145,js-omrane,tunisia
+2170,US Ben Guerdane,148874,us-ben-guerdane,tunisia
+2171,Avenir Sportif De Gabes,59616,avenir-sportif-de-gabes,tunisia
+2172,CS Sfaxien,44463,cs-sfaxien,tunisia
+2173,Etoile Sportive Du Sahel,35188,etoile-sportive-du-sahel,tunisia
+2174,Avenir Sportif De La Marsa,59614,avenir-sportif-de-la-marsa,tunisia
+2175,JS Kairouanaise,59632,js-kairouanaise,tunisia
+2176,CA Bizertin,59618,ca-bizertin,tunisia
+2177,Olympique Béja,59634,olympique-beja,tunisia
+2178,AS Soliman,274247,as-soliman,tunisia
+2179,Galatasaray,3061,galatasaray,turkey
+2180,Trabzonspor,3051,trabzonspor,turkey
+2181,Göztepe,3054,goztepe,turkey
+2182,Konyaspor,3085,konyaspor,turkey
+2183,Fenerbahçe,3052,fenerbahce,turkey
+2184,Samsunspor,3053,yilport-samsunspor,turkey
+2185,Antalyaspor,3056,antalyaspor,turkey
+2186,Gaziantep FK,5138,gaziantep-fk,turkey
+2187,Alanyaspor,6362,alanyaspor,turkey
+2188,Eyüpspor,7040,eyupspor,turkey
+2189,Beşiktaş,3050,besiktas,turkey
+2190,Fatih Karagümrük,4954,fatih-karagumruk,turkey
+2191,Başakşehir FK,3086,basaksehir-fk,turkey
+2192,Kayserispor,3072,kayserispor,turkey
+2193,Kocaelispor,3065,kocaelispor,turkey
+2194,Çaykur Rizespor,3064,caykur-rizespor,turkey
+2195,Kasımpaşa,6063,kasimpasa,turkey
+2196,Gençlerbirliği,7802,genclerbirligi,turkey
+2197,Arkadag FK,469420,arkadag-fk,turkmenistan
+2198,Ahal FK,186777,ahal-fk,turkmenistan
+2199,Altyn Asyr FK,164020,altyn-asyr-fk,turkmenistan
+2200,Şagadam FK,345700,sagadam-fk,turkmenistan
+2201,Nebitçi FT,165986,nebitci-ft,turkmenistan
+2202,Aşgabat FK,345719,asgabat-fk,turkmenistan
+2203,Merw FK,345697,merw-fk,turkmenistan
+2204,FK Köpetdag Aşgabat,345696,fk-kopetdag-asgabat,turkmenistan
+2205,Academy Eagles,497453,academy-eagles,turks-and-caicos-islands
+2206,SWA Sharks FC,485254,swa-sharks-fc,turks-and-caicos-islands
+2207,Beaches FC,939077,beaches-fc,turks-and-caicos-islands
+2208,Teachers FC,497456,teachers-fc,turks-and-caicos-islands
+2209,Provo United SC,939076,provo-united-sc,turks-and-caicos-islands
+2210,Cheshire Hall FC,497455,cheshire-hall-fc,turks-and-caicos-islands
+2211,Teachers Young Strikers FC,939075,teachers-young-strikers-fc,turks-and-caicos-islands
+2212,Vipers SC,203350,vipers-sc,uganda
+2213,NEC FC,406106,nec-fc,uganda
+2214,BUL FC,265589,bul-fc,uganda
+2215,Uganda Revenue Authority,265582,uganda-revenue-authority,uganda
+2216,Kampala City,134274,kampala-city,uganda
+2217,Kitara FC,371630,kitara-fc,uganda
+2218,Maroons,200961,maroons,uganda
+2219,SC Villa,265588,sc-villa,uganda
+2220,UPDF,203352,updf,uganda
+2221,Express FC,200962,express-fc,uganda
+2222,Police FC,265726,police-fc,uganda
+2223,Mbarara City,261798,mbarara-city,uganda
+2224,Lugazi FC,306770,lugazi-municipal-fc,uganda
+2225,Bright Stars,213040,bright-stars,uganda
+2226,Wakiso Giants F.C,294862,wakiso-giants-fc,uganda
+2227,Mbale Heroes,312518,kiboga-young-fc,uganda
+2228,Dynamo Kyiv,3305,dynamo-kyiv,ukraine
+2229,Shakhtar Donetsk,3313,shakhtar-donetsk,ukraine
+2230,Kolos Kovalivka,200776,kolos-kovalivka,ukraine
+2231,FC Kryvbas Kryvyi Rih,294048,fc-kryvbas-kryvyi-rih,ukraine
+2232,Kudrivka,316055,kudrivka-irpin,ukraine
+2233,Zorya Luhansk,5987,zorya-luhansk,ukraine
+2234,Metalist 1925,266889,metalist-1925,ukraine
+2235,Obolon Kyiv,138564,obolon-kyiv,ukraine
+2236,LNZ Cherkasy,284427,lnz-cherkasy,ukraine
+2237,Karpaty Lviv,3316,karpaty-lviv,ukraine
+2238,NK Veres Rivne,200773,veres-rivne,ukraine
+2239,Polissya Zhytomyr,258536,polissya-zhytomyr,ukraine
+2240,SC Poltava,319350,sc-poltava,ukraine
+2241,Rukh Lviv,229644,rukh-lviv,ukraine
+2242,FC Epicentr Dunaivtsi,323552,fc-epicentr-dunaivtsi,ukraine
+2243,Oleksandria,25479,oleksandria,ukraine
+2244,Al-Ain,37082,al-ain,united-arab-emirates
+2245,Al-Nasr Dubai,46332,al-nasr-dubai,united-arab-emirates
+2246,Al-Wahda FC,264115,al-wahda-fc,united-arab-emirates
+2247,Shabab Al-Ahli Dubai,264111,shabab-al-ahli-dubai,united-arab-emirates
+2248,Al-Dhafra,81305,al-dhafra,united-arab-emirates
+2249,Al Bataeh,331952,al-bataeh,united-arab-emirates
+2250,Al-Jazira,8090,al-jazira,united-arab-emirates
+2251,Khor Fakkan,234227,khor-fakkan,united-arab-emirates
+2252,Al-Ittihad Kalba,55705,al-ittihad-kalba,united-arab-emirates
+2253,Al-Sharjah,34060,al-sharjah,united-arab-emirates
+2254,Al Wasl,47674,al-wasl,united-arab-emirates
+2255,Dibba Al-Fujairah,81309,dibba-al-fujairah,united-arab-emirates
+2256,Ajman,58687,ajman,united-arab-emirates
+2257,Baniyas,58689,baniyas,united-arab-emirates
+2258,Philadelphia Union,39833,philadelphia-union,usa
+2259,FC Cincinnati,215167,fc-cincinnati,usa
+2260,Charlotte FC,404108,charlotte-fc,usa
+2261,Nashville SC,337612,nashville-sc,usa
+2262,Orlando City SC,52237,orlando-city-sc,usa
+2263,Inter Miami CF,337602,inter-miami-cf,usa
+2264,Columbus Crew,2504,columbus-crew,usa
+2265,New York City FC,187643,new-york-city-fc,usa
+2266,New York Red Bulls,2506,new-york-red-bulls,usa
+2267,Chicago Fire,2505,chicago-fire,usa
+2268,New England Revolution,2511,new-england-revolution,usa
+2269,Atlanta United,243211,atlanta-united,usa
+2270,Toronto FC,7080,toronto-fc,usa
+2271,CF Montréal,22006,cf-montreal,usa
+2272,DC United,2502,dc-united,usa
+2273,Nasaf Qarshi,34017,nasaf-qarshi,uzbekistan
+2274,Neftchi Fergana,36256,neftchi-fargona,uzbekistan
+2275,Dinamo Samarqand,40259,dinamo-samarqand,uzbekistan
+2276,FC OKMK,40268,fc-agmk,uzbekistan
+2277,Pakhtakor Tashkent,34310,pakhtakor-tashkent,uzbekistan
+2278,FC Bunyodkor,23481,fc-bunyodkor,uzbekistan
+2279,Navbahor Namangan,40263,navbahor-namangan,uzbekistan
+2280,PFK Qizilqum,40265,pfk-qizilqum,uzbekistan
+2281,Surkhon Termez,287019,surkhon-termez,uzbekistan
+2282,FC Sogdiana Jizzakh,48614,fc-sogdiana-jizzakh,uzbekistan
+2283,PFK Andijon,40267,pfk-andijon,uzbekistan
+2284,PFK Xorazm,40260,pfk-xorazm,uzbekistan
+2285,FK Kokand 1912,191273,fk-kokand-1912,uzbekistan
+2286,Mash Al Mubarek,40264,mash-al-mubarek,uzbekistan
+2287,FC Buxoro,48613,fc-buxoro,uzbekistan
+2288,PFC Shurtan,40262,pfc-shurtan,uzbekistan
+2289,ABM Galaxy FC,338553,abm-galaxy-fc,vanuatu
+2290,Ifira Black Bird,398624,ifira-black-bird,vanuatu
+2291,Mauriki FC,397749,mauriki-fc,vanuatu
+2292,North Efate United FC,397750,north-efate-united-fc,vanuatu
+2293,Naka FC,501041,naka-fc,vanuatu
+2294,Tupuji Imere FC,398623,tupuji-imere-fc,vanuatu
+2295,Deportivo La Guaira,36437,deportivo-la-guaira,venezuela
+2296,Deportivo Táchira,6231,deportivo-tachira,venezuela
+2297,Carabobo,6229,carabobo,venezuela
+2298,Monagas,6233,monagas,venezuela
+2299,Caracas F.C.,6230,caracas-fc,venezuela
+2300,Zamora,6237,zamora,venezuela
+2301,Academia Puerto Cabello,230725,academia-puerto-cabello,venezuela
+2302,Universidad Central,249952,ucv-fc,venezuela
+2303,Estudiantes de Mérida,7745,estudiantes-de-merida,venezuela
+2304,Rayo Zuliano,386310,rayo-zuliano,venezuela
+2305,Anzoátegui FC,418693,academia-anzoategui-fc,venezuela
+2306,Metropolitanos,162480,metropolitanos,venezuela
+2307,Portuguesa FC,6234,portuguesa-fc,venezuela
+2308,Yaracuyanos FC,36435,yaracuyanos-fc,venezuela
+2309,Ninh Bình FC,253057,phu-dong-ninh-binh,vietnam
+2310,Công An Hà Nội,193616,cong-an-ha-noi,vietnam
+2311,Thể Công - Viettel,231270,the-cong-viettel,vietnam
+2312,Nam Định,33127,nam-djinh,vietnam
+2313,Hồng Lĩnh Hà Tĩnh,309496,hong-linh-ha-tinh,vietnam
+2314,Công An Hồ Chí Minh City,33120,ho-chi-minh-city,vietnam
+2315,Hải Phòng,33124,hai-phong,vietnam
+2316,PVF-Công An Nhân Dân,465466,pvf-cong-an-nhan-dan,vietnam
+2317,Becamex Ho Chi Minh City FC,33119,becamex-binh-duong,vietnam
+2318,Sông Lam Nghệ An,33129,song-lam-nghe-an,vietnam
+2319,Hà Nội,33130,ha-noi,vietnam
+2320,SHB Đà Nẵng,33121,shb-dja-nang,vietnam
+2321,Hoàng Anh Gia Lai,33125,lpbank-hoang-anh-gia-lai,vietnam
+2322,Đông Á Thanh Hóa,33030,dong-a-thanh-hoa,vietnam
+2323,Caernarfon Town,4909,caernarfon-town,wales
+2324,Bala Town,36255,bala-town,wales
+2325,Penybont,115185,penybont,wales
+2326,Briton Ferry Llansawel AFC,130034,briton-ferry-llansawel-afc,wales
+2327,The New Saints,4921,the-new-saints,wales
+2328,Connah's Quay Nomads,4912,connahs-quay-nomads,wales
+2329,Barry Town,35186,barry-town,wales
+2330,Haverfordwest County AFC,4915,haverfordwest-county-afc,wales
+2331,Colwyn Bay,45005,colwyn-bay,wales
+2332,Flint Town United,37090,flint-town-united,wales
+2333,Cardiff Met FC,167106,cardiff-met-fc,wales
+2334,Llanelli AFC,4916,llanelli-afc,wales
+2335,Nchanga Rangers,191730,nchanga-rangers,zambia
+2336,FC Muza,308681,fc-muza,zambia
+2337,Zanaco,191878,zanaco,zambia
+2338,Nkana FC,134316,nkana-fc,zambia
+2339,Red Arrows,191734,red-arrows,zambia
+2340,Konkola Blades,191733,konkola-blades,zambia
+2341,Green Eagles,191725,green-eagles,zambia
+2342,Power Dynamos,191877,power-dynamos,zambia
+2343,ZESCO United,191184,zesco-united,zambia
+2344,Mufulira Wanderers,191732,mufulira-wanderers,zambia
+2345,Kabwe Warriors,215960,kabwe-warriors,zambia
+2346,Green Buffaloes,191879,green-buffaloes,zambia
+2347,Nkwazi,191727,nkwazi,zambia
+2348,Kansanshi Dynamos,327856,kansanshi-dynamos,zambia
+2349,Prison Leopards,308679,prison-leopards,zambia
+2350,NAPSA Stars,191728,napsa-stars,zambia
+2351,Mines United,1099217,mines-united,zambia
+2352,Mutondo Stars,485622,mutondo-stars,zambia
+2353,Simba Bhora FC,465301,simba-bhora-fc,zimbabwe
+2354,Scottland FC,1078496,scottland-fc,zimbabwe
+2355,Ngezi Platinum Stars FC,281225,ngezi-platinum,zimbabwe
+2356,MWOS FC,1078498,mwos-fc,zimbabwe
+2357,TelOne FC,313073,telone-fc,zimbabwe
+2358,Herentals College FC,281226,herentals-fc,zimbabwe
+2359,ZPC Kariba,281227,zpc-kariba,zimbabwe
+2360,FC Platinum,277304,fc-platinum,zimbabwe
+2361,Highlanders FC,281233,highlanders-fc,zimbabwe
+2362,Triangle United FC,281236,triangle-fc,zimbabwe
+2363,CAPS United,246937,caps-united,zimbabwe
+2364,Chicken Inn,281231,chicken-inn,zimbabwe
+2365,Manica Diamonds,313071,manica-diamonds,zimbabwe
+2366,Yadah FC,257812,yadah-fc,zimbabwe
+2367,Bikita Minerals,509544,zifa-ersl-champions,zimbabwe
+2368,Dynamos Harare FC,281232,dynamos-harare-fc,zimbabwe
+2369,GreenFuel FC,465302,greenfuel-fc,zimbabwe
+2370,Kwekwe United FC,1078497,kwekwe-united-fc,zimbabwe
+2371,Al Shamal SC,170366,al-shamal-sc,qatar
+2372,Qatar SC,25914,qatar-sc,qatar
+2373,Al-Wakrah,44440,al-wakrah,qatar
+2374,Al-Sadd,39733,al-sadd,qatar
+2375,Al-Gharafa,34312,al-gharafa,qatar
+2376,Al-Rayyan,40660,al-rayyan,qatar
+2377,Al-Arabi SC,44444,al-arabi-sc,qatar
+2378,Umm-Salal SC,32490,umm-salal-sc,qatar
+2379,Al Duhail,44441,al-duhail,qatar
+2380,Al-Shahaniya,170364,al-shahaniya,qatar
+2381,Al-Sailiya,44439,al-sailiya,qatar
+2382,Al-Ahli Doha,44443,al-ahli-doha,qatar
+2383,Nsingizini Hotspur,449743,nsingizini-hotspur,swaziland
+2384,Royal Leopards FC,390849,royal-leopards-fc,swaziland
+2385,Young Buffaloes FC,277109,young-buffaloes-fc,swaziland
+2386,Green Mamba FC,325660,green-mamba-fc,swaziland
+2387,Moneni Pirates,404702,moneni-pirates,swaziland
+2388,Illovo FC,488100,illovo-fc,swaziland
+2389,Mbabane Swallows,134330,mbabane-swallows,swaziland
+2390,Mbabane Highlanders,404708,mbabane-highlanders,swaziland
+2391,Ezulwini United FC,404699,ezulwini-united-fc,swaziland
+2392,Manzini Sea Birds,404709,manzini-sea-birds,swaziland
+2393,Sisonkhe FC,904898,sisonkhe-fc,swaziland
+2394,Rangers Shiselweni FC,404704,rangers-shiselweni-fc,swaziland
+2395,Sidvwashini United,904900,sidvwashini-united,swaziland
+2396,Madlenya,449742,madlenya,swaziland
+2397,Al Nahda SC,40648,al-nahda,oman
+2398,Sohar SC,99993,sohar,oman
+2399,Al Nasr S.C.S.C.,82259,al-nasr-scsc,oman
+2400,Bahla SC,185578,bahla,oman
+2401,Al Shabab SC Oman,57449,al-shabab-oman,oman
+2402,Oman Club SC,57443,oman-club,oman
+2403,Al Khaboora SC,173430,al-khaboora,oman
+2404,Al Seeb SC,71044,al-seeb,oman
+2405,Dhofar SC,57455,dhofar,oman
+2406,Ibri SC,333327,ibri-club,oman
+2407,Al Rustaq SC,185570,al-rustaq,oman
+2408,Saham SC,40647,saham,oman
+2409,Sur SC,57439,sur,oman
+2410,Samail SC,185588,samail-sc,oman
+2411,Al-Nassr,23400,al-nassr,saudi-arabia
+2412,Al-Ittihad,34315,al-ittihad,saudi-arabia
+2413,Al-Khaleej,167228,al-khaleej,saudi-arabia
+2414,Al-Qadsiah,56027,al-qadisiyah,saudi-arabia
+2415,Al-Hilal,21895,al-hilal,saudi-arabia
+2416,Al-Ettifaq,34318,al-ettifaq,saudi-arabia
+2417,Al-Fayha,168094,al-fayha,saudi-arabia
+2418,Al-Ahli,34469,al-ahli,saudi-arabia
+2419,Al-Hazem,168086,al-hazem,saudi-arabia
+2420,Damac FC,204126,damac-fc,saudi-arabia
+2421,Al-Fateh,56023,al-fateh,saudi-arabia
+2422,Al-Kholood,269199,al-kholood,saudi-arabia
+2423,Neom SC,530631,neom-sc,saudi-arabia
+2424,Al-Najma SC,395831,al-najma,saudi-arabia
+2425,Al-Riyadh,168088,al-riyadh,saudi-arabia
+2426,Al-Okhdood,336456,al-okhdood,saudi-arabia
+2427,Al-Shabab,34313,al-shabab,saudi-arabia
+2428,Al-Taawoun,56021,al-taawoun,saudi-arabia
+2429,Al Karamah,23479,al-karamah,syria
+2430,Al-Ittihad Ahli of Aleppo SC,40652,al-ittihad-ahli-of-aleppo-sc,syria
+2431,Al Wahda Damascus,86846,al-wahda-damascus,syria
+2432,Hutteen SC,189180,hutteen-sc,syria
+2433,Al-Wathba SC,271915,al-wathba-sc,syria
+2434,Al Taliya,186006,al-taliya,syria
+2435,Al-Fotuwa,391974,al-fotuwa,syria
+2436,Tishreen SC,157792,tishreen-sc,syria
+2437,Al-Jaish SC,40651,al-jaish-sc,syria
+2438,Jableh SC,233789,jableh-sc,syria
+2439,Al-Shouleh,827231,al-shouleh,syria
+2440,Al Shorta SC,261597,al-shorta-sc,syria
+2441,Peñarol,3227,penarol,uruguay
+2442,Boston River,174970,boston-river,uruguay
+2443,Montevideo City Torque,174972,montevideo-city-torque,uruguay
+2444,Cerro Largo,25009,cerro-largo,uruguay
+2445,Liverpool UY,6879,liverpool-uy,uruguay
+2446,Juventud de Las Piedras,3224,juventud-de-las-piedras,uruguay
+2447,Defensor Sporting,3229,defensor-sporting,uruguay
+2448,Nacional,3230,club-nacional-de-football,uruguay
+2449,Miramar Misiones,6880,miramar-misiones,uruguay
+2450,Cerro,22011,cerro,uruguay
+2451,Racing de Montevideo,25010,racing-de-montevideo,uruguay
+2452,Danubio,3228,danubio,uruguay
+2453,Montevideo Wanderers,3240,montevideo-wanderers,uruguay
+2454,Progreso,3238,progreso,uruguay
+2455,Plaza Colonia,3235,plaza-colonia,uruguay
+2456,River Plate UY,3237,river-plate-uy,uruguay
